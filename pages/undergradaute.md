@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-## A Hans-On Approach
+## A Hands-On Approach
 
 Students have a wide variety of internship opportunities and our classes emphasize experiential learning. Our internationally recognized “Inside Out” program offers the opportunity to attend classes in a prison.
 
