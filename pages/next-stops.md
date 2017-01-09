@@ -1,21 +1,25 @@
 ---
 title: Next Stops
-permalink: "/next-stops"
+permalink: /next-stops
 layout: page
+published: true
 ---
 
-## Heading
-We help connect students with internship and job  opportunities, as well as placement in prestigious master’s and PhD programs
+## Next Stops:
 
-## Our students have secured internships with:
-- Congresswoman Allyson Schwartz
-- Philadelphia Magazine
-- The Please Touch Museum
-- American Lung Association
+Criminal Justice students are in-demand in the workplace. Our graduates pursue a variety of careers in law, counseling, law enforcement, the courts system and corrections.
 
-## Recently, our alumni have secured coveted positions with the following employers:
+Potential career paths include:
 
-- Patient access representative at St. Luke’s University Health Network
-- Digital media coordinator at Love Beets
-- Therapeutic staff support at Foundations Behavioral Health
-- Teen education coordinator at Kingsbridge Heights Community Center
+- Federal Law Enforcement
+- Attorney
+- Judge
+- State and Local Law Enforcement
+- Probation/Parole Officer
+- Security Worker
+- Case Worker
+- Criminal Profiler
+- Investigator
+- Substance Abuse Counselor
+- Crime Analyst
+- Youth Counselor
