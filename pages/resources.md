@@ -158,3 +158,34 @@ The National Institute of Justice, Office of Justice Programs, United States Dep
 With respect to this software and documentation, neither Temple University, the United States Government nor any of their respective employees make any warranty, express or implied, including but not limited to the warranties of merchantability and fitness for a particular purpose. In no event will Dr J.H. Ratcliffe, Temple University, the United States Government or any of their respective employees be liable for direct, indirect, special, incidental, or consequential damages arising out of the use or inability to use the software or documentation. Neither Dr J.H. Ratcliffe, Temple University, the United States Government nor their respective employees are responsible for any costs including, but not limited to, those incurred as a result of lost profits or revenue, loss of time or use of software, loss of data, the costs of recovering such software or data, the cost of substitute software, or other similar costs. Any actions taken or documents printed as a result of using this software and its accompanying documentation remain the responsibility of the user.
 
 Download Software and Manual: [Near Repeat Calculator](http://www.cla.temple.edu/cj/files/2015/07/Near-Repeat-Calculator.zip)
+
+## Faculty Employment Opportunities
+
+The Department of Criminal Justice at Temple University seeks applicants for a tenure track
+appointment at the assistant professor level. The position will begin in the fall semester of
+2017. Applicants holding doctorates in Criminal Justice, Criminology, or a related social science
+discipline are strongly preferred. Related social science disciplines include but are not limited to
+areas such as African American Studies, Anthropology, Critical Studies, Geography, Latino
+Studies, Law and Society, Political Science, Public Health, Psychology, and Sociology. Highly
+qualified ABDs may be considered if evidence can be shown that completion of the Ph.D. will
+occur prior to fall 2017. Review of applications is currently ongoing and will continue until the
+position is filled. Early applications are encouraged. Consideration will not be given to those
+holding only a J.D. degree.
+
+The department has a strong commitment to high-quality, collaborative, interdisciplinary
+research, and currently supports 25 grants totaling in excess of $11m. Applicants must possess
+a demonstrated record of high quality scholarship and research productivity, and significant
+potential for extramural grants as well as a strong commitment to teaching excellence. Area of
+specialization is open. Candidates who can strengthen existing areas of department expertise
+will be given preference. Include a statement of interest and scholarly goals, teaching
+experience and philosophy, curriculum vitae, selected publications/writing samples, a preferred
+contact number and three letters of reference. Send materials electronically via e-mail to Ms.
+Tycina M. Leftwich (tycina.cousin@temple.edu). More information about the department can
+be found on the web at [www.temple.edu/cj](https://www.temple.edu/cj).
+
+Temple University is an Affirmative Action/Equal Opportunity employer and is committed to
+diversity and especially welcomes applications from women and members of underrepresented
+groups. The University has pledged not to discriminate on the basis of race, color,
+sex, age, religion, national origin, sexual orientation, marital status or disability.
+
+Click [here](http://www.cla.temple.edu/cj/files/2016/09/search_fall_2016_Temple-CJ.pdf) for the official announcement.
