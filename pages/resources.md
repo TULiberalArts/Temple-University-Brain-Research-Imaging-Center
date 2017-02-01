@@ -105,3 +105,56 @@ Testing is free.  Testing dates are for Full Time and Seasonal Police Officers, 
 ### Social Detection, Inc. is hiring
 
 Social Detection, Inc., a Philadelphia based investigation company specializing in online investigations, are excited to announce several positions for cyber analyst investigators at their Old City Philadelphia location. For more information visit:[http://www.socialdetection.com/]( http://www.socialdetection.com/)
+
+## Research Resources
+
+### Mechanics Of Applying For External Funding Through Temple
+
+In addition to Temple-sponsored funding for research, many faculty and students also apply for external research funding. Major sources for Criminal Justice funding include, but are not limited to the National Institutes of Health, the National Institute of Justice, and the Bureau of Justice Assistance. Please consult the websites of the specific agencies for current funding solicitations and deadlines.
+
+The Criminal Justice Department’s Research Committee has put together a document to illuminate the process for applying here at Temple. Click [here](http://www.cla.temple.edu/cj/files/2014/09/ExternalFundingGuide1.pdf) to view this document titled _‘Mechanics of Submitting a Grant Proposal for External Funding’_. This document should be viewed as a resource rather than the final word in how to apply.
+
+### Human Subjects Approval
+
+The Criminal Justice Department is committed to the highest ethical standards when conducting research involving human subjects. We follow the guidelines set out by Temple University and the federal government.
+
+Click [here](http://research.temple.edu/irb) to visit the Temple Institutional Review Board home page.
+
+Faculty in Criminal Justice endeavor to provide undergraduate students with ‘hands on’ class-related activities that often require them to do fieldwork or analyze data. Each faculty member is required to obtain approval from the IRB for these activities during the semester in which they are to be completed. The **IRB Approval Guide for Undergraduate Classroom Activities** document (under construction) provides details on the necessary paperwork to be filed by the faculty member. It also contains instructions for how undergraduate students should sign up and complete the undergraduate student version of the IRB training course.
+
+## Research Podcasts
+
+Click on the links below to hear brief podcasts summarizing research conducted by our graduate students and alumni!
+
+**Caitlin Taylor, PhD (Temple) Assistant Professor, LaSalle University**__
+Click [here](http://www.cla.temple.edu/cj/files/2014/10/CJ_PODCASTS_CAITLIN_TAYLOR_bb1.mp3) to listen to the podcast titled: "_Family Support and the Successful Reentry of Formerly Incarcerated Individuals_"
+
+Abstract: This PhD dissertation fills an important gap in the recidivism prediction literature by investigating the role of family support for individuals who have been deemed serious and violent offenders and recently released from state prisons.  As part of the evaluation of the Serious and Violent Offender Reentry Initiative (SVORI), 1,697 adult males and 357 adult females were interviewed 30 days prior to their release and then three, nine and 15 months following release.  Using the data collected from these interviews, this dissertation explores the relationship between emotional family support and instrumental family support and four measures of re offending: any self-reported criminal offending, any self reported violent offending, any self-reported drug offending and whether any arrest occurred (using official records from the National Crime Information Center) during each of the post-release follow up periods.
+Controlling for other known predictors of re offending, logistic regression models are used to predict the likelihood of re- offending. Considering respondent attrition over successive interview waves, all analyses are conducted using list wise deletion as well as multiple imputation to handle missing data.  Results generally reveal that emotional support is associated with a significant decrease in re-offending, while instrumental support is not significantly associated with re-offending. These findings have a variety of implications for correctional policies and programming, sentencing policies, post-release supervision policies and programming, criminological theory and future research.
+
+**Evan Sorg, PhD student (Temple)**__
+Click [here](http://www.cla.temple.edu/cj/files/2014/10/cj_podcasts_evan_sorg_final_2012052211.mp3) to listen to the podcast titled: "_Community Level Impacts of Temperature on Urban StreetRobbery"_ 
+
+Abstract: This study explores the community-level connections between street robbery and temperature. It examines whether community socioeconomic status (SES) and crime-relevant land uses strengthen or weaken the temperature impact. A theoretical framework relying on routine activity theory, crime pattern theory, and resident-based control dynamics organized predictions. Monthly street robbery counts and temperature data for 36 consecutive months were combined with census and land use data, and analyzed with multilevel models. Results suggest that community robbery counts were higher when temperatures were higher, and in lower SES communities. In support of previous work with property crime, but in contrast to previous work with assault, the effects of temperature were stronger in higher SES communities. In support of the integrated model, commercial land use prevalence and subway stations were associated with heightened temperature impacts on robbery.Community-level fixed and random effects of temperature persist when controlling for land use and community structure; further, the random effects depend in part on both. There are implications for understanding indigenous guardianship or informal resident-based place management dynamics, and for planning seasonal police deployments.
+
+**Cory Haberman, Phd student (Temple)**__
+Click [here](http://www.cla.temple.edu/cj/files/2014/09/coryrevised1.mp3) to listen to the podcast titled: _"The variable impacts of public housing community proximity on nearby street robberies"_
+
+Abstract: Objectives: Use crime pattern theory to investigate the proximity effects of public housing communities on robbery crime while taking into account the presence of nearby nonresidential facilities.
+Method: The study uses data describing 41 Philadelphia public housing communities and their surrounds. Surrounds are defined using two increments of street block-sized buffers. Multilevel models(buffer areas nested around public housing communities) allowing the proximity effect to vary across communities and predicting its shape with public housing level predictors are estimated.
+Results: The multilevel models show that the shape of proximity effects varies across public housing communities and depends on community size, even after factoring in presence of nonresidential facilities. Spatially,multiple public housing communities close to one another have more intense robbery patterns.
+Conclusions: Labeling all public housing communities as equally criminogenic robbery exporters is unwarranted. In fact, some communities have lower robbery counts than the areas surrounding them.Consequently, effectively addressing robbery in and around public housing communities will require careful consideration of where the problem is located. Locating public housing communities more than two blocks apart may reduce robbery.
+
+## Near Repeat Calculator
+
+The software program, Near Repeat Calculator (hereafter referred to as the “program”), was supported by Grant 2006-IJ-CX-K006 awarded by the National Institute of Justice, Office of Justice Programs, US Department of Justice. Points of view in this document are those of the author and do not necessarily represent the official position or policies of the US Department of Justice.
+
+The program is copyrighted by and the property of Temple University and is intended for the use of law enforcement agencies, criminal justice researchers, and educators. It can be distributed freely for educational or research purposes, but cannot be re-sold. It must be cited correctly in any publication or report that results from the program. The correct citation is:
+
+Ratcliffe, JH, Near Repeat Calculator (version 1.3). Temple University, Philadelphia, PA and the National Institute of Justice, Washington, DC. August 2009.
+
+The National Institute of Justice, Office of Justice Programs, United States Department of Justice reserves a royalty-free, non-exclusive, and irrevocable license to reproduce, publish, or otherwise use, and authorize others to use this program for Federal government purposes. This program cannot be distributed without the permission of both Temple University and the National Institute of Justice, except as noted above.
+
+With respect to this software and documentation, neither Temple University, the United States Government nor any of their respective employees make any warranty, express or implied, including but not limited to the warranties of merchantability and fitness for a particular purpose. In no event will Dr J.H. Ratcliffe, Temple University, the United States Government or any of their respective employees be liable for direct, indirect, special, incidental, or consequential damages arising out of the use or inability to use the software or documentation. Neither Dr J.H. Ratcliffe, Temple University, the United States Government nor their respective employees are responsible for any costs including, but not limited to, those incurred as a result of lost profits or revenue, loss of time or use of software, loss of data, the costs of recovering such software or data, the cost of substitute software, or other similar costs. Any actions taken or documents printed as a result of using this software and its accompanying documentation remain the responsibility of the user.
+
+Download Software and Manual: [Near Repeat Calculator](http://www.cla.temple.edu/cj/files/2015/07/Near-Repeat-Calculator.zip)
