@@ -46,12 +46,12 @@ During the non-academic summer periods between the freshmen/sophomore and sophom
 
 During the non-academic period between the junior/senior year, the ProRanger trainee will be enrolled in the 10 week Seasonal Law Enforcement Training Program (SLETP) held at Temple University.
 
-- For more information on the program click [here](http://www.temple.edu/provost/university-college/proranger/) for the ProRanger Philadelphia page. 
+- For more information on the program click [here](http://www.temple.edu/provost/university-college/proranger/) for the ProRanger Philadelphia page.
 - Click [here](http://prorangerphila.blogspot.com/) for the Proranger Philadelphia Blog
 
 ## The Inside-Out Prison-Exchange Program
 
-The Inside-Out course is a special group independent study in which a small group of “outside” students has class with a group of “inside” students in the Philadelphia Prison System and Graterford Prison. The program is an opportunity for everyone involved to explore issues of crime and justice behind the walls,in the hopes of deepening and transforming the dialogue about these issues. Information on the Inside-Our Program can be found on the [Inside-Out website](http://www.insideoutcenter.org/). The program’s e-mail address is [inout@temple.edu](mailto:inout@temple.edu). 
+The Inside-Out course is a special group independent study in which a small group of “outside” students has class with a group of “inside” students in the Philadelphia Prison System and Graterford Prison. The program is an opportunity for everyone involved to explore issues of crime and justice behind the walls,in the hopes of deepening and transforming the dialogue about these issues. Information on the Inside-Our Program can be found on the [Inside-Out website](http://www.insideoutcenter.org/). The program’s e-mail address is [inout@temple.edu](mailto:inout@temple.edu).
 
 ## Study Abroad Program
 
@@ -133,7 +133,7 @@ Abstract: This PhD dissertation fills an important gap in the recidivism predict
 Controlling for other known predictors of re offending, logistic regression models are used to predict the likelihood of re- offending. Considering respondent attrition over successive interview waves, all analyses are conducted using list wise deletion as well as multiple imputation to handle missing data.  Results generally reveal that emotional support is associated with a significant decrease in re-offending, while instrumental support is not significantly associated with re-offending. These findings have a variety of implications for correctional policies and programming, sentencing policies, post-release supervision policies and programming, criminological theory and future research.
 
 **Evan Sorg, PhD student (Temple)**__
-Click [here](http://www.cla.temple.edu/cj/files/2014/10/cj_podcasts_evan_sorg_final_2012052211.mp3) to listen to the podcast titled: "_Community Level Impacts of Temperature on Urban StreetRobbery"_ 
+Click [here](http://www.cla.temple.edu/cj/files/2014/10/cj_podcasts_evan_sorg_final_2012052211.mp3) to listen to the podcast titled: "_Community Level Impacts of Temperature on Urban StreetRobbery"_
 
 Abstract: This study explores the community-level connections between street robbery and temperature. It examines whether community socioeconomic status (SES) and crime-relevant land uses strengthen or weaken the temperature impact. A theoretical framework relying on routine activity theory, crime pattern theory, and resident-based control dynamics organized predictions. Monthly street robbery counts and temperature data for 36 consecutive months were combined with census and land use data, and analyzed with multilevel models. Results suggest that community robbery counts were higher when temperatures were higher, and in lower SES communities. In support of previous work with property crime, but in contrast to previous work with assault, the effects of temperature were stronger in higher SES communities. In support of the integrated model, commercial land use prevalence and subway stations were associated with heightened temperature impacts on robbery.Community-level fixed and random effects of temperature persist when controlling for land use and community structure; further, the random effects depend in part on both. There are implications for understanding indigenous guardianship or informal resident-based place management dynamics, and for planning seasonal police deployments.
 
@@ -181,7 +181,7 @@ will be given preference. Include a statement of interest and scholarly goals, t
 experience and philosophy, curriculum vitae, selected publications/writing samples, a preferred
 contact number and three letters of reference. Send materials electronically via e-mail to Ms.
 Tycina M. Leftwich (tycina.cousin@temple.edu). More information about the department can
-be found on the web at [www.temple.edu/cj](https://www.temple.edu/cj).
+be found on the web at [www.cla.temple.edu/cj](https://www.cla.temple.edu/cj).
 
 Temple University is an Affirmative Action/Equal Opportunity employer and is committed to
 diversity and especially welcomes applications from women and members of underrepresented
