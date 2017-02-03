@@ -1,5 +1,5 @@
 - name: "Cathy Rosen"
-  title: "_Chair, Associate Professor_"
+  title: <i>Chair, Associate Professor</i>
   room: "529"
   building: "Gladfelter Hall"
   email: "crosen@temple.edu"
@@ -7,10 +7,11 @@
   website: ""
   photo: "https://randomuser.me/api/portraits/men/12.jpg"
   expertise: "Criminal Law, Criminal Procedure, Legal History, Domestic Violence"
-  bio: "Professor Rosen came to the Department of Criminal Justice with a background in law teaching. After graduating from Temple University School of Law, she served as a law clerk to Pennsylvania Supreme Court Justice Samuel Roberts and worked as a civil litigator before returning to Temple to earn her LL.M. in Law Teaching. As a member of the Department of Criminal Justice faculty, her teaching and research interests have expanded beyond a narrow focus on Criminal Law and Criminal Procedure to a broader exploration of the intersection between the structure of legal doctrine and the criminal justice system, both today and in the past. She has written on topics ranging from battered women’s self-defense, the scope of the 4th amendment’s protection of the privacy of the contents of our bodies, and Jail law. More recent research focuses on reform of legal doctrine that enables racially disproportionate law enforcement and on exploration of how criminal justice research can be utilized to better inform legal decision-makers."
+  bio: >
+    Professor Rosen came to the Department of Criminal Justice with a background in law teaching. After graduating from Temple University School of Law, she served as a law clerk to Pennsylvania Supreme Court Justice Samuel Roberts and worked as a civil litigator before returning to Temple to earn her LL.M. in Law Teaching. As a member of the Department of Criminal Justice faculty, her teaching and research interests have expanded beyond a narrow focus on Criminal Law and Criminal Procedure to a broader exploration of the intersection between the structure of legal doctrine and the criminal justice system, both today and in the past. She has written on topics ranging from battered women’s self-defense, the scope of the 4th amendment’s protection of the privacy of the contents of our bodies, and Jail law. More recent research focuses on reform of legal doctrine that enables racially disproportionate law enforcement and on exploration of how criminal justice research can be utilized to better inform legal decision-makers.
 
 - name: "Joseph Alkus"
-  title: "_Instructor_"
+  title: <i>Instructor</i>
   room: "660"
   building: "Gladfelter Hall"
   email: "j.alkus@temple.edu"
@@ -18,10 +19,11 @@
   website: ""
   photo: "http://www.cla.temple.edu/cj/files/2014/10/Alkus-pic1.jpg"
   expertise: "Organized crime, Policing, Terrorism, Transnational crime, Public sector police employment"
-  bio: "My teaching at Temple University comes as a second career after spending nearly 30 years in law enforcement, the majority of which was spent in the federal government. I worked for over 27 years as a special agent in the U.S. Customs Service and its successor agency, the Department of Homeland Security. I conducted investigations into drug smuggling conspiracies, international money laundering, fraudulent entry of merchandise and export enforcement of critical technology and munitions laws. I also served as the Chief of State for the U.S. National Central Bureau of Interpol, the international police organization, as a founding member of the Financial Crimes Enforcement Network, (FinCEN) and numerous liaison positions in the federal sector. I have been an instructor at the Federal Law Enforcement Training Center in Brunswick, Georgia, where I taught case development skills, managing undercover investigations and confidential source development. I have also taught export control courses in conjunction with the U.S. government’s national security and counter proliferation programs at various locations overseas. Since coming to Temple, I have been teaching organized crime, white collar crime, the law enforcement and criminal justice introductory courses as well as the writing intensive course in critical issues in law enforcement. I developed and taught a new course called Terrorism, Transnational Crime and Global Security. In addition, I conduct career-oriented workshops on résumé preparation, navigating the federal job market, and interviewing for federal sector jobs."
+  bio: >
+    My teaching at Temple University comes as a second career after spending nearly 30 years in law enforcement, the majority of which was spent in the federal government. I worked for over 27 years as a special agent in the U.S. Customs Service and its successor agency, the Department of Homeland Security. I conducted investigations into drug smuggling conspiracies, international money laundering, fraudulent entry of merchandise and export enforcement of critical technology and munitions laws. I also served as the Chief of State for the U.S. National Central Bureau of Interpol, the international police organization, as a founding member of the Financial Crimes Enforcement Network, (FinCEN) and numerous liaison positions in the federal sector. I have been an instructor at the Federal Law Enforcement Training Center in Brunswick, Georgia, where I taught case development skills, managing undercover investigations and confidential source development. I have also taught export control courses in conjunction with the U.S. government’s national security and counter proliferation programs at various locations overseas. Since coming to Temple, I have been teaching organized crime, white collar crime, the law enforcement and criminal justice introductory courses as well as the writing intensive course in critical issues in law enforcement. I developed and taught a new course called Terrorism, Transnational Crime and Global Security. In addition, I conduct career-oriented workshops on résumé preparation, navigating the federal job market, and interviewing for federal sector jobs.
 
 - name: "Kate Auerhahn"
-  title: "_Associate Professor_"
+  title: <i>Associate Professor</i>
   room: "554"
   building: "Gladfelter Hall"
   email: "auerhahn@temple.edu"
@@ -29,10 +31,11 @@
   website: ""
   photo: "**WILL NOT ENTER A PICTURE UNTIL SHE SUBMITS A PROFESSIONAL ONE**"
   expertise: "Criminal justice policy analysis, Inequality and social control, Simulation modeling, Incarceration, Adjudication and sentencing"
-  bio: "My research focuses on issues of power, inequality, and (formal) social control. Combining theoretical and practical considerations, my work in the area of policy evaluation utilizes a realist framework. This research highlights the objectives of criminal justice policy reform as articulated by policymakers and compares the results with stated goals, while also considering of the public safety function of the criminal justice system and the responsibilities policymakers have to their constituents. In some of my work, I use simulation modeling to explore the consequences of reform from a systemic perspective, as well as more traditional quantitative and qualitative methods. I teach a variety of courses, including graduate and undergraduate statistics. My approach to teaching statistics is applied – while knowing how to calculate the number is important, advances in computing allow us to spend more time focusing on what the statistics mean and how to use them. I also teach courses on criminal justice policy, with an emphasis on the critical analysis and evaluation of these policies. Critical thinking and student participation in class discussions is an indispensable part of these courses. My goal is to get students to examine all sides of an issue, and hone the critical skills required to form their own conclusions."
+  bio: >
+    My research focuses on issues of power, inequality, and (formal) social control. Combining theoretical and practical considerations, my work in the area of policy evaluation utilizes a realist framework. This research highlights the objectives of criminal justice policy reform as articulated by policymakers and compares the results with stated goals, while also considering of the public safety function of the criminal justice system and the responsibilities policymakers have to their constituents. In some of my work, I use simulation modeling to explore the consequences of reform from a systemic perspective, as well as more traditional quantitative and qualitative methods. I teach a variety of courses, including graduate and undergraduate statistics. My approach to teaching statistics is applied – while knowing how to calculate the number is important, advances in computing allow us to spend more time focusing on what the statistics mean and how to use them. I also teach courses on criminal justice policy, with an emphasis on the critical analysis and evaluation of these policies. Critical thinking and student participation in class discussions is an indispensable part of these courses. My goal is to get students to examine all sides of an issue, and hone the critical skills required to form their own conclusions.
 
 - name: "Steven Belenko"
-  title: "_Professor_"
+  title: <i>Professor</i>
   room: "558-9"
   building: "Gladfelter Hall"
   email: "sbelenko@temple.edu"
@@ -40,10 +43,11 @@
   website: ""
   photo: "http://www.cla.temple.edu/cj/files/2015/06/Steven-Belenko-May-2015.jpg"
   expertise: "Substance abuse treatment, Prisons, HIV risks and service needs, Criminal justice and public health, Implementation science, Organizational change, Interventions, Research methods and evaluation"
-  bio: "Steven Belenko, Ph.D. is Professor in the Temple University Department of Criminal Justice, and is also affiliated with the University of Pennsylvania School of Medicine as adjunct Professor of Psychology in the Department of Psychiatry, Before joining the Temple faculty in August 2006, Dr. Belenko was a Senior Scientist at the Treatment Research Institute at the University of Pennsylvania, and a Fellow at the National Center on Addiction and Substance Abuse at Columbia University. Prior positions were held at the New York City Criminal Justice Agency, New York City Office of the Mayor, Vera Institute of Justice, and Mathematica Policy Research. Dr. Belenko is a nationally recognized scholar on the impact of substance abuse on the adult and juvenile justice systems, HIV risk behaviors and related service needs for offenders, and the integration of treatment and other services in criminal justice settings (including drug courts, diversion programs, and prisons). His current and recent research has involved improving implementation of evidence-based drug treatment in criminal justice settings; developing and testing organizational change and process improvement strategies to improve the implementation of treatment and other health services for inmates and probationers; prevalence, risk factors, and service needs for sexually transmitted infections among juvenile delinquents; development and testing of brief interventions for delinquents at risk for substance abuse; modeling economic costs and benefits of prison treatment, screening and admission processes in drug courts and mental health courts; computerized therapeutic interventions for drug-involved inmates; and improving use of evidence-based practices in juvenile drug courts. He has been principal investigator on numerous grants from the National Institutes of Health, National Institute on Drug Abuse including the Temple University Center for Adolescent Implementation Research, recently funded by the National Institute on Drug Abuse. Dr. Belenko has published numerous articles and book chapters, and is the author of four books: Crack and the Evolution of Antidrug Policy (winner of the American Library Association’s Choice Magazine academic book of the year award), Drugs and Drug Policy in America: A Documentary History, Implementing Evidence Based Addiction Treatment in Community Corrections (with Dr. Faye Taxman), and Drugs, Crime and Justice (with Dr. Cassia Spohn). Dr. Belenko received his B.S. in applied mathematics and Ph.D. in experimental psychology from Columbia University."
+  bio: >
+    Steven Belenko, Ph.D. is Professor in the Temple University Department of Criminal Justice, and is also affiliated with the University of Pennsylvania School of Medicine as adjunct Professor of Psychology in the Department of Psychiatry, Before joining the Temple faculty in August 2006, Dr. Belenko was a Senior Scientist at the Treatment Research Institute at the University of Pennsylvania, and a Fellow at the National Center on Addiction and Substance Abuse at Columbia University. Prior positions were held at the New York City Criminal Justice Agency, New York City Office of the Mayor, Vera Institute of Justice, and Mathematica Policy Research. Dr. Belenko is a nationally recognized scholar on the impact of substance abuse on the adult and juvenile justice systems, HIV risk behaviors and related service needs for offenders, and the integration of treatment and other services in criminal justice settings (including drug courts, diversion programs, and prisons). His current and recent research has involved improving implementation of evidence-based drug treatment in criminal justice settings; developing and testing organizational change and process improvement strategies to improve the implementation of treatment and other health services for inmates and probationers; prevalence, risk factors, and service needs for sexually transmitted infections among juvenile delinquents; development and testing of brief interventions for delinquents at risk for substance abuse; modeling economic costs and benefits of prison treatment, screening and admission processes in drug courts and mental health courts; computerized therapeutic interventions for drug-involved inmates; and improving use of evidence-based practices in juvenile drug courts. He has been principal investigator on numerous grants from the National Institutes of Health, National Institute on Drug Abuse including the Temple University Center for Adolescent Implementation Research, recently funded by the National Institute on Drug Abuse. Dr. Belenko has published numerous articles and book chapters, and is the author of four books: Crack and the Evolution of Antidrug Policy (winner of the American Library Association’s Choice Magazine academic book of the year award), Drugs and Drug Policy in America: A Documentary History, Implementing Evidence Based Addiction Treatment in Community Corrections (with Dr. Faye Taxman), and Drugs, Crime and Justice (with Dr. Cassia Spohn). Dr. Belenko received his B.S. in applied mathematics and Ph.D. in experimental psychology from Columbia University.
 
 - name: "Jamie Fader"
-  title: "_Assistant Professor, Graduate Chair_"
+  title: <i>Assistant Professor, Graduate Chair</i>
   room: "552"
   building: "Gladfelter Hall"
   email: "jfader@temple.edu"
@@ -51,10 +55,11 @@
   website: ""
   photo: "http://www.cla.temple.edu/cj/files/2015/04/Jamie-Fader1.jpg"
   expertise: "Juvenile justice, Life course/ desistance, Social inequality, Prisoner reentry, Urban crime, Qualitative research methods"
-  bio: "Dr. Fader’s primary research interests are in urban social inequality and crime; juvenile justice; corrections; desistance and prisoner reentry; life course sociology and criminology, especially the transition to adulthood; and qualitative research methods. Her current research includes: (1) a study of employment and desistance from offending among young men in Frankford, Philadelphia; (2) an exploration of apprehension avoidance strategies and other risk reduction techniques employed by urban drug sellers; (3) a study of the relationship between legal and illegal work among urban drug sellers; and (4) an examination of the educational outcomes for youths involved in the juvenile justice system."
+  bio: >
+    Dr. Fader’s primary research interests are in urban social inequality and crime; juvenile justice; corrections; desistance and prisoner reentry; life course sociology and criminology, especially the transition to adulthood; and qualitative research methods. Her current research includes: (1) a study of employment and desistance from offending among young men in Frankford, Philadelphia; (2) an exploration of apprehension avoidance strategies and other risk reduction techniques employed by urban drug sellers; (3) a study of the relationship between legal and illegal work among urban drug sellers; and (4) an examination of the educational outcomes for youths involved in the juvenile justice system.
 
 - name: "Elizabeth Groff"
-  title: "_Associate Professor, Undergraduate Chair_"
+  title: <i>Associate Professor, Undergraduate Chair</i>
   room: "531"
   building: "Gladfelter Hall"
   email: "groff@temple.edu"
@@ -62,10 +67,11 @@
   website: "http://elizabethgroff.net/"
   photo: "http://www.cla.temple.edu/cj/files/2014/10/20131114_Groff_0021-200x300.jpg"
   expertise: "Crime and place, Modeling geographical influences on human activity, Agent-based modeling , Crime prevention, Technology in policing"
-  bio: "She has a Ph.D. in Geography (2006) and an MA (2005) in Criminology and Criminal Justice from the University of Maryland, College Park and a BS (1992) and MA (1994) in Geography from the University of North Carolina at Charlotte. As you might imagine Elizabeth is no stranger to applied research. In fact she has spent the last twenty years applying geographic theory and methodology to the study of crime-related issues at both the local and national levels. At the local level, she institutionalized the use of geographic information systems (GIS) at the Charlotte-Mecklenburg Police Department. At the national level, Dr. Groff ran the NIJ Crime Mapping Research Center from 2001-02 where she promoted the analytic use of mapping in criminal justice agencies. For the next five years she was a Senior Research Associate at the non-profit criminal justice research firm, Institute for Law and Justice where she conducted a variety of research initiatives including the development of an agent-based simulation model of robbery, the application of mobility triangles to understanding homicide, and an evaluation of efficiency, effectiveness, and enabling impacts of COPS MORE funding. As an early innovator in the use of GIS within law enforcement agencies, she has focused on developing evidence to improve police practice. Groff’s research has revealed which type of map communicates crime information without increasing fear (Groff, Kearley, Beatty, Couture, & Wartell, 2005), the efficacy of foot patrol for reducing violent crime if deployed at small, high crime places in sufficient strength (Ratcliffe, Taniguchi, Groff, & Wood, 2011), and that commanders are able to increase patrol at hot spots when they are provided with reports documenting the level of patrol achieved (Weisburd, Groff, Jones, Amendola and Cave, 2012). These important findings have natural implications for police practice and policy."
+  bio: >
+    She has a Ph.D. in Geography (2006) and an MA (2005) in Criminology and Criminal Justice from the University of Maryland, College Park and a BS (1992) and MA (1994) in Geography from the University of North Carolina at Charlotte. As you might imagine Elizabeth is no stranger to applied research. In fact she has spent the last twenty years applying geographic theory and methodology to the study of crime-related issues at both the local and national levels. At the local level, she institutionalized the use of geographic information systems (GIS) at the Charlotte-Mecklenburg Police Department. At the national level, Dr. Groff ran the NIJ Crime Mapping Research Center from 2001-02 where she promoted the analytic use of mapping in criminal justice agencies. For the next five years she was a Senior Research Associate at the non-profit criminal justice research firm, Institute for Law and Justice where she conducted a variety of research initiatives including the development of an agent-based simulation model of robbery, the application of mobility triangles to understanding homicide, and an evaluation of efficiency, effectiveness, and enabling impacts of COPS MORE funding. As an early innovator in the use of GIS within law enforcement agencies, she has focused on developing evidence to improve police practice. Groff’s research has revealed which type of map communicates crime information without increasing fear (Groff, Kearley, Beatty, Couture, & Wartell, 2005), the efficacy of foot patrol for reducing violent crime if deployed at small, high crime places in sufficient strength (Ratcliffe, Taniguchi, Groff, & Wood, 2011), and that commanders are able to increase patrol at hot spots when they are provided with reports documenting the level of patrol achieved (Weisburd, Groff, Jones, Amendola and Cave, 2012). These important findings have natural implications for police practice and policy.
 
 - name: "M. Kay Harris"
-  title: "_Associate Professor Emerita_"
+  title: <i>Associate Professor Emerita</i>
   room: ""
   building: "Gladfelter Hall"
   email: "mkay@temple.edu"
@@ -73,10 +79,11 @@
   website: ""
   photo: ""
   expertise: "Restorative and Transformative Justice, Transformation by Persons in the Arms of the Law"
-  bio: "M. Kay Harris is an emerita member of the Graduate Faculty in the Department of Criminal Justice. She serves on the Executive Committee of the International Steering Committee of the Inside-Out Prison Exchange Program. She also is an external member of the Inside-Out Think Tank and of the Lifers’ Public Safety Initiative at the State Correctional Institution at Graterford. Kay continues to coordinate interactive workshops for Temple students with men who are serving life sentences at the State Correctional Institution at Chester. Her current scholarly and advocacy work focuses on issues related to the role of incarcerated and formerly incarcerated people in enhancing public safety, rethinking dominant justice paradigms, reduction of prison and jail populations, sentencing, parole, alternatives to incarceration, and restorative and transformative justice."
+  bio: >
+    M. Kay Harris is an emerita member of the Graduate Faculty in the Department of Criminal Justice. She serves on the Executive Committee of the International Steering Committee of the Inside-Out Prison Exchange Program. She also is an external member of the Inside-Out Think Tank and of the Lifers’ Public Safety Initiative at the State Correctional Institution at Graterford. Kay continues to coordinate interactive workshops for Temple students with men who are serving life sentences at the State Correctional Institution at Chester. Her current scholarly and advocacy work focuses on issues related to the role of incarcerated and formerly incarcerated people in enhancing public safety, rethinking dominant justice paradigms, reduction of prison and jail populations, sentencing, parole, alternatives to incarceration, and restorative and transformative justice."
 
 - name: "Phil Harris"
-  title: "_Associate Professor_"
+  title: <i>Associate Professor</i>
   room: ""
   building: "Gladfelter Hall"
   email: "phil.harris@temple.edu"
@@ -84,10 +91,10 @@
   website: ""
   photo: ""
   expertise: ""
-  bio: ""
+  bio: >
 
 - name: "Matt Hiller"
-  title: "_Associate Professor_"
+  title: <i>Associate Professor</i>
   room: "538"
   building: "Gladfelter Hall"
   email: "mhiller@temple.edu"
@@ -95,10 +102,11 @@
   website: ""
   photo: ""
   expertise: "Substance abuse treatment, HIV/AIDS, Drug courts, Juvenile drug courts, DUI courts, Probation, Implementation science, Prison, Parole, Motivation, Program evaluation, Policy"
-  bio: "Matthew Hiller, Ph.D. Graduated from Texas Christian University Department of Psychology in 1996, and currently he is an associate professor in the Department of Criminal Justice at Temple University. Before coming to Temple in 2004, he was an assistant research professor in the Department of Psychiatry, Center on Drug and Alcohol Research at the University of Kentucky (2000-2004) and an associate research scientist at the Institute of Behavioral Research (1996-2000) at Texas Christian University Dr. Hiller’s research focuses broadly in the areas of substance abuse treatment in community and criminal justice settings, HIV/AIDS, and implementation science. He is particularly interested in understanding the substance abuse treatment process, seeking to understand the intra-individual changes made, as well as the internal and external contextual factors that influence whether change occurs and whether it is sustained following treatment. He has worked on behavioral change related to HIV/AIDS with individuals in community-based methadone maintenance treatment, in prison, and on probation and parole. Related to this and illustrating his interest in implementation science, Dr. Hiller has studied organizational barriers related to improving the HIV/AIDS services continuum. Also, he has examined the effectiveness of organizational change interventions for this, as well as for improving the screening, assessment, and treatment referral processes for substance-abusing inmates in prisons and jails. Dr. Hiller has been a principal investigator on several funded projects, including evaluations of adult and juvenile drug courts in Kentucky and a DUI Court in Wisconsin. He has been a co-investigator on several high profile projects, including the Criminal Justice Drug Abuse Treatment Study I and II (CJDATS I and II) and Juvenile Justice Translational Research on Interventions for Adolescents in the Legal System (JJTRIALS). Currently, he is co-investigator and study director on a project that is conducting a randomized trial of a Contingency Management intervention with probationers."
+  bio: >
+    Matthew Hiller, Ph.D. Graduated from Texas Christian University Department of Psychology in 1996, and currently he is an associate professor in the Department of Criminal Justice at Temple University. Before coming to Temple in 2004, he was an assistant research professor in the Department of Psychiatry, Center on Drug and Alcohol Research at the University of Kentucky (2000-2004) and an associate research scientist at the Institute of Behavioral Research (1996-2000) at Texas Christian University Dr. Hiller’s research focuses broadly in the areas of substance abuse treatment in community and criminal justice settings, HIV/AIDS, and implementation science. He is particularly interested in understanding the substance abuse treatment process, seeking to understand the intra-individual changes made, as well as the internal and external contextual factors that influence whether change occurs and whether it is sustained following treatment. He has worked on behavioral change related to HIV/AIDS with individuals in community-based methadone maintenance treatment, in prison, and on probation and parole. Related to this and illustrating his interest in implementation science, Dr. Hiller has studied organizational barriers related to improving the HIV/AIDS services continuum. Also, he has examined the effectiveness of organizational change interventions for this, as well as for improving the screening, assessment, and treatment referral processes for substance-abusing inmates in prisons and jails. Dr. Hiller has been a principal investigator on several funded projects, including evaluations of adult and juvenile drug courts in Kentucky and a DUI Court in Wisconsin. He has been a co-investigator on several high profile projects, including the Criminal Justice Drug Abuse Treatment Study I and II (CJDATS I and II) and Juvenile Justice Translational Research on Interventions for Adolescents in the Legal System (JJTRIALS). Currently, he is co-investigator and study director on a project that is conducting a randomized trial of a Contingency Management intervention with probationers.
 
 - name: "Cheryl Irons"
-  title: ""
+  title: <i></i>
   room: ""
   building: ""
   email: ""
@@ -106,10 +114,10 @@
   website: ""
   photo: ""
   expertise: ""
-  bio: ""
+  bio: >
 
 - name: "Peter Jones"
-  title: ""
+  title: <i></i>
   room: ""
   building: ""
   email: ""
@@ -117,10 +125,10 @@
   website: ""
   photo: ""
   expertise: ""
-  bio: ""
+  bio: >
 
 - name: "Joanne Metzger"
-  title: "_Assistant Professor_"
+  title: <i>Assistant Professor</i>
   room: "535"
   building: "Gladfelter Hall"
   email: "metzger@temple.edu"
@@ -128,10 +136,11 @@
   website: ""
   photo: "http://www.cla.temple.edu/cj/files/2014/10/20131114_Metzger_0021-200x300.jpg"
   expertise: "Criminal Law, Juvenile Justice Law and Policy, Correction"
-  bio: "I received my Bachelor of Arts in Political Science and minor in Criminal Justice from Temple University and my Juris Doctor from Widener University School of Law and have taught Criminal Justice at both institutions. Beginning as a student at Temple University I began to work directly with criminal and juvenile offenders in various capacities and subsequently spent several years working primarily with juvenile offenders at the Public Defender’s Office. My interest in legal research and writing led to my work with the Delaware State Court System, where I spent two years working for the State Family Court System. Since 2008, I have been teaching at Temple and became a full-time instructor in 2011. In the fall of 2013, I joined the Criminal Justice Department’s Undergraduate Committee working primarily on undergraduate standardization of courses. I have an open-door policy for all past and present students working to help them gain success in their chosen endeavor, through student mentoring and programs such as the Peer Diamond Mentoring Program and independent study research opportunities."
+  bio: >
+    I received my Bachelor of Arts in Political Science and minor in Criminal Justice from Temple University and my Juris Doctor from Widener University School of Law and have taught Criminal Justice at both institutions. Beginning as a student at Temple University I began to work directly with criminal and juvenile offenders in various capacities and subsequently spent several years working primarily with juvenile offenders at the Public Defender’s Office. My interest in legal research and writing led to my work with the Delaware State Court System, where I spent two years working for the State Family Court System. Since 2008, I have been teaching at Temple and became a full-time instructor in 2011. In the fall of 2013, I joined the Criminal Justice Department’s Undergraduate Committee working primarily on undergraduate standardization of courses. I have an open-door policy for all past and present students working to help them gain success in their chosen endeavor, through student mentoring and programs such as the Peer Diamond Mentoring Program and independent study research opportunities.
 
 - name: "Catresa Meyers"
-  title: "_Assistant Professor_"
+  title: <i>Assistant Professor</i>
   room: "560"
   building: "Gladfelter Hall"
   email: "cgmeyers@temple.edu"
@@ -139,10 +148,11 @@
   website: ""
   photo: "http://www.cla.temple.edu/cj/files/2014/10/Catresa-Meyers1-795x1024.jpg"
   expertise: "Criminal law, Forensic psychology"
-  bio: "Catresa is a graduate of Temple University School of Law, with a JD and MS in Counseling and Human Relations from Villanova University. She is a member in good standing with the Pennsylvania bar. In additions, she clerked for the Common Pleas Court of Philadelphia – Criminal Division. Most recently, she worked in the private sector in the area of pharmaceutical litigation, while teaching Continuing Legal Education courses in forensic psychology."
+  bio: >
+    Catresa is a graduate of Temple University School of Law, with a JD and MS in Counseling and Human Relations from Villanova University. She is a member in good standing with the Pennsylvania bar. In additions, she clerked for the Common Pleas Court of Philadelphia – Criminal Division. Most recently, she worked in the private sector in the area of pharmaceutical litigation, while teaching Continuing Legal Education courses in forensic psychology."
 
 - name: "Sharon C. Ostrow"
-  title: "_Instructor_"
+  title: <i>Instructor</i>
   room: "521"
   building: "Gladfelter Hall"
   email: "scostrow@temple.edu"
@@ -150,10 +160,11 @@
   website: ""
   photo: "http://www.cla.temple.edu/cj/files/2014/10/Ostrow-225x300.jpg"
   expertise: "Art and Justice, Victims, Criminological Theory"
-  bio: "Sharon Costello Ostrow received her Bachelor of Arts in Criminal Justice from Temple University in 1981. She received her Master of Arts in Criminal Justice in 1983 and was a Doctoral Student from 1983 to 1988 at The Graduate School, Rutgers University. Sharon has taught Criminal Justice courses at Rutgers University in 1985-1986 and at Temple University (1984-1986; 2004-2013). Her current interests relate to art and justice, crime victims, criminal justice theory, community networks and criminal justice education. Her interests in art and justice lead to her involvement with the Mural Arts Restorative Justice Program which includes participation in the Healing Walls Murals (The Inmates’ Journey and The Victim’s Journey), the Balanced and Restorative Justice Mural, Families Interrupted Mural and was part of the Mass Incarceration Symposium. In addition, Sharon is a Board member of North Central Victim Services and a member of the Philadelphia Coalition for Victim Advocacy. Part of her pedagogy involves the creative process and an experiential learning component in each of her classes. While teaching specific course content, Sharon strives to teach her students the importance of accessing information through multiple learning modalities and to develop competencies or skills that are transferable to the workplace. Aside from teaching Criminal Justice, Sharon has been making art and taught art to children for 15 years. She has also painted two murals and was an assistant on two mosaic murals at a community center."
+  bio: >
+    Sharon Costello Ostrow received her Bachelor of Arts in Criminal Justice from Temple University in 1981. She received her Master of Arts in Criminal Justice in 1983 and was a Doctoral Student from 1983 to 1988 at The Graduate School, Rutgers University. Sharon has taught Criminal Justice courses at Rutgers University in 1985-1986 and at Temple University (1984-1986; 2004-2013). Her current interests relate to art and justice, crime victims, criminal justice theory, community networks and criminal justice education. Her interests in art and justice lead to her involvement with the Mural Arts Restorative Justice Program which includes participation in the Healing Walls Murals (The Inmates’ Journey and The Victim’s Journey), the Balanced and Restorative Justice Mural, Families Interrupted Mural and was part of the Mass Incarceration Symposium. In addition, Sharon is a Board member of North Central Victim Services and a member of the Philadelphia Coalition for Victim Advocacy. Part of her pedagogy involves the creative process and an experiential learning component in each of her classes. While teaching specific course content, Sharon strives to teach her students the importance of accessing information through multiple learning modalities and to develop competencies or skills that are transferable to the workplace. Aside from teaching Criminal Justice, Sharon has been making art and taught art to children for 15 years. She has also painted two murals and was an assistant on two mosaic murals at a community center.
 
 - name: "Lori Pompa"
-  title: "_Instructor_"
+  title: <i>Instructor</i>
   room: "Suite 331; MB 66-10"
   building: "Inside Out Center"
   email: "lori.pompa@temple.edu"
@@ -161,10 +172,10 @@
   website: ""
   photo: "http://www.cla.temple.edu/cj/files/2014/10/120707_Lori_Pompa_0021.jpg"
   expertise: ""
-  bio: ""
+  bio: >
 
 - name: "Jerry Ratcliffe"
-  title: "_Professor_"
+  title: <i>Professor</i>
   room: "525"
   building: "Gladfelter Hall"
   email: "jhr@temple.edu"
@@ -172,10 +183,11 @@
   website: "http://www.jratcliffe.net/"
   photo: "http://www.cla.temple.edu/cj/files/2017/01/Ratcliffe-2016-no-tie-200x300.jpg"
   expertise: "Evidence-based policing, Criminal intelligence, Crime and place"
-  bio: "Dr Jerry Ratcliffe is a Professor in the Department of Criminal Justice at Temple University, Philadelphia, where he also directs the Center for Security and Crime Science. His career started as a cadet and then police officer with the Metropolitan Police in London (UK) where he served for a number of years on patrol duties, in an intelligence and information unit, and as a member of the Diplomatic Protection Group. Due to a severe winter mountaineering accident while ice climbing in the Scottish Highlands, he left the police after 11 years of service. He completed a B.Sc. with first class honors in Geography and GIS at the University of Nottingham (UK) and has a Ph.D. from the same institution. As a lecturer in policing based at the New South Wales Police College in Australia, he ran graduate programs in criminal intelligence and for a number of years coordinated Australia’s National Strategic Intelligence Course. Dr Ratcliffe was also a senior research analyst with the Australian Institute of Criminology, where he conducted one of the first evaluations of an intelligence-led policing operation. Since arriving in the US in 2003, he has twice been awarded the Professional Service Award for outstanding contributions to criminal intelligence analysis by the International Association of Law Enforcement Intelligence Analysts (IALEIA), and in 2010 he received the Distinguished Service Award from the Association of Law Enforcement Intelligence Units (LEIU). He was the 2014 recipient of the Ronald V. Clarke ECCA award for fundamental contributions to the field of environmental criminology and crime analysis. He has published over 80 research articles and book chapters and five books including ‘Intelligence-Led Policing’ (2008 and 2016), ‘Strategic Thinking in Criminal Intelligence’ (2004 and 2009), ‘GIS and Crime Mapping’ (2005) and ‘Policing Illegal Drug Markets’ (2005). His studies have examined shooting in Philadelphia, drug markets and gang investigations in New Jersey, street gangs in Central America, and the impact of bars on nearby violent street crime. He was the lead researcher on the Philadelphia Foot Patrol Experiment, a randomized study of the benefit of foot patrol in violent crime hotspots involving over 200 Philadelphia Police officers. It was awarded the 2010 IACP Excellence in Law Enforcement Research Award and the 2013 Academy of Experimental Criminology Award for Outstanding Experimental Field Trial. He is a Fellow of the Royal Geographical Society and publishes and lectures on intelligence-led policing, and the role of mid-level commanders and crime reduction. His book (‘Intelligence-Led Policing’) has become the ‘seminal’ book on the subject and has bridged the academic/professional practitioner gap as both a text for university courses and as a promotion book for a number of police departments. It was recently translated into Chinese. He is an advisor to the Philadelphia Police Commissioner, and the first academic to be a research advisor with the criminal investigative division of the FBI. Outside of work, Jerry was an officer in the British Army reserves (Royal Engineers), has climbed the three highest mountains in Africa, led an expedition down the Selenga river in Siberia, and was the first non-Iban tribesman to successfully navigate (with a traditional carved boat) the rapids of the Temburong river in Borneo. He likes to scuba dive, fly his seaplane and drink single malt whisky…but not at the same time."
+  bio: >
+    Dr Jerry Ratcliffe is a Professor in the Department of Criminal Justice at Temple University, Philadelphia, where he also directs the Center for Security and Crime Science. His career started as a cadet and then police officer with the Metropolitan Police in London (UK) where he served for a number of years on patrol duties, in an intelligence and information unit, and as a member of the Diplomatic Protection Group. Due to a severe winter mountaineering accident while ice climbing in the Scottish Highlands, he left the police after 11 years of service. He completed a B.Sc. with first class honors in Geography and GIS at the University of Nottingham (UK) and has a Ph.D. from the same institution. As a lecturer in policing based at the New South Wales Police College in Australia, he ran graduate programs in criminal intelligence and for a number of years coordinated Australia’s National Strategic Intelligence Course. Dr Ratcliffe was also a senior research analyst with the Australian Institute of Criminology, where he conducted one of the first evaluations of an intelligence-led policing operation. Since arriving in the US in 2003, he has twice been awarded the Professional Service Award for outstanding contributions to criminal intelligence analysis by the International Association of Law Enforcement Intelligence Analysts (IALEIA), and in 2010 he received the Distinguished Service Award from the Association of Law Enforcement Intelligence Units (LEIU). He was the 2014 recipient of the Ronald V. Clarke ECCA award for fundamental contributions to the field of environmental criminology and crime analysis. He has published over 80 research articles and book chapters and five books including ‘Intelligence-Led Policing’ (2008 and 2016), ‘Strategic Thinking in Criminal Intelligence’ (2004 and 2009), ‘GIS and Crime Mapping’ (2005) and ‘Policing Illegal Drug Markets’ (2005). His studies have examined shooting in Philadelphia, drug markets and gang investigations in New Jersey, street gangs in Central America, and the impact of bars on nearby violent street crime. He was the lead researcher on the Philadelphia Foot Patrol Experiment, a randomized study of the benefit of foot patrol in violent crime hotspots involving over 200 Philadelphia Police officers. It was awarded the 2010 IACP Excellence in Law Enforcement Research Award and the 2013 Academy of Experimental Criminology Award for Outstanding Experimental Field Trial. He is a Fellow of the Royal Geographical Society and publishes and lectures on intelligence-led policing, and the role of mid-level commanders and crime reduction. His book (‘Intelligence-Led Policing’) has become the ‘seminal’ book on the subject and has bridged the academic/professional practitioner gap as both a text for university courses and as a promotion book for a number of police departments. It was recently translated into Chinese. He is an advisor to the Philadelphia Police Commissioner, and the first academic to be a research advisor with the criminal investigative division of the FBI. Outside of work, Jerry was an officer in the British Army reserves (Royal Engineers), has climbed the three highest mountains in Africa, led an expedition down the Selenga river in Siberia, and was the first non-Iban tribesman to successfully navigate (with a traditional carved boat) the rapids of the Temburong river in Borneo. He likes to scuba dive, fly his seaplane and drink single malt whisky…but not at the same time.
 
 - name: "Aunshul Rege"
-  title: "_Assistant Professor_"
+  title: <i>Assistant Professor</i>
   room: "528"
   building: "Gladfelter Hall"
   email: "rege@temple.edu"
@@ -183,10 +195,11 @@
   website: "http://dr-rege.com/"
   photo: "http://www.cla.temple.edu/cj/files/2014/10/20131114_Rege_0031.jpg"
   expertise: "Cybercrime and cyberwar, (International) organized crime, (International) corporate crime, Intersections of organized/corporate/cyber crime, Media and crime"
-  bio: "Aunshul Rege is an Assistant Professor in the Department of Criminal Justice at Temple. She has a B.Sc.(2002) in Computer Science from the University of British Columbia, and worked for two years as a software engineer. She also holds a B.A. (hons.) (2006) and M.A. (2008) in Criminology from Saint Mary’s University in Halifax, Nova Scotia. She completed her M.A. (2010) and Ph.D. (2012) in Criminal Justice from the Rutgers School of Criminal Justice. She has been researching cybercrimes from a Criminological perspective for over eight years. Her primary area of research is cybercrimes against critical infrastructures (power, water, transportation, etc), and she addresses the organizational dynamics of cybercriminals and their modus operandi, offender decision-making and decision trees, the anatomy of cyber-attacks, the ‘hybridity’ (cyber-physical relationships) of crime, and trend analyses. Other areas of interest include: (i) War and Terrorism in the Digital Age, (ii) (International) Organized Crime, (iii) (International) Corporate Crime, (iv) Intersections of Cyber/Organized/Corporate Crimes, and (v) Media and Crime. She actively works with Temple’s Electrical and Computer Engineering Department researching cyber attacks against power grids."
+  bio: >
+    Aunshul Rege is an Assistant Professor in the Department of Criminal Justice at Temple. She has a B.Sc.(2002) in Computer Science from the University of British Columbia, and worked for two years as a software engineer. She also holds a B.A. (hons.) (2006) and M.A. (2008) in Criminology from Saint Mary’s University in Halifax, Nova Scotia. She completed her M.A. (2010) and Ph.D. (2012) in Criminal Justice from the Rutgers School of Criminal Justice. She has been researching cybercrimes from a Criminological perspective for over eight years. Her primary area of research is cybercrimes against critical infrastructures (power, water, transportation, etc), and she addresses the organizational dynamics of cybercriminals and their modus operandi, offender decision-making and decision trees, the anatomy of cyber-attacks, the ‘hybridity’ (cyber-physical relationships) of crime, and trend analyses. Other areas of interest include: (i) War and Terrorism in the Digital Age, (ii) (International) Organized Crime, (iii) (International) Corporate Crime, (iv) Intersections of Cyber/Organized/Corporate Crimes, and (v) Media and Crime. She actively works with Temple’s Electrical and Computer Engineering Department researching cyber attacks against power grids.
 
 - name: "George Rengert"
-  title: "_Professor Emeritus_"
+  title: <i>Professor Emeritus</i>
   room: "554"
   building: "Gladfelter Hall"
   email: "grengert@temple.edu"
@@ -194,10 +207,11 @@
   website: ""
   photo: ""
   expertise: "Space and Time, Space and Time Criminology, Illegal Drugs"
-  bio: "George F. Rengert is Professor Emeritus of Criminal Justice at Temple University. He holds an MA from the Ohio State University and a Ph. D. from the University of North Carolina. A geographer by training, he is one of the early contributors to the modern field of spatial analysis in criminology. Dr. Rengert is the author or editor of nine books and more than 100 scientific articles and papers dealing with such diverse topics as the location of illegal drug markets, spatial justice, and barriers to the spatial movement of criminals. His current research interests center on the application of Geographic Information Systems to the analysis of urban crime patterns."
+  bio: >
+    George F. Rengert is Professor Emeritus of Criminal Justice at Temple University. He holds an MA from the Ohio State University and a Ph. D. from the University of North Carolina. A geographer by training, he is one of the early contributors to the modern field of spatial analysis in criminology. Dr. Rengert is the author or editor of nine books and more than 100 scientific articles and papers dealing with such diverse topics as the location of illegal drug markets, spatial justice, and barriers to the spatial movement of criminals. His current research interests center on the application of Geographic Information Systems to the analysis of urban crime patterns.
 
 - name: "Caterina Roman"
-  title: "_Associate Professor_"
+  title: <i>Associate Professor</i>
   room: "551"
   building: "Gladfelter Hall"
   email: "croman@temple.edu"
@@ -205,10 +219,11 @@
   website: ""
   photo: "http://www.cla.temple.edu/cj/files/2015/04/Caterina-Roman_photo1-201x300.jpg"
   expertise: "Violence, Gangs, Active living and crime, Neighborhoods, Social network analysis, Program evaluation"
-  bio: "Caterina Roman joined the faculty in the Department of Criminal Justice at Temple University in Fall 2008 after nearly two decades with the Urban Institute in Washington, DC. Her research interests include the relationship between neighborhood characteristics, fear, violence, and health; the social networks of high risk and gang youth, and evaluation of innovative violence reduction programs. Dr. Roman is particularly interested in how the physical and social environment intersects with personal characteristics to influence how people use public spaces, and in turn, how physical activity is associated with individual and community health. Her research often utilizes survey data combined with hard-to-access cross-systems data in an attempt to provide a broad and unique examination of the health of communities. Her research has been published in both public health and criminology journals. She holds a Ph.D. in sociology and justice, law, and society from the American University."
+  bio: >
+    Caterina Roman joined the faculty in the Department of Criminal Justice at Temple University in Fall 2008 after nearly two decades with the Urban Institute in Washington, DC. Her research interests include the relationship between neighborhood characteristics, fear, violence, and health; the social networks of high risk and gang youth, and evaluation of innovative violence reduction programs. Dr. Roman is particularly interested in how the physical and social environment intersects with personal characteristics to influence how people use public spaces, and in turn, how physical activity is associated with individual and community health. Her research often utilizes survey data combined with hard-to-access cross-systems data in an attempt to provide a broad and unique examination of the health of communities. Her research has been published in both public health and criminology journals. She holds a Ph.D. in sociology and justice, law, and society from the American University.
 
 - name: "Ryan Sentner"
-  title: "_Instructor_"
+  title: <i>Instructor</i>
   room: "560"
   building: "Gladfelter Hall"
   email: "ryan.sentner@temple.edu"
@@ -216,10 +231,11 @@
   website: ""
   photo: "http://www.cla.temple.edu/cj/files/2015/05/Ryan-Sentner_0031-200x300.jpg"
   expertise: "Environmental Criminology, Research and Analysis, Crime Analysis"
-  bio: "Ryan Sentner received his MA in Criminal Justice from Rutgers University in 2008. He is currently finishing his dissertation which focuses on using situational crime prevention techniques to prevent bank robberies. Prior to coming to Temple, he worked at The Police Institute at Rutgers University where he analyzed homicides and repeat burglaries in Newark, NJ. Being a Temple alumnus, he is excited to be back in North Philadelphia to work with undergraduate students. His areas of interest include environmental criminology, modern technology and crime, crime prevention, and crime analysis."
+  bio: >
+    Ryan Sentner received his MA in Criminal Justice from Rutgers University in 2008. He is currently finishing his dissertation which focuses on using situational crime prevention techniques to prevent bank robberies. Prior to coming to Temple, he worked at The Police Institute at Rutgers University where he analyzed homicides and repeat burglaries in Newark, NJ. Being a Temple alumnus, he is excited to be back in North Philadelphia to work with undergraduate students. His areas of interest include environmental criminology, modern technology and crime, crime prevention, and crime analysis."
 
 - name: "Daniel Silverman"
-  title: "_Assistant Professor_"
+  title: <i>Assistant Professor</i>
   room: "615B"
   building: "Gladfelter Hall"
   email: "daniel.silverman@temple.edu"
@@ -227,10 +243,11 @@
   website: ""
   photo: "http://www.cla.temple.edu/cj/files/2015/04/Daniel-Silverman1-225x300.jpg"
   expertise: "Capital punishment, Sex offenses, Scholarship of teaching"
-  bio: "I teach courses on sex crimes, the death penalty, and race and criminal justice. My background as a criminal defense attorney, with 25 years’ experience representing death row inmates, brings a unique perspective into the classroom. I am particularly interested in examining the underlying philosophical, psychological and sociological explanations for why the criminal justice system in action rarely achieves anything remotely resembling justice. I won the 2014 College of Liberal Arts Teaching Award."
+  bio: >
+    I teach courses on sex crimes, the death penalty, and race and criminal justice. My background as a criminal defense attorney, with 25 years’ experience representing death row inmates, brings a unique perspective into the classroom. I am particularly interested in examining the underlying philosophical, psychological and sociological explanations for why the criminal justice system in action rarely achieves anything remotely resembling justice. I won the 2014 College of Liberal Arts Teaching Award."
 
 - name: "Ralph Taylor"
-  title: "_Professor_"
+  title: <i>Professor</i>
   room: "537"
   building: "Gladfelter Hall"
   email: "rbrecken@temple.edu"
@@ -238,10 +255,11 @@
   website: "http://www.rbtaylor.net/"
   photo: ""
   expertise: "Community criminology, Reactions to crime, Law enforcement/community interface, Informal social control in the urban residential environment"
-  bio: "Over the last three plus decades I have investigated a range of topics in environmental psychology, urban sociology, law and human behavior, criminology, and criminal justice. Just some of the topics investigated have been: reactions to crime like fear of crime; informal resident-based control linked to local social and territorial dynamics; community perceptions of police; links between gentrification and crime; ecological variation in jury turnout; community corrections; spatial and temporal variation in intra-metropolitan crime patterns; juvenile delinquency; and the incivilities thesis or “broken windows” theory. My research has been funded by the National Science Foundation, the National Institute of Mental Health, the National Institute of Justice, and others. This work has resulted in over 70 refereed publications in social science journals and over 30 book chapters."
+  bio: >
+    Over the last three plus decades I have investigated a range of topics in environmental psychology, urban sociology, law and human behavior, criminology, and criminal justice. Just some of the topics investigated have been: reactions to crime like fear of crime; informal resident-based control linked to local social and territorial dynamics; community perceptions of police; links between gentrification and crime; ecological variation in jury turnout; community corrections; spatial and temporal variation in intra-metropolitan crime patterns; juvenile delinquency; and the incivilities thesis or “broken windows” theory. My research has been funded by the National Science Foundation, the National Institute of Mental Health, the National Institute of Justice, and others. This work has resulted in over 70 refereed publications in social science journals and over 30 book chapters."
 
 - name: "Tara Tripp"
-  title: "_Instructor_"
+  title: <i>Instructor</i>
   room: "615C"
   building: "Gladfelter Hall"
   email: "tntripp@temple.edu"
@@ -249,10 +267,11 @@
   website: ""
   photo: "http://www.cla.temple.edu/cj/files/2014/10/20131115_Tripp_0021-200x300.jpg"
   expertise: "Gender and Justice, Race and Crime, Criminology, Mass Incarceration"
-  bio: "Prior to joining the Department of Criminal Justice, I worked for Adult Probation and Parole for the City of Philadelphia. Before transferring to Probation, I worked for the First Judicial District of Pennsylvania, in Juvenile Court as a Juvenile Court Liaison Officer. Graduated from Saint Joseph’s University with a Masters Degree in Criminology in 1995. Graduated from Temple University with a Bachelor’s Degree in Political Science in 1993."
+  bio: >
+    Prior to joining the Department of Criminal Justice, I worked for Adult Probation and Parole for the City of Philadelphia. Before transferring to Probation, I worked for the First Judicial District of Pennsylvania, in Juvenile Court as a Juvenile Court Liaison Officer. Graduated from Saint Joseph’s University with a Masters Degree in Criminology in 1995. Graduated from Temple University with a Bachelor’s Degree in Political Science in 1993."
 
 - name: "Nicole Van Cleve"
-  title: "_Assistant Professor_"
+  title: <i>Assistant Professor</i>
   room: ""
   building: "Gladfelter Hall"
   email: "nvancleve@temple.edu"
@@ -260,10 +279,11 @@
   website: "http://nicolevancleve.com/"
   photo: "http://www.cla.temple.edu/cj/files/2015/05/VanCleve_0021-200x300.jpg"
   expertise: "Criminal Courts, Law, Punishment, Race and Racism, Cultural Theory, Ethnography"
-  bio: "Nicole Gonzalez Van Cleve is an Assistant Professor at Temple University in the Department of Criminal Justice with courtesy appointments in the Department of Sociology and the Beasley School of Law. She is a recipient of the 2014-2015 Ford Foundation Fellowship Postdoctoral Award and a Visiting Scholar at the American Bar Foundation. Van Cleve received her Ph.D. in Sociology from Northwestern University where she was a legal studies fellow. Her work examines the cultural impact of mass incarceration on criminal justice apparatuses. She explores the contradictory ways that racial stigma is reproduced by these institutions in a purportedly, “colorblind” era. She received her B.A. and M.A. from Northwestern University where she was awarded the Farrel Grant for Public Policy and the Badesch Fellowship from the Chicago Appleseed Fund for Justice. Nicole’s chapter, “Reinterpreting the Zealous Advocate: Multiple Intermediary Roles of the Criminal Defense Attorney” is in the book, Lawyers in Practice: Ethical Decision Making in Context (Leslie Levin and Lynn Mather eds., University of Chicago Press, 2011) and was the winner of the 2010 Outstanding Graduate Paper presented by the Sociology of Law Section of the American Sociological Association. Her current book entitled, Crook County: Racism and Injustice in America’s Criminal Courts is under contract with Stanford University Press and examines some of the classic questions about how our criminal courts function by engaging race as a central variable. She shows how color-blind legal institutions reproduce racial bias, systematically, and under the guise of procedural justice. Ultimately, her account reveals the courts as “the cultural engine” and crucial gateway for the racialization of criminal justice – where racism and discretion collide with dire effects to both the experience and appearance of justice. Prior to receiving her Ph.D., Van Cleve served in The Office of the Chief of Staff at the White House during the Clinton Administration and subsequently worked for five years as a Consumer Brand Planner for Leo Burnett, USA. She is the outgoing Research Director for Chicago Appleseed Fund for Justice – a policy/nonprofit organization that specialized in legal advocacy. Van Cleve is the current co-chair of the Law and Society Association’s Collaborative Research Network on Critical Research on Race and the Law, a Junior Fellow of Yale University’s Urban Ethnography Project, and a member of the Racial Democracy, Crime and Justice Network (RDCJN)."
+  bio: >
+    Nicole Gonzalez Van Cleve is an Assistant Professor at Temple University in the Department of Criminal Justice with courtesy appointments in the Department of Sociology and the Beasley School of Law. She is a recipient of the 2014-2015 Ford Foundation Fellowship Postdoctoral Award and a Visiting Scholar at the American Bar Foundation. Van Cleve received her Ph.D. in Sociology from Northwestern University where she was a legal studies fellow. Her work examines the cultural impact of mass incarceration on criminal justice apparatuses. She explores the contradictory ways that racial stigma is reproduced by these institutions in a purportedly, “colorblind” era. She received her B.A. and M.A. from Northwestern University where she was awarded the Farrel Grant for Public Policy and the Badesch Fellowship from the Chicago Appleseed Fund for Justice. Nicole’s chapter, “Reinterpreting the Zealous Advocate: Multiple Intermediary Roles of the Criminal Defense Attorney” is in the book, Lawyers in Practice: Ethical Decision Making in Context (Leslie Levin and Lynn Mather eds., University of Chicago Press, 2011) and was the winner of the 2010 Outstanding Graduate Paper presented by the Sociology of Law Section of the American Sociological Association. Her current book entitled, Crook County: Racism and Injustice in America’s Criminal Courts is under contract with Stanford University Press and examines some of the classic questions about how our criminal courts function by engaging race as a central variable. She shows how color-blind legal institutions reproduce racial bias, systematically, and under the guise of procedural justice. Ultimately, her account reveals the courts as “the cultural engine” and crucial gateway for the racialization of criminal justice – where racism and discretion collide with dire effects to both the experience and appearance of justice. Prior to receiving her Ph.D., Van Cleve served in The Office of the Chief of Staff at the White House during the Clinton Administration and subsequently worked for five years as a Consumer Brand Planner for Leo Burnett, USA. She is the outgoing Research Director for Chicago Appleseed Fund for Justice – a policy/nonprofit organization that specialized in legal advocacy. Van Cleve is the current co-chair of the Law and Society Association’s Collaborative Research Network on Critical Research on Race and the Law, a Junior Fellow of Yale University’s Urban Ethnography Project, and a member of the Racial Democracy, Crime and Justice Network (RDCJN).
 
 - name: "E. Rely Vîlcică"
-  title: "_Assistant Professor_"
+  title: <i>Assistant Professor</i>
   room: "556"
   building: "Gladfelter Hall"
   email: "rvilcica@temple.edu"
@@ -271,10 +291,11 @@
   website: ""
   photo: "http://www.cla.temple.edu/cj/files/2015/04/ERVilcica1.jpg"
   expertise: "Courts and corrections, Criminal processing, Adjudication and punishment, Policy analysis, Comparative criminal justice"
-  bio: "Dr. Vîlcică is an Assistant Professor in the Department of Criminal Justice at Temple since 2009. Prior to joining Temple, she served as a Definitive Judge at the Court of the Fourth District of Bucharest, Romania. She received a Bachelor of Law degree in 1997 from the School of Law, University of Bucharest, a post-graduate Judge Diploma in 1998 from the National Institute of Magistrature and Ministry of Justice of Romania, and her Ph.D. degree in 2008 from Temple’s graduate program in Criminal Justice. Her research interests center generally on three main areas: criminal case processing and adjudication, parole decisionmaking and related correctional issues, and comparative justice policy. All these research components tie directly into issues of system legitimacy and governance, make important contributions to theories of punishment, and have immediate public policy implications."
+  bio: >
+    Dr. Vîlcică is an Assistant Professor in the Department of Criminal Justice at Temple since 2009. Prior to joining Temple, she served as a Definitive Judge at the Court of the Fourth District of Bucharest, Romania. She received a Bachelor of Law degree in 1997 from the School of Law, University of Bucharest, a post-graduate Judge Diploma in 1998 from the National Institute of Magistrature and Ministry of Justice of Romania, and her Ph.D. degree in 2008 from Temple’s graduate program in Criminal Justice. Her research interests center generally on three main areas: criminal case processing and adjudication, parole decisionmaking and related correctional issues, and comparative justice policy. All these research components tie directly into issues of system legitimacy and governance, make important contributions to theories of punishment, and have immediate public policy implications.
 
 - name: "Jeffrey T. Ward"
-  title: "_Assistant Professor_"
+  title: <i>Assistant Professor</i>
   room: "527 "
   building: "Gladfelter Hall"
   email: "jeffrey.ward@temple.edu"
@@ -282,10 +303,11 @@
   website: ""
   photo: ""
   expertise: "Developmental and life-course criminology, Juvenile delinquency, Measurement, Quantitative methods"
-  bio: "Dr. Jeffrey T. Ward is an Assistant Professor in the Department of Criminal Justice at Temple University. He received his B.S. in Physics and Psychology from Rutgers University and his M.A. and Ph.D. in Criminology, Law & Society from the University of Florida. He is past recipient of the Harry Frank Guggenheim Dissertation Fellow for his research exploring the consequences of justice system contact on developmental trajectories of violence using an integrated propensity score matching and latent class growth analysis method. Ward’s research takes two primary avenues including examining the short- and long-run causes and consequences of crime and life chances from a developmental and life-course lens and addressing fundamental measurement issues with criminological constructs. His substantive teaching interests include developmental and life-course criminology and criminological theory and his methodological teaching interests are wide ranging including research methods, item response theory, structural equation modeling, and counterfactual methods, to name a few."
+  bio: >
+    Dr. Jeffrey T. Ward is an Assistant Professor in the Department of Criminal Justice at Temple University. He received his B.S. in Physics and Psychology from Rutgers University and his M.A. and Ph.D. in Criminology, Law & Society from the University of Florida. He is past recipient of the Harry Frank Guggenheim Dissertation Fellow for his research exploring the consequences of justice system contact on developmental trajectories of violence using an integrated propensity score matching and latent class growth analysis method. Ward’s research takes two primary avenues including examining the short- and long-run causes and consequences of crime and life chances from a developmental and life-course lens and addressing fundamental measurement issues with criminological constructs. His substantive teaching interests include developmental and life-course criminology and criminological theory and his methodological teaching interests are wide ranging including research methods, item response theory, structural equation modeling, and counterfactual methods, to name a few.
 
 - name: "Wayne Welsh"
-  title: "_Professor_"
+  title: <i>Professor</i>
   room: "541"
   building: "Gladfelter Hall"
   email: "wwelsh@temple.edu"
@@ -293,10 +315,11 @@
   website: ""
   photo: "http://www.cla.temple.edu/cj/files/2015/05/Wayne-Welsh1.jpg"
   expertise: "Violence, Corrections, Substance Abuse Treatment, Organizational Change, Implementation Science"
-  bio: "My research interests include violence, corrections, substance abuse treatment, and organizational change in both adult and juvenile settings. I am author of Counties in Court: Jail Overcrowding and Court-Ordered Reform (Temple University Press, 1995), Criminal Justice Policy and Planning, with Philip Harris (Elsevier, 2013, 4th Ed.), and Criminal Violence: Patterns, Causes and Prevention, co-authored with Marc Riedel (Oxford, 2015, 4th Ed.). I am currently Co-PI on JJ-TRIALS (Juvenile Justice – Translational Research on Interventions for Adolescents in the Legal System), a national multi-site study (National Institute on Drug Abuse, 2013-2017) to investigate and improve implementation of evidence practices for drug-involved youth in the juvenile system. I was Co-Investigator on CJ-DATS2 (Criminal Justice Drug Abuse Treatment Systems), a national, collaborative research project (National Institute on Drug Abuse, 2009-14). Key research questions addressed organizational and systems issues related to implementation of effective drug treatment and other services in adult criminal justice settings. I was Lead Researcher for our research center on two of three multisite protocols: Medication Assisted Treatment Implementation in Community Correctional Environments (MATICCE), and the Organizational Process improvement intervention (OPII). I’ve been PI on several other large, multi-site research projects conducted as part of a long term research partnership with the PA Dept. of Corrections which began in 1998 and continues to the present. Funded projects include: “A Multi-Site Evaluation of Prison-Based Drug Treatment: A Research Partnership Between the Pennsylvania Department of Corrections and Temple University” (Pennsylvania Commission on Crime and Delinquency; 2005-08); “Evaluation of Drug Treatment Programs at the State Correctional Institution (SCI) at Chester: A Partnership Between the Pennsylvania Department of Corrections, Gaudenzia, Inc., and Temple University” (National Institute of Justice, 2002-06); “Evaluation of Prison based Drug Treatment in Pennsylvania: A Research Collaboration Between the Pennsylvania Department of Corrections and the Center for Public Policy at Temple University” (National Institute of Justice, 2000-02); and “Building An Effective Research Collaboration Between the Center for Public Policy at Temple University and the Pennsylvania Department of Corrections” (National Institute of Justice, 1998-2000). Other funded projects include “Building a Culture and Climate of Safety in Public Schools: School-Based Management and Violence Reduction in Philadelphia” (National Institute of Justice, (1993-95) and “Reducing Over-Representation of Minorities in the Juvenile Justice System” (Pennsylvania Commission on Crime and Delinquency, 1994-96). Service to the community includes volunteer participation on the Philadelphia Mayor`s Reentry Task Force and the Philadelphia Children`s Round Table (chaired by the Philadelphia Family Court President). I also serve on the Editorial Advisory Board for the Prison Journal, the oldest, peer-reviewed journal publishing research on adult and juvenile confinement, treatment interventions, and alternative sanctions."
+  bio: >
+    My research interests include violence, corrections, substance abuse treatment, and organizational change in both adult and juvenile settings. I am author of Counties in Court: Jail Overcrowding and Court-Ordered Reform (Temple University Press, 1995), Criminal Justice Policy and Planning, with Philip Harris (Elsevier, 2013, 4th Ed.), and Criminal Violence: Patterns, Causes and Prevention, co-authored with Marc Riedel (Oxford, 2015, 4th Ed.). I am currently Co-PI on JJ-TRIALS (Juvenile Justice – Translational Research on Interventions for Adolescents in the Legal System), a national multi-site study (National Institute on Drug Abuse, 2013-2017) to investigate and improve implementation of evidence practices for drug-involved youth in the juvenile system. I was Co-Investigator on CJ-DATS2 (Criminal Justice Drug Abuse Treatment Systems), a national, collaborative research project (National Institute on Drug Abuse, 2009-14). Key research questions addressed organizational and systems issues related to implementation of effective drug treatment and other services in adult criminal justice settings. I was Lead Researcher for our research center on two of three multisite protocols: Medication Assisted Treatment Implementation in Community Correctional Environments (MATICCE), and the Organizational Process improvement intervention (OPII). I’ve been PI on several other large, multi-site research projects conducted as part of a long term research partnership with the PA Dept. of Corrections which began in 1998 and continues to the present. Funded projects include: “A Multi-Site Evaluation of Prison-Based Drug Treatment: A Research Partnership Between the Pennsylvania Department of Corrections and Temple University” (Pennsylvania Commission on Crime and Delinquency; 2005-08); “Evaluation of Drug Treatment Programs at the State Correctional Institution (SCI) at Chester: A Partnership Between the Pennsylvania Department of Corrections, Gaudenzia, Inc., and Temple University” (National Institute of Justice, 2002-06); “Evaluation of Prison based Drug Treatment in Pennsylvania: A Research Collaboration Between the Pennsylvania Department of Corrections and the Center for Public Policy at Temple University” (National Institute of Justice, 2000-02); and “Building An Effective Research Collaboration Between the Center for Public Policy at Temple University and the Pennsylvania Department of Corrections” (National Institute of Justice, 1998-2000). Other funded projects include “Building a Culture and Climate of Safety in Public Schools: School-Based Management and Violence Reduction in Philadelphia” (National Institute of Justice, (1993-95) and “Reducing Over-Representation of Minorities in the Juvenile Justice System” (Pennsylvania Commission on Crime and Delinquency, 1994-96). Service to the community includes volunteer participation on the Philadelphia Mayor`s Reentry Task Force and the Philadelphia Children`s Round Table (chaired by the Philadelphia Family Court President). I also serve on the Editorial Advisory Board for the Prison Journal, the oldest, peer-reviewed journal publishing research on adult and juvenile confinement, treatment interventions, and alternative sanctions.
 
 - name: "Jennifer Wood"
-  title: "_Associate Professor_"
+  title: <i>Associate Professor</i>
   room: "548"
   building: "Gladfelter Hall"
   email: "woodj@temple.edu"
@@ -304,10 +327,11 @@
   website: ""
   photo: "http://www.cla.temple.edu/cj/files/2016/09/Wood-headshot-2016-cropped-236x300.jpg"
   expertise: "Policing, Security, Regulation, Public health, Qualitative research"
-  bio: "Jennifer Wood earned a bachelor’s degree in Criminology at the University of Ottawa and received both an M.A. and Ph.D. in Criminology from the University of Toronto. Prior to joining Temple, she served as a Fellow for the Regulatory Institutions Network (RegNet) at the Australian National University. Jennifer is a criminologist with expertise in policing and regulation. Her work has explored how order and security is promoted by mixes of public and private entities including but well beyond the public police. Her book, Imagining Security (Willan, 2007; with Clifford Shearing), offers an account of ‘nodal governance’ as a means of explaining this plurality. She has published two co-edited books (Democracy, Society and the Governance of Security (Cambridge, 2006; with Benoit Dupont) and Fighting Crime Together: The Challenges of Policing and Security Networks (University of New South Wales Press, 2006; with Jenny Fleming)). Her current research examines the intersections between policing and public health. Jennifer is the North American Regional Editor for Policing and Society: An International Journal of Research and Policy."
+  bio: >
+    Jennifer Wood earned a bachelor’s degree in Criminology at the University of Ottawa and received both an M.A. and Ph.D. in Criminology from the University of Toronto. Prior to joining Temple, she served as a Fellow for the Regulatory Institutions Network (RegNet) at the Australian National University. Jennifer is a criminologist with expertise in policing and regulation. Her work has explored how order and security is promoted by mixes of public and private entities including but well beyond the public police. Her book, Imagining Security (Willan, 2007; with Clifford Shearing), offers an account of ‘nodal governance’ as a means of explaining this plurality. She has published two co-edited books (Democracy, Society and the Governance of Security (Cambridge, 2006; with Benoit Dupont) and Fighting Crime Together: The Challenges of Policing and Security Networks (University of New South Wales Press, 2006; with Jenny Fleming)). Her current research examines the intersections between policing and public health. Jennifer is the North American Regional Editor for Policing and Society: An International Journal of Research and Policy.
 
 - name: "Alese Wooditch"
-  title: "_Assistant Professor_"
+  title: <i>Assistant Professor</i>
   room: "529"
   building: "Gladfelter Hall"
   email: "alese@temple.edu"
@@ -315,4 +339,5 @@
   website: ""
   photo: ""
   expertise: "Crime and Place, Risk-Needs-Responsivity, Human Trafficking, Experimental and Computational Criminology, Quantitative Methods"
-  bio: "Dr. Alese Wooditch is an Assistant Professor in the Department of Criminal Justice at Temple University. She received her PhD in Criminology, Law and Society from George Mason University in 2016. She is formerly a graduate research assistant in the Center for Evidence-Based Crime Policy, a research associate in the Center for Advancing Correctional Excellence, and served as an Intelligence Analyst with the U.S. Department of Labor, Office of Labor Racketeering and Fraud Investigations. Alese received her MA in criminal justice from Penn State University in 2009. Her research generally focuses on the geography of crime, risk assessment, and how methods from other disciplines can be used to inform our understanding of crime."
+  bio: >
+    Dr. Alese Wooditch is an Assistant Professor in the Department of Criminal Justice at Temple University. She received her PhD in Criminology, Law and Society from George Mason University in 2016. She is formerly a graduate research assistant in the Center for Evidence-Based Crime Policy, a research associate in the Center for Advancing Correctional Excellence, and served as an Intelligence Analyst with the U.S. Department of Labor, Office of Labor Racketeering and Fraud Investigations. Alese received her MA in criminal justice from Penn State University in 2009. Her research generally focuses on the geography of crime, risk assessment, and how methods from other disciplines can be used to inform our understanding of crime.
