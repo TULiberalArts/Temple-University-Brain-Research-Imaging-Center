@@ -5,6 +5,40 @@ layout: page
 published: true
 ---
 
+Chair:
+
+Cathy Rosen
+529 Gladfelter Hall
+[(215)204-1089](tel:2152041089)
+[crosen@temple.edu](mailto:crosen@temple.edu)
+
+Undergraduate Chair:
+
+Elizabeth Groff
+531 Gladfelter Hall
+[(215) 204-5164](tel:2152045164)
+[groff@temple.edu](mailto:groff@temple.edu)
+
+Graduate Chair:
+
+Jamie Fader
+552 Gladfelter Hall
+[jfader@temple.edu](mailto:jfader@temple.edu)
+
+Administrator:
+
+Jessica Brennan
+708 Gladfelter Hall
+[(215) 204-7577](tel:2152047577) 
+[tua11422@temple.edu](mailto:tua11422@temple.edu)
+
+Coordinator:
+
+LaSaundra Scott
+Coordinator
+[(215) 204-1376](tel:2152041376)
+[lscott01@temple.edu](mailto:lscott01@temple.edu)
+
 ## Resources here here to help!
 
 ## ProRanger Philadelphia
