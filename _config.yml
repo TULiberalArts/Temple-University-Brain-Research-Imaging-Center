@@ -8,7 +8,7 @@ baseurl: /criminal-justice
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'The criminal justice system has three major components: the courts, law enforcement, and corrections. Our majors learn how these three components function and impact the larger society.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,8 +18,8 @@ address:
   room: 5th Floor
   street: 1114 Polett Walk
   city: Philadelphia, PA 19122
-  email: criminal-justice@temple.edu
-  phone: 2152047918
+  email: <a href="mailto:criminal-justice@temple.edu">criminal-justice@temple.edu</a>
+  phone: 215-204-7918
 
 # Social Media
 # Put in only the username unless otherwise noted
