@@ -1,43 +1,44 @@
 ---
 title: Resources
+meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 layout: page
 published: true
 ---
 
-Chair:
+## Chair:
 
-Cathy Rosen
-529 Gladfelter Hall
-[(215)204-1089](tel:2152041089)
-[crosen@temple.edu](mailto:crosen@temple.edu)
+Cathy Rosen<br>
+529 Gladfelter Hall<br>
+[(215)204-1089](tel:2152041089)<br>
+[crosen@temple.edu](mailto:crosen@temple.edu)<br>
 
-Undergraduate Chair:
+## Undergraduate Chair:
 
-Elizabeth Groff
-531 Gladfelter Hall
-[(215) 204-5164](tel:2152045164)
-[groff@temple.edu](mailto:groff@temple.edu)
+Elizabeth Groff<br>
+531 Gladfelter Hall<br>
+[(215) 204-5164](tel:2152045164)<br>
+[groff@temple.edu](mailto:groff@temple.edu)<br>
 
-Graduate Chair:
+## Graduate Chair:
 
-Jamie Fader
-552 Gladfelter Hall
-[jfader@temple.edu](mailto:jfader@temple.edu)
+Jamie Fader<br>
+552 Gladfelter Hall<br>
+[jfader@temple.edu](mailto:jfader@temple.edu)<br>
 
-Administrator:
+## Administrator:
 
-Jessica Brennan
-708 Gladfelter Hall
-[(215) 204-7577](tel:2152047577) 
-[tua11422@temple.edu](mailto:tua11422@temple.edu)
+Jessica Brennan<br>
+708 Gladfelter Hall<br>
+[(215) 204-7577](tel:2152047577)<br> 
+[tua11422@temple.edu](mailto:tua11422@temple.edu)<br>
 
-Coordinator:
+## Coordinator:
 
-LaSaundra Scott
-Coordinator
-[(215) 204-1376](tel:2152041376)
-[lscott01@temple.edu](mailto:lscott01@temple.edu)
+LaSaundra Scott<br>
+Coordinator<br>
+[(215) 204-1376](tel:2152041376)<br>
+[lscott01@temple.edu](mailto:lscott01@temple.edu)<br>
 
 ## Resources here here to help!
 
