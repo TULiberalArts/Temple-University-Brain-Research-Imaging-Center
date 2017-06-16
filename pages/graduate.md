@@ -4,6 +4,40 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /graduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Chair:** <br/>
+  Cathy Rosen<br>
+  529 Gladfelter Hall<br>
+  [(215)204-1089](tel:2152041089)<br>
+  [crosen@temple.edu](mailto:crosen@temple.edu)<br>
+  
+  <hr>
+
+  **Graduate Chair:** <br/>
+  Jamie Fader<br>
+  552 Gladfelter Hall<br>
+  [jfader@temple.edu](mailto:jfader@temple.edu)<br>
+
+  <hr>
+
+  **Administrator:** <br/>
+  Jessica Brennan<br>
+  708 Gladfelter Hall<br>
+  [(215) 204-7577](tel:2152047577)<br> 
+  [tua11422@temple.edu](mailto:tua11422@temple.edu)<br>
+
+  <hr>
+
+ **Coordinator:** <br/>
+  LaSaundra Scott<br>
+  Coordinator<br>
+  [(215) 204-1376](tel:2152041376)<br>
+  [lscott01@temple.edu](mailto:lscott01@temple.edu)<br>
 ---
 
 ## Program Overview
@@ -12,7 +46,7 @@ We are very proud of the Criminal Justice graduate program at Temple University.
 
 Post-graduation, our MA students have secured positions in local, state, and federal law enforcement and criminal justice agencies, while others have gone on to pursue further graduate study. We are also extremely proud of the placement record of our PhD graduates. Many go on to tenure-track academic positions, while others pursue research careers in federal, state, and local agencies or the private sector.
 
-Degrees and Programs of Study
+## Degrees and Programs of Study
 
 The Department of Criminal Justice offers the [MA in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/) and the [PhD in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-phd/).
 
