@@ -4,6 +4,41 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /undergraduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Chair:** <br/>
+  Cathy Rosen<br>
+  529 Gladfelter Hall<br>
+  [(215)204-1089](tel:2152041089)<br>
+  [crosen@temple.edu](mailto:crosen@temple.edu)<br>
+  
+  <hr>
+
+  **Undergraduate Chair:** <br/>
+  Elizabeth Groff<br>
+  531 Gladfelter Hall<br>
+  [(215) 204-5164](tel:2152045164)<br>
+  [groff@temple.edu](mailto:groff@temple.edu)<br>
+
+  <hr>
+
+  **Administrator:** <br/>
+  Jessica Brennan<br>
+  708 Gladfelter Hall<br>
+  [(215) 204-7577](tel:2152047577)<br> 
+  [tua11422@temple.edu](mailto:tua11422@temple.edu)<br>
+
+  <hr>
+
+ **Coordinator:** <br/>
+  LaSaundra Scott<br>
+  Coordinator<br>
+  [(215) 204-1376](tel:2152041376)<br>
+  [lscott01@temple.edu](mailto:lscott01@temple.edu)<br>
 ---
 
 ## A Hands-On Approach
