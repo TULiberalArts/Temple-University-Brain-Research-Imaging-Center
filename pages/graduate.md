@@ -33,7 +33,7 @@ sidebar-content: > #
 
   <hr>
 
- **Coordinator:** <br/>
+  **Coordinator:** <br/>
   LaSaundra Scott<br>
   Coordinator<br>
   [(215) 204-1376](tel:2152041376)<br>
