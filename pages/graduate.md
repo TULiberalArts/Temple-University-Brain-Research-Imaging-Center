@@ -193,7 +193,7 @@ Applicants interested in the program should start getting their applications tog
 ### FAQS
 
 Have a question about the graduate program? Read our FAQ page for quick answers to the most commonly asked questions.
-- Criminal Justice [Graduate Student Handbook](http://www.cla.temple.edu/cj/files/2015/12/Criminal-Justice-Graduate-Student-Handbook_12.2015.pdf)
+- Criminal Justice [Graduate Student Handbook](http://www.cla.temple.edu/cj/files/2017/06/CriminalJusticeGraduateStudentHandbook_June2017_JF.pdf)
 
 ### University Resources
 
