@@ -87,9 +87,14 @@ Many of our PhD graduates have gone on to tenure-track assistant professorships 
 
 Applicants interested in the program should start getting their applications together as soon as possible. Please don’t underestimate the time required to pull together the application pack. When the application is compiled early, it allows time for the department to help you with any last minute problems with the application, or for us to help with any questions you have.
 
-**New students are only admitted for the Fall semester; there is no Spring admission.**
+**New PhD students are only admitted for the Fall semester there is no Spring admission..**
 
-**For September admission to the MA or PhD program the deadline for receipt of all materials is December 15th.**
+**For September admission to the PhD program the deadline for receipt of all materials is December 15th.**
+
+**MA students may apply to start in the Fall or Spring semesters. Application dates are:**
+
+- For Fall admission to the MA program, the official deadline is March 1st, although the portal will remain open and we will consider applications received until April 30th. Priority consideration e.g., for funding will be given to applications received by March 15.
+- For Spring admission to the MA program, the application opens August 1st and the official deadline is November 1st although the portal will remain open and applications received until November 30th . Priority consideration e.g., for funding will be given to applications received by October 15th.
 
 For international students, because of the extra validation and work, the deadline is **November 30**.
 
