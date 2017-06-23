@@ -124,10 +124,6 @@ A number of our Masters students are already employed in the criminal justice fi
 
 We are also extremely proud of the placement record of our recent PhD graduates. These have  included tenure-track assistant professorships at institutions such as Drexel University, LaSalle  University, University of Ottawa, Louisiana State University, Towson University, University of Louisville, and American University. In addition to those embarking on academic careers, a number of our PhD graduates have secured research positions with various federal, state, and local agencies including the National Institute of Justice, Justice Research and Statistics Association, the Corporation for National and Community Service, the Center for Drug and Alcohol Studies at the University of Delaware, the Police Department of Redlands, California, and Philadelphia Adult Probation and Parole.
 
-**What study areas have successful PhD students worked in?**
-
-Click [here](http://www.cla.temple.edu/cj/graduate/phd-graduates/) to see a list of our recent PhD candidates, their dissertation titles, and advisors.
-
 **What if I did not get a 3.0 (B average) GPA in my undergraduate studies? Is there any exemption?**
 
 The rules are set in place by the Graduate School of Temple University. However the Dean of the Graduate School considers exceptions to the admissions requirement if the student meets at least one of  these criteria:
