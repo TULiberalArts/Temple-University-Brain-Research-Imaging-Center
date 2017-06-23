@@ -117,7 +117,7 @@ The mission of the Criminal Justice Advising office is to assist students with p
 
 ### Criminal Justice Mentoring Center
 
-Undergraduate students should be aware that assistance is available for all CJ classes from the department’s volunteer graduate students. Please bring all your course materials with you (syllabus,notes, books, assignments, etc.) so that the graduate students may better assist you. The Mentoring Center is located on the 5th floor of Gladfelter Hall, room 544. Please consult this [page](http://www.cla.temple.edu/cj/files/2016/09/2016_Fall-Mentoring-Center-Schedule.docx) each semester for up-to-date information on Mentoring Center hours.
+Undergraduate students should be aware that assistance is available for all CJ classes from the department’s volunteer graduate students. Please bring all your course materials with you (syllabus,notes, books, assignments, etc.) so that the graduate students may better assist you. The Mentoring Center is located on the 5th floor of Gladfelter Hall, room 544.
 
 ### What Is Offered:
 
