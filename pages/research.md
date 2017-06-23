@@ -365,7 +365,6 @@ Click on the following research projects to learn more:
 
 - [The Impact of Philadelphia’s Public CCTV Cameras: PRELIMINARY FINDINGS FROM A TIME SERIES ANALYSIS](http://www.cla.temple.edu/cj/files/2014/09/coryrevised1.mp3)
 - [Links in Space and Time between Firearm Arrests and Shootings](http://www.cla.temple.edu/cj/files/2014/10/ResearchfindingsWyant20101.pdf)
-- [The Philadelphia Foot Patrol Experiment](http://www.cla.temple.edu/cj/research/the-philadelphia-foot-patrol-experiment/)
 
 ## Related Publications
 
