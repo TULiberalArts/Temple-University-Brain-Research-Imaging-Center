@@ -102,9 +102,19 @@ If you would like to talk to someone in more detail about our program, please co
 
 Temple University has moved to an online application process. If you have the materials above available, then click [here](http://www.temple.edu/grad/) to start the process! Follow the link to graduate application.
 
-If you wish to read some of the frequently asked questions about our programs, please [click here](http://www.cla.temple.edu/cj/graduate/faq/).
+## Financial Opportunities
 
-If you wish to read about possible financial assistance opportunties, [click here](http://www.cla.temple.edu/cj/graduate/financial-assistance/).
+The Department of Criminal Justice ranks among the highest in the University in faculty and student involvement in local and national research activities. The result has been a steady stream of grant-funded employment positions that provide both financial support and the opportunity to develop research skills and graduate thesis/dissertation opportunities. The doctoral program is proud of its track record of support of our doctoral students through a combination of such positions and the other sources of financial support outlined below.
+
+Financial support is available to many graduate students through a variety of University and Department teaching and research assistantships, fellowships, and awards. Most assistantships and fellowships carry a stipend plus tuition waiver.
+
+The PhD is a full-time endeavor.  It is our standard practice to limit admissions to the PhD program to the number of full-time students to whom we can commit funding support for a period of several years.  Beyond the guaranteed period of support, we are extremely proud of our track record and ability to fund doctoral students who are making timely progress toward the completion of their degrees.  Please note that no funding decisions can be made until after an applicant is officially admitted to the Ph.D. program. Applicants should also consult the Graduate School web pages for information on application deadlines and funding opportunities available university-wide.
+
+Depending upon available resources, a Teaching Assistantship (TA) may be awarded either to incoming or matriculated doctoral students. If a Teaching Assistantship is awarded to an incoming student during the first year, (unless notified otherwise) the Department guarantees four years of funding from either a Teaching Assistantship position or an alternative research or support source, depending upon maintaining good academic standing. Students should be aware that good scores in the GRE examinations are one of the best predictors of availability of financial assistance.
+
+Additional financial support is often provided by employment and training opportunities on externally funded faculty research projects. Positions on funded research projects may include full or partial tuition coverage in addition to salary for up to 20 hours per week during the semester, with the possibility of full-time employment during semester breaks and summer months. The timing and availability of such opportunities depend on the status of faculty research projects and external grants.
+
+Funding opportunities for students in the MA program students are limited.  Masters students cannot be funded through Teaching Assistantships.  Occasionally, there are funded research opportunities for which MA students are eligible.
 
 ## FAQ's
 
