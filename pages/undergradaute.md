@@ -14,7 +14,7 @@ sidebar-content: > #
    
    ___
    
-   **Undegraduate Chair:**  
+   **Undergraduate Chair:**  
    Elizabeth Groff  
    531 Gladfelter Hall  
    [(215) 204-5164](tel:2152045164)  
