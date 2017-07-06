@@ -6,38 +6,33 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Cathy Rosen    
+   529 Gladfelter Hall    
+   [(215)204-1089](tel:2152041089)    
+   [crosen@temple.edu](mailto:crosen@temple.edu)    
+   
+   ___
+   
+   **Graduate Chair:**  
+   Jamie Fader  
+   552 Gladfelter Hall    
+   [jfader@temple.edu](mailto:jfader@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Jessica Brennan  
+   708 Gladfelter Hall   
+   [(215) 204-7577](tel:2152047577)  
+   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
+   
+   ___
 
-  <hr>
-
-  **Chair:** <br/>
-  Cathy Rosen<br>
-  529 Gladfelter Hall<br>
-  [(215)204-1089](tel:2152041089)<br>
-  [crosen@temple.edu](mailto:crosen@temple.edu)<br>
-  
-  <hr>
-
-  **Graduate Chair:** <br/>
-  Jamie Fader<br>
-  552 Gladfelter Hall<br>
-  [jfader@temple.edu](mailto:jfader@temple.edu)<br>
-
-  <hr>
-
-  **Administrator:** <br/>
-  Jessica Brennan<br>
-  708 Gladfelter Hall<br>
-  [(215) 204-7577](tel:2152047577)<br> 
-  [tua11422@temple.edu](mailto:tua11422@temple.edu)<br>
-
-  <hr>
-
-  **Coordinator:** <br/>
-  LaSaundra Scott<br>
-  Coordinator<br>
-  [(215) 204-1376](tel:2152041376)<br>
-  [lscott01@temple.edu](mailto:lscott01@temple.edu)<br>
+   **Coordinator:**  
+   LaSaundra Scott     
+   [(215) 204-1376](tel:2152041376)   
+   [lscott01@temple.edu](mailto:lscott01@temple.edu)  
 ---
 
 ## Program Overview
