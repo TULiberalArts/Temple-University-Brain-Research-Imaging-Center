@@ -174,6 +174,13 @@ CJ 4077 is the required weekly Practicum class for which you receive 3 CJ electi
 
 Contact Dr. Cheryl Irons to begin the process of selecting and registering for an internship: (267) 468-8281. E-mail is the most effective way to contact Dr. Irons: [cirons@temple.edu](mailto:cirons@temple.edu). **You can not register online for CJ4077 and CJ4087.**
 
+### Virtual Student Foreign Service
+
+The United States Department of State offers an innovative eInternship program for students to serve Virtual Student Foreign Service Internships. The deadline for the applications is **July 26, 2017**. Complete instructions are on the State Department website. See the links below for more information on the eInternships which include 533 different virtual projects.
+
+- [Virtual Student Foreign Service](https://www.state.gov/vsfs/)
+- [2017 - 2018 Virtual Student Foreign Service (VSFS) eInternship](https://www.usajobs.gov/GetJob/ViewDetails/471416100)
+
 ## Career Opportunities
 
 [Temple’s Career Services](http://www.temple.edu/provost/careercenter/) is a central resource and provides resume critiques, interview techniques, local job fair information, and current available job listings. The resources available through Temple’s Career Services equips students with vital tools to navigate in the current work force.
