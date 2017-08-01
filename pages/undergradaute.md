@@ -5,35 +5,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
-  **Chair:**  
-   Cathy Rosen    
-   529 Gladfelter Hall    
-   [(215)204-1089](tel:2152041089)    
-   [crosen@temple.edu](mailto:crosen@temple.edu)    
-   
-   ___
-   
-   **Undergraduate Chair:**  
-   Elizabeth Groff  
-   531 Gladfelter Hall  
-   [(215) 204-5164](tel:2152045164)  
-   [groff@temple.edu](mailto:groff@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Jessica Brennan  
-   708 Gladfelter Hall   
-   [(215) 204-7577](tel:2152047577)  
-   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
-   
-   ___
-
-   **Coordinator:**  
-   LaSaundra Scott     
-   [(215) 204-1376](tel:2152041376)   
-   [lscott01@temple.edu](mailto:lscott01@temple.edu)  
+sidebar-content: "**Chair:**  \n Cathy Rosen    \n 529 Gladfelter Hall    \n [(215)204-1089](tel:2152041089)    \n [crosen@temple.edu](mailto:crosen@temple.edu)    \n \n ___\n \n **Undergraduate Chair:**  \n Elizabeth\_Groff  \n 531 Gladfelter Hall  \n [(215) 204-5164](tel:2152045164)  \n [groff@temple.edu](mailto:groff@temple.edu)  \n \n ___\n \n **Administrator:**  \n Jessica Brennan  \n 708 Gladfelter Hall   \n [(215) 204-7577](tel:2152047577)  \n [tua11422@temple.edu](mailto:tua11422@temple.edu)  \n \n ___\n\n **Coordinator:**  \n LaSaundra\_Scott     \n [(215) 204-1376](tel:2152041376)   \n [lscott01@temple.edu](mailto:lscott01@temple.edu)  \n"
 ---
 
 ## A Hands-On Approach
@@ -48,6 +20,8 @@ into the classroom. They also bring a wide variety of contacts that translate in
 ## Networking Opportunities
 
 Through our faculty’s contacts with practitioners in courts, corrections and policing, as well as via active involvement by undergraduates in internships and research activities, students are given excellent grounding for employment, law school or graduate school.
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
 
 ## Academic Offerings
 
