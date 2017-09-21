@@ -15,9 +15,10 @@ sidebar-content: > #
    ___
    
    **Undergraduate Chair:**  
-   Elizabeth Groff  
-   531 Gladfelter Hall    
-   [groff@temple.edu](mailto:groff@temple.edu)  
+   Jennifer Wood  
+   548 Gladfelter Hall 
+   [(215)204-8055](tel:2152048055)
+   [woodj@temple.edu](mailto:woodj@temple.edu)  
    
    ___
    
