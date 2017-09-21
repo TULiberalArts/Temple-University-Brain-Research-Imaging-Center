@@ -2,10 +2,10 @@
 title: Research
 permalink: /research/
 layout: page
+keywords: ''
+description: >-
 published: true
 ---
-
-
 Temple’s Department of Criminal Justice consists of an eclectic body of scholars committed to deepening our understanding of crime, governance and social justice. We emphasize inter-disciplinary and multi-method inquiries that make a difference to policy and practice. We pursue cutting-edge research and innovation that draws from and extends many strands of social science, including criminology and criminal justice, geography, history, experimental psychology, social psychology, social work, sociology, and social ecology. We explore critical issues in Philadelphia and across the United States in the context of global developments and concerns.
 
 ## Rehabilitation and Behavior Change
