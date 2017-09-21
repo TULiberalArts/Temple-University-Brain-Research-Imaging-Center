@@ -1,11 +1,11 @@
 ---
 title: Next Stops
-meta-keywords: 3 or 4 unique for this page
 permalink: /next-stops/
 layout: page
+keywords: ''
+description: >-
 published: true
 ---
-
 ## Next Stops:
 
 Criminal Justice students are in-demand in the workplace. Our graduates pursue a variety of careers in law, counseling, law enforcement, the courts system and corrections.
