@@ -1,13 +1,39 @@
 ---
 title: Undergraduate
-meta-keywords: 3 or 4 unique for this page
 permalink: /undergraduate/
 layout: page
+keywords: ''
 published: true
 sidebar: true
-sidebar-content: "**Chair:**  \n Cathy Rosen    \n 529 Gladfelter Hall    \n [(215)204-1089](tel:2152041089)    \n [crosen@temple.edu](mailto:crosen@temple.edu)    \n \n ___\n \n **Undergraduate Chair:**  \n Elizabeth\_Groff  \n 531 Gladfelter Hall  \n [(215) 204-5164](tel:2152045164)  \n [groff@temple.edu](mailto:groff@temple.edu)  \n \n ___\n \n **Administrator:**  \n Jessica Brennan  \n 708 Gladfelter Hall   \n [(215) 204-7577](tel:2152047577)  \n [tua11422@temple.edu](mailto:tua11422@temple.edu)  \n \n ___\n\n **Coordinator:**  \n LaSaundra\_Scott     \n [(215) 204-1376](tel:2152041376)   \n [lscott01@temple.edu](mailto:lscott01@temple.edu)  \n"
----
+sidebar-content: > #
+  **Chair:**  
+   Cathy Rosen    
+   529 Gladfelter Hall    
+   [(215)204-1089](tel:2152041089)    
+   [crosen@temple.edu](mailto:crosen@temple.edu)    
+   
+   ___
+   
+   **Undergraduate Chair:**  
+   Elizabeth Groff  
+   531 Gladfelter Hall    
+   [groff@temple.edu](mailto:groff@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Jessica Brennan  
+   708 Gladfelter Hall   
+   [(215) 204-7577](tel:2152047577)  
+   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
+   
+   ___
 
+   **Coordinator:**  
+   LaSaundra Scott     
+   [(215) 204-1376](tel:2152041376)   
+   [lscott01@temple.edu](mailto:lscott01@temple.edu)  
+---
 ## A Hands-On Approach
 
 Students have a wide variety of internship opportunities and our classes emphasize experiential learning. Our internationally recognized “Inside Out” program offers the opportunity to attend classes in a prison.
