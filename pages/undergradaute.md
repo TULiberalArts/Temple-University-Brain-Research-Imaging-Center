@@ -3,6 +3,7 @@ title: Undergraduate
 permalink: /undergraduate/
 layout: page
 keywords: ''
+description: >-
 published: true
 sidebar: true
 sidebar-content: > #
