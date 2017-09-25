@@ -181,7 +181,7 @@ Contact Dr. Cheryl Irons to begin the process of selecting and registering for a
 The United States Department of State offers an innovative eInternship program for students to serve Virtual Student Foreign Service Internships. The deadline for the applications is **July 26, 2017**. Complete instructions are on the State Department website. See the links below for more information on the eInternships which include 533 different virtual projects.
 
 - [Virtual Student Foreign Service](https://www.state.gov/vsfs/)
-- [2017 - 2018 Virtual Student Foreign Service (VSFS) eInternship](https://www.usajobs.gov/GetJob/ViewDetails/471416100) 
+- 2017 - 2018 Virtual Student Foreign Service (VSFS) eInternship
 
 ## Career Opportunities
 
