@@ -67,6 +67,7 @@ google_tag_manager: GTM-58ZL5B
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/criminal-justice/csv
 news-feed: https://liberalarts.temple.edu/articles/criminal-justice/csv
+articles-feed: https://liberalarts.temple.edu/articles/criminal-justice/csv
 faculty-feed: https://liberalarts.temple.edu/profiles/criminal-justice/csv
 media-mentions-feed: https://liberalarts.temple.edu/media-mentions/criminal-justice/csv
 
