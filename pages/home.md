@@ -5,12 +5,10 @@ layout: home
 description: >-
 keywords: ''
 feature: false
-feature-title: The Department Of Criminal Justice is Committed to Deepening our 
-Understanding Of Crime, Governance And Social Justice.
+feature-title: The Department Of Criminal Justice is Committed to Deepening our Understanding Of Crime, Governance And Social Justice.
 feature-image: 
-feature-body: The criminal justice system has three major components: 
-the courts, law enforcement, and corrections. Our majors learn how these three 
-components function and impact the larger society.
+feature-body: >- 
+  The criminal justice system has three major components: the courts, law enforcement, and corrections. Our majors learn how these three   components function and impact the larger society.  
 published: true
 ---
 
