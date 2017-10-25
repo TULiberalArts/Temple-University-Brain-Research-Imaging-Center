@@ -34,8 +34,9 @@ sidebar-content: > #
    LaSaundra Scott     
    [(215) 204-1376](tel:2152041376)   
    [lscott01@temple.edu](mailto:lscott01@temple.edu)  
----
-<div class="row">
+   
+---  
+   <div class="row">
 <div class="col s1 m8 l8"></div>
   <div class="col s2 m2">
     <a href="google.com" class="waves-effect waves-light btn">Graduate Handbook</a>
