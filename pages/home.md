@@ -4,7 +4,7 @@ permalink: /
 layout: home
 description: >-
 keywords: ''
-feature: false
+feature: true
 feature-title: The Department Of Criminal Justice is Committed to Deepening our Understanding Of Crime, Governance And Social Justice.
 feature-image: 
 feature-body: >- 
