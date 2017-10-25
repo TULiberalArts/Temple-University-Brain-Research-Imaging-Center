@@ -35,7 +35,17 @@ sidebar-content: > #
    [(215) 204-1376](tel:2152041376)   
    [lscott01@temple.edu](mailto:lscott01@temple.edu)  
 ---
-
+<div class="row">
+<div class="col s1 m8 l8"></div>
+  <div class="col s2 m2">
+    <a href="google.com" class="waves-effect waves-light btn">Graduate Handbook</a>
+      <span class="white-text"> 
+          </span>
+    </div>
+  </div>
+</div>
+</div>
+---
 ## Program Overview
 
 We are very proud of the Criminal Justice graduate program at Temple University. We offer a Master of Arts in Criminal Justice and we also have a doctoral program that leads to a PhD in Criminal Justice. Our graduate program comprises a diverse and active faculty. At Temple we offer a dynamic environment in which faculty, with graduate students, conduct research at the local, regional, national and international levels. Our success to date is evident when you review the wide variety of research grants we receive, the range of publications we (and our students) produce, the reputations of our faculty and the quality of the graduate students we develop, as evidenced by the job placements of our doctoral students.
