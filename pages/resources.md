@@ -195,29 +195,6 @@ Temple University provides programs that support students in building their rese
 
 Individuals should go to the websites or contacts listed for the latest information on due dates, eligibility, and application requirements.
 
-## ProRanger Philadelphia
-
-“ProRanger Philadelphia” is an academic and technical skills training and paid internship program that is cooperatively administered by the National Park Service and Temple University. The program was established to recruit, train and employ law enforcement park rangers for the National Park Service. Upon graduation from Temple University and successfully completing the ProRanger program, participants are placed in a permanent career tenure law enforcement park ranger position with the  National Park Service.
-
-Upon acceptance into the ProRanger Philadelphia program, a ProRanger trainee will become part of a experiential learning cohort made up of between 12 and 20 fellow trainees. The cohort will annually enroll in a one credit course at Temple University that focuses on learning about the mission and functions of the National Park Service, the role of law enforcement in National Parks and the reflective National Park experiences of the cohort group.
-
-During the non-academic summer periods between the freshmen/sophomore and sophomore/junior years, the ProRanger Philadelphia trainee will be assigned to a National Park area and will be employed as a seasonal National Park Service Park Ranger.
-
-During the non-academic period between the junior/senior year, the ProRanger trainee will be enrolled in the 10 week Seasonal Law Enforcement Training Program (SLETP) held at Temple University.
-
-- For more information on the program click [here](http://www.temple.edu/provost/university-college/proranger/) for the ProRanger Philadelphia page.
-- Click [here](http://prorangerphila.blogspot.com/) for the Proranger Philadelphia Blog
-
-## The Inside-Out Prison-Exchange Program
-
-The Inside-Out course is a special group independent study in which a small group of “outside” students has class with a group of “inside” students in the Philadelphia Prison System and Graterford Prison. The program is an opportunity for everyone involved to explore issues of crime and justice behind the walls,in the hopes of deepening and transforming the dialogue about these issues. Information on the Inside-Our Program can be found on the [Inside-Out website](http://www.insideoutcenter.org/). The program’s e-mail address is [inout@temple.edu](mailto:inout@temple.edu).
-
-## Study Abroad Program
-
-Temple students can study abroad in almost any country around the world through Temple programs, exchanges, and partnerships with external programs. Navigate through the Discover Study Abroad section of our [website](https://studyabroad.temple.edu/) to learn more about the process, and explore our opportunities to find the right study abroad program for you.
-
-The criminal justice department is offering a special topics course at the Rome campus during the Summer 2017 semester.  The course, Art and Justice, is being headed by our own [Sharon Ostrow](mailto:scostrow@temple.edu).
-
 ## Near Repeat Calculator
 
 The software program, Near Repeat Calculator (hereafter referred to as the “program”), was supported by Grant 2006-IJ-CX-K006 awarded by the National Institute of Justice, Office of Justice Programs, US Department of Justice. Points of view in this document are those of the author and do not necessarily represent the official position or policies of the US Department of Justice.
