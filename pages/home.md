@@ -5,14 +5,11 @@ layout: home
 description: >-
 keywords: ''
 feature: false
-feature-title: 
+feature-title: The Department Of Criminal Justice is Committed to Deepening our Understanding OF Crime, Governance And Social Justice.
 feature-image: 
-feature-body: 
+feature-body: The criminal justice system has three major components: the courts, law enforcement, and corrections. Our majors learn how these three components function and impact the larger society.
 published: true
 ---
-
-The criminal justice system has three major components: the courts, law enforcement, and corrections. Our majors learn how these three components function and impact the larger society.
-
 Students often debate issues such as policelegitimacy, victims’ rights, mass incarceration, fairness in sentencing, and reintegration of formerly incarcerated individuals, as well as a wide variety of other topics. Criminal Justice majors gain a deeper understanding of crime, governance and social justice. Our students graduate and make a difference by working in various criminal justice agencies, becoming attorneys and attending graduate school.
 
 <div class="row row-wide">
