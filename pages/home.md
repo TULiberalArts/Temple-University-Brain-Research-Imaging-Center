@@ -17,26 +17,26 @@ Students often debate issues such as policelegitimacy, victims’ rights, mass i
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
-    content=" " 
+    title="Undergraduate: A Practice-Focused Intellectual Experience" 
+    content="Engage in a multi-disciplinary approach to the study of crime, offenders, and victims, as well as <br/>the agencies, goals, laws, policies, and processes of the criminal justice system" 
     image="" 
-    button-link=" " 
+    button-link="undergraduate" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title=" " 
-      content=" " 
+      title="Graduate: Policy-Oriented Research and Training" 
+      content="A dynamic environment in which faculty, with graduate students, conduct research at the local, regional, national and international levels" 
       image="" 
-      button-link=" " 
+      button-link="graduate" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
-        content=" " 
+        title="ProRanger: Dedicated Internships and Job Focused Programs" 
+        content="Academic and technical skills training and internship program that is cooperatively administered by the National Park Service and Temple University" 
         image="" 
-        button-link=" " 
+        button-link="http://www.temple.edu/provost/university-college/proranger/" 
         button-text="Learn More" %}
       </div>
 </div>
