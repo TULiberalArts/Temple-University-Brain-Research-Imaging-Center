@@ -25,6 +25,16 @@ Potential career paths include:
 - Crime Analyst
 - Youth Counselor
 
+### Careers
+
+- Local/State Law Enforcement: Police Officer, State Trooper, Detective, Sheriff, Crime Analyst, Intelligence Analyst, Department of Public Safety Telecommunicator
+- Federal Law Enforcement: ATF (Alcohol, Tobacco and Firearms) Agent, Drug Enforcement Agency Agent, Federal Bureau of Investigation Agent, Secret Service Agent, Central Intelligence Agency Agent or Analyst, Department of Homeland Security Agent, US Postal Inspector, US Marshalls Service Agent, TSA (Transportation Security Administrator or Officer), United States Park Ranger, Crime Analyst, Intelligence Analyst
+- Private Security: Security Officer, Retail Loss Prevention Specialist, Private Investigator, Private Intelligence Analyst
+- Corrections: Adult/Juvenile Parole Officer, Correctional Officer, Case worker, Mental health counselor, - Youth Counselor
+Human Services: Mental Health Technician, Child and Family Social Worker, Youth Advocate, Crisis Counselor, Victims Advocate, Therapist
+- Legal/Courts: Prosecutor, Defense Attorney, Paralegal, Legal Assistant, Court Clerk, Adult Probation Officer, Juvenile Court Probation Officer, Court Administration
+- Other careers: Researcher, Analyst
+
 ## Make Your Declaration
 
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
