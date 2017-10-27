@@ -36,6 +36,8 @@ Affiliated Faculty: Caterina Roman and Kate Auerhahn
 Description: The data from the evaluation of the Serious and Violent Offender Reentry Initiative (SVORI) are very complex and rich panel data that allow for the investigation of the dynamics of re-entry and the post incarceration experience. Released in 2011, these data are already the focus of a great deal of secondary analysis and are likely to continue as such. Missing data are a problem endemic to panel studies, and to research on offenders, ex-offenders, and other socially marginal populations. Given the theoretical and practical currency of reentry issues in criminal justice, and the importance of panel data to the study of these issues, Auerhahn is examining the theoretical underpinnings and subsequent consequences of different approaches to the handling of missing data. Research using the SVORI data to investigate the relationship between family support and recidivism reveals that analyses utilizing listwise deletion and multiple imputation are substantively quite similar. More specific comparisons of similarities and differences between these results are discussed along with implications for the interpretation of findings.
 Roman and colleagues are using the SVORI data to examine the relationship between prisoner debt, child support, employment and successful community reintegration. Recently published pieces include a descriptive analyses of child support debt and its relationship to service receipt post-incarceration (Criminal Justice Policy Review), and the longitudinal associations among child support debt, employment, and recidivism (Sociological Quarterly)
 
+___
+
 ## Systems of Criminal Justice, Law, and Procedural Justice
 
 Project Title: **Power, Knowledge and Evidence:  The Social Structure of the Production of Knowledge**
@@ -75,6 +77,8 @@ Official contact with the criminal justice system can have deleterious, unintend
 Project Title: **Criminal justice reform and labor markets in the 21st century**
 Affiliated Faculty: Kate Auerhahn
 Description: Over the last three decades, the US prison population grew dramatically, largely fueled by the enforcement of policies associated with the War on Drugs.  At the same time, the American economic system underwent radical transformation, characterized by growth in highly-skilled sector occupations and decline in unskilled jobs as a result of automation and foreign outsourcing, as well as declines in labor demand generally, as evidenced by three years of a “slack” labor market.  Current trends in criminal justice, such as increased interest in reentry and in reducing rates of return for former prisoners, as well as the growing movement toward drug policy reform, if continued, will ultimately result in the decarceration and reintroduction of large numbers of men and women into the labor market, the vast majority of whom are qualified for (at best) unskilled occupations.  These individuals are largely superfluous to the current economic system; given the cultural and social primacy of remunerative employment, the integration of these men and women into modern American society presents a significant social policy challenge.  Because the American economy is unlikely to evolve in ways that will absorb these individuals, alternative approaches to addressing both the labor market discrepancy and the consequent implications for crime merit exploration.  This project focuses on the idea of citizenship rights, and the idea of Guaranteed Basic Income, modeling a comparison of the costs of such a policy as compared to those of incarceration over the life course.
+
+___
  
 ## Intersection of Public Health, Crime and Justice
 
@@ -97,6 +101,8 @@ Project Title: **CRIME-PA: Crime Model Evaluation for Physical Activity**
 Funding Agency: National Heart, Blood and Lung Institute (NIH)
 Affiliated Faculty: Caterina Roman and Ralph Taylor (subcontractors to UCSD)
 Description: The study evaluates a trans-disciplinary conceptual model of the relation of crime and crime-related perceptions to physical activity and other cardiovascular disease-related outcomes across the life span. Research activities include development of reliable measures of crime-related constructs that will be applicable across the life span.
+
+___
 
 ## Geography of Crime and Justice 
 
@@ -129,6 +135,8 @@ Project Title: **Bail Prediction: Exploring the Role of Neighborhood Context in 
 Affiliated Faculty: E. Rely Vîlcică
 Description: This study (2015, Criminal Justice & Behavior) examined neighborhood effects on defendant pretrial performance. Specifically, the study looked at whether there was neighborhood-level variation in defendants’ failure-to-appear for trial and pretrial criminal conduct and explored the impact on these outcomes of neighborhood structural conditions such as socioeconomic status, stability, and racial composition. Prior bail prediction research has relied only on individual-level attributes. This paper, therefore, for the first time provided a novel perspective in recognizing the role of community context in empirical prediction of bail outcomes. The findings have important implications for bail decisionmaking policy and are relevant for the validity of the contemporary theories that emphasize the community context of crime in shaping deviant behavior.
 
+___
+
 ## Policing, Security and Crime Prevention
 
 Project Title: **Smart Policing: Hypothesis testing**
@@ -157,7 +165,9 @@ Description: This project will develop a multidisciplinary framework that weaves
  
 Project Title: **Police legitimacy perceptions**
 Affiliated Faculty: Ralph B. Taylor
-Description: Much has yet to be understood about the determinants of perceived police legitimacy and related topics such as confidence in the criminal justice system. Recent research examines variable connections between perceived fairness and effectiveness depending both on perceiver race and urban vs. suburban location (Taylor, Wyant, Lockwood, Social Science Research, 2014 online), and impacts of both perceived fairness and incivilities on police confidence across the commonwealth (Taylor and Lawton Police Quarterly 2012)
+Description: Much has yet to be understood about the determinants of perceived police legitimacy and related topics such as confidence in the criminal justice system. Recent research examines variable connections between perceived fairness and effectiveness depending both on perceiver race and urban vs. suburban location (Taylor, Wyant, Lockwood, Social Science Research, 2014 online), and impacts of both perceived fairness and incivilities on police confidence across the commonwealth (Taylor and Lawton Police Quarterly 2012).
+
+___
 
 ## Youth Crime, Delinquency Prevention and Juvenile Justice
 
@@ -177,6 +187,8 @@ Project Title: **The Penology of Justice for Minors in the United States and Eur
 Affiliated Faculty: E. Rely Vîlcică
 Description: In contrast to the United States, many European countries do not have separate, specialized courts dedicated to the processing of delinquent youth. However, reform efforts there, especially in the most recent EU country members, are considering experimenting with such courts. In efforts to contribute to such discussions, this research will critically compare the merits of adopting a dedicated juvenile court system in Romania (a recent EU member)  versus maintaining processing in the mainstream courts, drawing on lessons from the relatively long history of the American juvenile court.
 
+___
+
 ## Criminal Behavior and Community Crime Rates
 
 Project Title: **State of the art in agent-based modeling of urban crime: Overview, critical questions and next steps**
@@ -194,6 +206,8 @@ Description: This community-based study uses participant observation and in-dept
 Project Title: **Philadelphia Drug Sellers Study**
 Affiliated Faculty: Jamie Fader
 Description: This research projects comprises an active offender study of drug sellers in Philadelphia. Interviews were conducted 2009-2012 and are being used to explore (1) how family criminal capital (i.e., criminal family networks) reduces the risks and potential costs of apprehension; (2) the relationship between legal and illegal employment, including drug sellers’ perceptions of whether drug dealing can be a long-term career; and (3) whether specific criminal justice sanctions (e.g., arrest, drug crackdowns) lead to adjustments in the strategies and techniques used to avoid apprehension.
+
+___
 
 ## Policy Analysis and Program Evaluation
 
@@ -247,6 +261,8 @@ Project Title: **Criminal Justice Reform and Labor Markets in the 21st Century**
 Affiliated faculty: Kate Auerhahn
 Description: Over the last three decades, the US prison population grew dramatically, largely fueled by the enforcement of policies associated with the War on Drugs.  At the same time, the American economic system underwent radical transformation, characterized by growth in highly-skilled sector occupations and decline in unskilled jobs as a result of automation and foreign outsourcing, as well as declines in labor demand generally, as evidenced by three years of a “slack” labor market.  Current trends in criminal justice, such as increased interest in reentry and in reducing rates of return for former prisoners, as well as the growing movement toward drug policy reform, if continued, will ultimately result in the decarceration and reintroduction of large numbers of men and women into the labor market, the vast majority of whom are qualified for (at best) unskilled occupations.  These individuals are largely superfluous to the current economic system; given the cultural and social primacy of remunerative employment, the integration of these men and women into modern American society presents a significant social policy challenge.  Because the American economy is unlikely to evolve in ways that will absorb these individuals, alternative approaches to addressing both the labor market discrepancy and the consequent implications for crime merit exploration.  This project focuses on the idea of citizenship rights, and the idea of Guaranteed Basic Income, modeling a comparison of the costs of such a policy as compared to those of incarceration over the life course.
 
+___
+
 ## Center for Security and Crime Science
 
 The Center for Security and Crime Science (housed in the Department of Criminal Justice at Temple University) is the first center in the United States devoted to Crime Science. In the 21st Century, thinking about crime has expanded in scope to move beyond domestic concerns and security has become more broadly construed as dealing with issues of public safety and social harm. Crime is now the business of private as well as public agencies, formal as well as informal entities, all seeking to address multiple levels of security concerns.
@@ -254,6 +270,8 @@ The Center for Security and Crime Science (housed in the Department of Criminal 
 Crime Science is a departure from old ways of thinking about the problem of crime in society. Traditional criminology has concentrated on what happens after crimes are committed; that is, how we respond to a criminal act and how we define "crime". Crime Science aims to get upstream of crime and to proactively prevent it rather than merely respond to it. Crime Science examines those crimes which occur most frequently and then develops policy options which close off the criminal opportunities. This approach can work to reduce both the inclination and the opportunity to commit crime and harm communities.
 
 Crime Science takes the issue of crime one step further than traditional criminology. It seeks contributions from inter-related disciplines, including; psychology, geography, public health, law and urban planning. The inter-disciplinary nature of Crime Science allows the development of a coherent strategy to influence both product and building design, and to examine the social and psychological factors, which contribute to criminal activity. The result is an integrated approach to the problem of crime.
+
+___
 
 ## The Philadelphia Predictive Policing Experiment
 
@@ -265,9 +283,9 @@ At present the law enforcement field lacks robust evidence to suggest the approp
 
 The research team from Temple University and the Research and Analysis section of the Philadelphia Police Department randomly assigned 20 Philadelphia Police Department (PPD) districts into one of four experimental conditions. Five districts acted as controls, with a business-as-usual patrol strategy. In five districts, officers will be made aware of the predicted high crime activity area at roll call and asked to concentrate there when able (a simple awareness model). Five districts received the awareness model treatment as well as an additional patrol car solely dedicated to the predicted crime area. Finally, five districts received an intelligence-led, investigative response with an unmarked unit dedicated to the predicted area. The fieldwork ran from the spring of 2015 to the end of January 2016, and examined both property crime and violent crime. The predictive policing software employed was the [HunchLab](https://www.hunchlab.com/) program designed by [Azavea](http://www.azavea.com/).
 
-At present, the data are being analyzed. More information and results, when available will be posted here.
-
 Policing predicted crime areas: An operationally-realistic randomized, controlled field experiment.
+
+___
 
 ## The Philadelphia Policing Tactics Experiment
 
@@ -293,6 +311,8 @@ More details are available in a research brief [here](http://www.cla.temple.edu/
 
 The full study is published [here](http://onlinelibrary.wiley.com/doi/10.1111/1745-9125.12055/abstract) as: Groff, E. R., Ratcliffe, J. H., Haberman, C. P., Sorg, E. T., Joyce, N. M., & Taylor, R. B. (2015). Does What Police Do At Hot Spots Matter? The Philadelphia Policing Tactics Experiment. Criminology, 53(1), 23-53.
 
+___
+
 ## PROVE: Predictive Policing Software
 
 [This project](https://www.hunchlab.com/tools/prove) has developed technology that will depict and predict current and future crime potential. In doing so, it operationalizes two grounded theoretical approaches to understanding localized spatial crime patterns. This combination of a long-term crime potential map surface with a short-term crime spike surface creates the opportunity for law enforcement and other criminal justice agencies to apply a theoretical understanding to the business of crime prediction. The resulting map of predicted crime will enable police departments to take a proactive approach to crime prevention, disruption and reduction, and will provide a foundation for predictive policing and crime prevention.
@@ -311,6 +331,8 @@ This research has been published [here](http://jrc.sagepub.com/content/52/5/635)
 
 This [National Institute of Justice](http://www.nij.gov/Pages/welcome.aspx) funded research project is ongoing, however the software is now available as of October 2016. Please visit the following [website](https://www.hunchlab.com/tools/prove) (you will leave the Temple University site) to access the software downloader, manual, and quick start guide.
 
+___
+
 ## The Philadelphia Foot Patrol Experiment
 
 [https://youtu.be/0NUQsK0vnnM](https://youtu.be/0NUQsK0vnnM)
@@ -326,6 +348,8 @@ Officers patrolled in pairs with two pairs assigned to each foot patrol. They wo
 The [experiment results](http://onlinelibrary.wiley.com/doi/10.1111/j.1745-9125.2011.00240.x/abstract) were reported in the journal Criminology. The full citation is: Ratcliffe, J. H., Taniguchi, T., Groff, E.R., & Wood, J. (2011). The Philadelphia Foot Patrol Experiment: A randomized controlled trial of police patrol effectiveness in violent crime hotspots. Criminology, 49(3), 795-831.
 
 A three-page [research summary](http://www.cla.temple.edu/cj/files/2015/11/PFPE_research_summary.pdf) is also available.
+
+___
 
 ### Follow-Up Research And Further Findings From The Experiment
  
@@ -359,6 +383,19 @@ At present we can report preliminary results of a time series analysis of the im
 
 For more details contact- Dr Jerry Ratcliffe or Dr Elizabeth Groff.* Details of this pilot study can be found in Ratcliffe, JH, Taniguchi, T, and Taylor, RB (2009) The crimereduction effects of public CCTV cameras: A multi-method spatial approach, Justice Quarterly, 26(4):746-770.
 
+## Research Resources
+
+### Mechanics Of Applying For External Funding Through Temple
+
+In addition to Temple-sponsored funding for research, many faculty and students also apply for external research funding. Major sources for Criminal Justice funding include, but are not limited to the National Institutes of Health, the National Institute of Justice, and the Bureau of Justice Assistance. Please consult the websites of the specific agencies for current funding solicitations and deadlines.
+
+The Criminal Justice Department’s Research Committee has put together a document to illuminate the process for applying here at Temple. Click here to view this document titled [‘Mechanics of Submitting a Grant Proposal for External Funding’](http://www.cla.temple.edu/cj/files/2014/09/ExternalFundingGuide1.pdf). This document should be viewed as a resource rather than the final word in how to apply.
+
+### Human Sunjects Approval
+
+The Criminal Justice Department is committed to the highest ethical standards when conducting research involving human subjects. We follow the guidelines set out by Temple University and the federal government. Visit the [Temple Institutional Review Board](http://research.temple.edu/irb) home page.
+
+Faculty in Criminal Justice endeavor to provide undergraduate students with ‘hands on’ class-related activities that often require them to do fieldwork or analyze data. Each faculty member is required to obtain approval from the IRB for these activities during the semester in which they are to be completed. The **IRB Approval Guide for Undergraduate Classroom Activities** document (under construction) provides details on the necessary paperwork to be filed by the faculty member. It also contains instructions for how undergraduate students should sign up and complete the undergraduate student version of the IRB training course.
 ## Research Links
 
 Click on the following research projects to learn more:
