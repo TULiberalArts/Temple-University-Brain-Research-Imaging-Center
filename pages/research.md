@@ -327,7 +327,7 @@ We found that for all crime types investigated except rape and homicide, crime p
 
 We concluded that intercommunity structural differences in power relationships, as reflected in SES and racial composition, link to later crime shifts at the same time that ongoing crime continuities link current and future crime levels. The main practical implication is that crime analysts tasked with long-term, one-year-look-ahead forecasting may benefit by considering demographic structure as well as current crime.
 
-This research has been published [here](http://jrc.sagepub.com/content/52/5/635) as: Taylor, R. B., Ratcliffe, J.H. and Perenzin, A. (2015) Can we predict long-term community crime problems? The estimation of ecological continuity to model risk heterogeneity. [Journal of Research in Crime and Delinquency](http://jrc.sagepub.com/content/52/5/635) 52(5): 635-657.
+This research has been published [here](http://journals.sagepub.com/doi/abs/10.1177/0022427815586062) as: Taylor, R. B., Ratcliffe, J.H. and Perenzin, A. (2015) Can we predict long-term community crime problems? The estimation of ecological continuity to model risk heterogeneity. [Journal of Research in Crime and Delinquency](http://journals.sagepub.com/home/jrc) 52(5): 635-657.
 
 This [National Institute of Justice](http://www.nij.gov/Pages/welcome.aspx) funded research project is ongoing, however the software is now available as of October 2016. Please visit the following [website](https://www.hunchlab.com/tools/prove) (you will leave the Temple University site) to access the software downloader, manual, and quick start guide.
 
