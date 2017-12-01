@@ -2,8 +2,6 @@
 title: Resources
 permalink: /resources/
 layout: page
-keywords: ''
-description: >-
 published: true
 ---
 ## Resources are here to help!
