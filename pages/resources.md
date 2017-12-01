@@ -172,7 +172,7 @@ The Temple University Library system offers a vast collection of print and elect
 
 The United States Department of State offers an innovative eInternship program for students to serve Virtual Student Foreign Service Internships. The deadline for the applications is **July 26, 2017**. Complete instructions are on the State Department website. See the links below for more information on the eInternships which include 533 different virtual projects.
 
-- [Virtual Student Foreign Service](https://www.state.gov/vsfs/)
+- [Virtual Student Foreign Service](http://www.state.gov/vsfs/)
 - 2017 - 2018 Virtual Student Foreign Service (VSFS) eInternship
 
 ## Career Opportunities
