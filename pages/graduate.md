@@ -2,38 +2,9 @@
 title: Graduate
 permalink: /graduate/
 layout: page
-keywords: ''
-description: >-
 published: true
 sidebar: true
-sidebar-content: > #
-  **Chair:**  
-   Cathy Rosen    
-   529 Gladfelter Hall    
-   [(215)204-1089](tel:2152041089)    
-   [crosen@temple.edu](mailto:crosen@temple.edu)    
-   
-   ___
-   
-   **Graduate Chair:**  
-   Jamie Fader  
-   552 Gladfelter Hall    
-   [jfader@temple.edu](mailto:jfader@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Jessica Brennan  
-   708 Gladfelter Hall   
-   [(215) 204-7577](tel:2152047577)  
-   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
-   
-   ___
-
-   **Coordinator:**  
-   LaSaundra Scott     
-   [(215) 204-1376](tel:2152041376)   
-   [lscott01@temple.edu](mailto:lscott01@temple.edu)  
+sidebar-content: "**Chair:**  \n Cathy Rosen    \n 529 Gladfelter Hall    \n [(215)204-1089](tel:2152041089)    \n [crosen@temple.edu](mailto:crosen@temple.edu)    \n \n ___\n \n **Graduate Chair:**  \n Jamie Fader  \n 552 Gladfelter Hall    \n [jfader@temple.edu](mailto:jfader@temple.edu)  \n \n ___\n \n **Administrator:**  \n Jessica Brennan  \n 708 Gladfelter Hall   \n [(215) 204-7577](tel:2152047577)  \n [tua11422@temple.edu](mailto:tua11422@temple.edu)  \n \n ___\n\n **Coordinator:**  \n LaSaundra\_Scott     \n [(215) 204-1376](tel:2152041376)   \n [lscott01@temple.edu](mailto:lscott01@temple.edu)  \n"
 ---
 ## Program Overview
 
@@ -47,55 +18,13 @@ The Department of Criminal Justice offers the [MA in Criminal Justice](http://bu
 
 ## Admissions Process
 
-**Applications to the graduate program in Criminal Justice must include:**
-
-- The Temple University Graduate Application Form
-- Transcripts from all graduate and undergraduate study
-- Official GRE score report
-- A brief resume
-- Letters of recommendation from three persons familiar with the applicant's abilities and scholarly potential
-- A “Statement of Goals” explaining the applicant's research interests and purpose for graduate study (2-3 pages)
-- At least one sample of the applicant's writing (previous academic work is preferable)
-- A non-refundable application fee of $60 (if submitted electronically: $75 for paper applications)
-
-International students may be required to submit additional materials, such as TOEFL scores. Non-US applicants should consult the Graduate School Admissions-International Applications [website](http://www.temple.edu/grad/admissions/international.htm).
-
-**Submission of Supplementary Materials**
-
-Unfortunately, the online application system is unable to accept uploaded documents. These can be sent via post to the department at the following address:
-
-Department of Criminal Justice
-Temple University
-1115 Pollett Walk
-512 Gladfelter Hall
-Philadelphia, PA 19122
-
-Documents may also be submitted electronically to [CJGRAD@temple.edu](mailto:CJGRAD@temple.edu).
+Please visit the [Criminal Justice Graduate Admssions](https://liberalarts.temple.edu/admissions/graduate/criminal-justice) page to read about graduate program requirements, dates, deadlines and instructions on how to apply.
 
 ## Careers
 
 A number of our Masters students are already employed in the criminal justice field. Our MA graduates include a detective in the Philadelphia Police Department and the warden of a local jail. Post-graduation, our students have secured positions in local, state, and federal law enforcement and criminal justice agencies such as the New Jersey Juvenile Justice Commission and the Bureau of Alcohol, Tobacco, Firearms and Explosives, while others have gone on to pursue further graduate study, here at Temple and elsewhere.
 
 Many of our PhD graduates have gone on to tenure-track assistant professorships at institutions such as Drexel University, LaSalle University, University of Ottawa, Louisiana State University, Towson University, University of Louisville, and American University; some have begun their academic careers with postdoctoral research positions at institutions like George Mason University and Vera Institute of Justice. In addition to those embarking on academic careers, a number of our PhD graduates have secured research positions at such varied institutions and agencies as the National Institute of Justice, Justice Research and Statistics Association, the Corporation for National and Community Service, the Center for Drug and Alcohol Studies at the University of Delaware, the Police Department of Redlands, California, and Philadelphia Adult Probation and Parole.
-
-## Dates and Deadlines
-
-Applicants interested in the program should start getting their applications together as soon as possible. Please don’t underestimate the time required to pull together the application pack. When the application is compiled early, it allows time for the department to help you with any last minute problems with the application, or for us to help with any questions you have.
-
-**New PhD students are only admitted for the Fall semester there is no Spring admission..**
-
-**For September admission to the PhD program the deadline for receipt of all materials is December 15th.**
-
-**MA students may apply to start in the Fall or Spring semesters. Application dates are:**
-
-- For Fall admission to the MA program, the official deadline is March 1st, although the portal will remain open and we will consider applications received until April 30th. Priority consideration e.g., for funding will be given to applications received by March 15.
-- For Spring admission to the MA program, the application opens August 1st and the official deadline is November 1st although the portal will remain open and applications received until November 30th . Priority consideration e.g., for funding will be given to applications received by October 15th.
-
-For international students, because of the extra validation and work, the deadline is **November 30**.
-
-If you would like to talk to someone in more detail about our program, please contact Dr. Jaime Fader at [jfader@temple.edu](mailto:jfader@temple.edu). We welcome specific questions, especially from prospective students who have their GRE scores available. This helps us to determine like application outcome and financial assistance opportunities.
-
-Temple University has moved to an online application process. If you have the materials above available, then click [here](http://www.temple.edu/grad/) to start the process! Follow the link to graduate application.
 
 ## Financial Opportunities
 
