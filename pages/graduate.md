@@ -18,8 +18,6 @@ The Department of Criminal Justice offers the [MA in Criminal Justice](http://bu
 
 ## Admissions Process
 
-Please visit the  page to read about graduate program requirements, dates, deadlines and instructions on how to apply.
-
 Please visit the [Criminal Justice Graduate Admssions page](https://liberalarts.temple.edu/admissions/graduate/criminal-justice) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Careers
