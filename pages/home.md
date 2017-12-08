@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: /
-layout: home
+layout: home3
 feature: true
 feature-title: >-
   The Department Of Criminal Justice is Committed to Deepening our Understanding
