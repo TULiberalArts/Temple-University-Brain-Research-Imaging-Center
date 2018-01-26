@@ -6,7 +6,7 @@ keywords: ''
 description: >-
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Cathy Rosen    
    529 Gladfelter Hall    
