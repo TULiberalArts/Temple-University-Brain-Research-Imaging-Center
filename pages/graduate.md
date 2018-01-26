@@ -4,11 +4,39 @@ permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: "**Chair:**  \n Cathy Rosen    \n 529 Gladfelter Hall    \n [(215)204-1089](tel:2152041089)    \n [crosen@temple.edu](mailto:crosen@temple.edu)    \n \n ___\n \n **Graduate Chair:**  \n Jamie Fader  \n 552 Gladfelter Hall    \n [jfader@temple.edu](mailto:jfader@temple.edu)  \n \n ___\n \n **Administrator:**  \n Jessica Brennan  \n 708 Gladfelter Hall   \n [(215) 204-7577](tel:2152047577)  \n [tua11422@temple.edu](mailto:tua11422@temple.edu)  \n \n ___\n\n **Coordinator:**  \n LaSaundra\_Scott     \n [(215) 204-1376](tel:2152041376)   \n [lscott01@temple.edu](mailto:lscott01@temple.edu)  \n"
+sidebar-content: |
+  **Chair:**  
+   Cathy Rosen    
+   529 Gladfelter Hall    
+   [(215)204-1089](tel:2152041089)    
+   [crosen@temple.edu](mailto:crosen@temple.edu)    
+   
+   ___
+   
+   **Graduate Chair:**  
+   Jamie Fader  
+   552 Gladfelter Hall 
+   [jfader@temple.edu](mailto:jfader@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Jessica Brennan  
+   708 Gladfelter Hall   
+   [(215) 204-7577](tel:2152047577)  
+   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
+   
+   ___
+
+   **Coordinator:**  
+   LaSaundra Scott     
+   [(215) 204-1376](tel:2152041376)   
+   [lscott01@temple.edu](mailto:lscott01@temple.edu)  
 ---
 ## Program Overview
-
 We are very proud of the Criminal Justice graduate program at Temple University. We offer a Master of Arts in Criminal Justice and we also have a doctoral program that leads to a PhD in Criminal Justice. Our graduate program comprises a diverse and active faculty. At Temple we offer a dynamic environment in which faculty, with graduate students, conduct research at the local, regional, national and international levels. Our success to date is evident when you review the wide variety of research grants we receive, the range of publications we (and our students) produce, the reputations of our faculty and the quality of the graduate students we develop, as evidenced by the job placements of our doctoral students.
+
+Please visit the [Criminal Justice Graduate Admssions page](https://liberalarts.temple.edu/admissions/graduate/criminal-justice) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 Post-graduation, our MA students have secured positions in local, state, and federal law enforcement and criminal justice agencies, while others have gone on to pursue further graduate study. We are also extremely proud of the placement record of our PhD graduates. Many go on to tenure-track academic positions, while others pursue research careers in federal, state, and local agencies or the private sector.
 
