@@ -9,7 +9,6 @@ published: true
 Temple’s Department of Criminal Justice consists of an eclectic body of scholars committed to deepening our understanding of crime, governance and social justice. We emphasize inter-disciplinary and multi-method inquiries that make a difference to policy and practice. We pursue cutting-edge research and innovation that draws from and extends many strands of social science, including criminology and criminal justice, geography, history, experimental psychology, social psychology, social work, sociology, and social ecology. We explore critical issues in Philadelphia and across the United States in the context of global developments and concerns.
 
 ## Rehabilitation and Behavior Change
-
 Rehabilitation and behavior change focuses on research involving high-risk offenders and criminal behaviors that include criminal and violent offending, recidivism, delinquency, substance use, and HIV risk behaviors.
  
 Project Title: **Juvenile Justice-Translational Research on Interventions for Adolescents in the Legal System (JJ-TRIALS)**
@@ -428,4 +427,12 @@ Click on the following research projects to learn more:
 - Taylor, R. B., Harris, P., Jones, P. R., Goldkamp, J. S., Weiland, D., Garcia, R. Marie, & McCord, Eric S.(2009). Short term changes in arrest rates influence short term changes in serious male delinquencyprevalence. Criminology 47:3:657-695.
 
 - Ratcliffe, Jerry H., Taniguchi, Travis A., & Taylor, R. B. (2009). The crime reduction effects of public CCTVcameras: A multi-method spatial approach. Justice Quarterly 26:4:746-770.
+
+## Center for Security and Crime Science
+The Center for Security and Crime Science (housed in the Department of Criminal Justice at Temple University) is the first center in the United States devoted to Crime Science. In the 21st Century, thinking about crime has expanded in scope to move beyond domestic concerns and security has become more broadly construed as dealing with issues of public safety and social harm. Crime is now the business of private as well as public agencies, formal as well as informal entities, all seeking to address multiple levels of security concerns.
+
+Crime Science is a departure from old ways of thinking about the problem of crime in society. Traditional criminology has concentrated on what happens after crimes are committed; that is, how we respond to a criminal act and how we define “crime”. Crime Science aims to get upstream of crime and to proactively prevent it rather than merely respond to it. Crime Science examines those crimes which occur most frequently and then develops policy options which close off the criminal opportunities. This approach can work to reduce both the inclination and the opportunity to commit crime and harm communities.
+
+Crime Science takes the issue of crime one step further than traditional criminology. It seeks contributions from inter-related disciplines, including; psychology, geography, public health, law and urban planning. The inter-disciplinary nature of Crime Science allows the development of a coherent strategy to influence both product and building design, and to examine the social and psychological factors, which contribute to criminal activity. The result is an integrated approach to the problem of crime.
+
 
