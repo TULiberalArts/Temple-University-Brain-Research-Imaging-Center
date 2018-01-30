@@ -9,13 +9,22 @@ feature-title: >-
 feature-image: null
 feature-body: >-
   The criminal justice system has three major components: the courts, law
-  enforcement, and corrections. Our majors learn how these three   components
-  function and impact the larger society.  
+  enforcement, and corrections. Learn how these three components
+  function and impact the larger society 
 published: true
 keywords: ''
 ---
+## Gain a Deeper Understanding of Crime, Governance and Social Justice
+Students often debate issues such as police legitimacy, victims’ rights, mass incarceration, fairness in sentencing, and reintegration of formerly incarcerated individuals, as well as a wide variety of other topics. Criminal Justice majors graduate successfully and make a difference by working in various criminal justice agencies, becoming attorneys and attending graduate school.
 
-Students often debate issues such as policelegitimacy, victims’ rights, mass incarceration, fairness in sentencing, and reintegration of formerly incarcerated individuals, as well as a wide variety of other topics. Criminal Justice majors gain a deeper understanding of crime, governance and social justice. Our students graduate and make a difference by working in various criminal justice agencies, becoming attorneys and attending graduate school.
+## Academic Offerings 
+- [BA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/ba-criminal-justice/)
+- [Minor in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/minor-criminal-justice/)
+- [MA in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/)
+- [4+1 BA/MA Program](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/#41-ba-ma)
+- [Graduate Certificate in Police Leadership](http://bulletin.temple.edu/graduate/scd/cla/police-leadership-certificate/)
+- [Graduate Certification in Crime Science](http://bulletin.temple.edu/graduate/scd/cla/crime-science-certificate/)
+- [PhD in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-phd/)
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
