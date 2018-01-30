@@ -60,7 +60,7 @@ Additional financial support is often provided by employment and training opport
 
 **If you have have a question about the graduate program please see the additional resources below.**
 - [Criminal Justice FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20FAQ.pdf) (pdf)
-- [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/CriminalJusticeGraduateStudentHandbook_June2017_JF.pdf)
+- [Graduate Student Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/CriminalJusticeGraduateStudentHandbook_June2017_JF.pdf) (pdf)
 - [Graduate Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate Policies](http://www.temple.edu/grad/policies/index.htm)
