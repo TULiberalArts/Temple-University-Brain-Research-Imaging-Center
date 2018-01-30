@@ -6,7 +6,7 @@ keywords: ''
 feature: true
 feature-title: >-
   Committed to Deepening Our Understanding of Crime, Governance and Social Justice
-feature-image: media/undergraduate-program1.png
+feature-image: media/hero_bg.png 
 feature-body: >-
   The criminal justice system has three major components: the courts, law
   enforcement, and corrections. Learn how these three components
