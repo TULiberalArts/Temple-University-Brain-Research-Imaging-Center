@@ -15,8 +15,8 @@ sidebar-content: |
    
    **Graduate Chair:**  
    Jamie Fader  
-   552 Gladfelter Hall 
-   [jfader@temple.edu](mailto:jfader@temple.edu)  
+   552 Gladfelter Hall   
+   [jfader@temple.edu](mailto:jfader@temple.edu)   
    
    ___
    
