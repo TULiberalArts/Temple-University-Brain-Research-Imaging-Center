@@ -36,8 +36,8 @@ sidebar-content: |
 ## Conduct Research and Learn in a Dynamic Environment 
 We are very proud of the Criminal Justice graduate program at Temple University. We offer a [Master of Arts in Criminal Justice](https://liberalarts.temple.edu/admissions/graduate/criminal-justice) and we also have a doctoral program that leads to a [PhD in Criminal Justice](https://liberalarts.temple.edu/admissions/graduate/criminal-justice). Our graduate program comprises a diverse and active faculty that conducts research at the local, regional, national and international levels with our graduate students. Our success to date is evident when you review the wide variety of research grants we receive, the range of publications we (and our students) produce, the reputations of our faculty and the quality of the graduate students we develop, as evidenced by the job placements of our doctoral students.
 
-Learn More About the [MA in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/)</br>  
-Learn More About the [PhD in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-phd/)</br>  
+Learn More About the [MA in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/)</br>
+Learn More About the [PhD in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-phd/)</br>
 
 ## Admissions Process
 Please visit the [Criminal Justice Graduate Admssions page](https://liberalarts.temple.edu/admissions/graduate/criminal-justice) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
