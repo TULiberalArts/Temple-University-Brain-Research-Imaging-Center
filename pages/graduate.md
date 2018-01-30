@@ -45,7 +45,6 @@ Post-graduation, our MA students have secured positions in local, state, and fed
 The Department of Criminal Justice offers the [MA in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/) and the [PhD in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-phd/).
 
 ## Admissions Process
-
 Please visit the [Criminal Justice Graduate Admssions page](https://liberalarts.temple.edu/admissions/graduate/criminal-justice) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Careers
