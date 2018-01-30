@@ -2,16 +2,16 @@
 title: Home
 permalink: /
 layout: home3
+keywords: ''
 feature: true
 feature-title: >-
   Committed to Deepening Our Understanding of Crime, Governance and Social Justice
-feature-image: null
+feature-image: media/undergraduate-program1.png
 feature-body: >-
   The criminal justice system has three major components: the courts, law
   enforcement, and corrections. Learn how these three components
   function and impact the larger society.
 published: true
-keywords: ''
 ---
 ## Gain a Deeper Understanding of Crime, Governance and Social Justice
 Students often debate issues such as police legitimacy, victims’ rights, mass incarceration, fairness in sentencing, and reintegration of formerly incarcerated individuals, as well as a wide variety of other topics. Criminal Justice majors graduate successfully and make a difference by working in various criminal justice agencies, becoming attorneys and attending graduate school.
