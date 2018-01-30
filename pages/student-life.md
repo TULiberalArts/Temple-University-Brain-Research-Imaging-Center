@@ -1,6 +1,6 @@
 ---
-title: Programs
-permalink: /programs/
+title: Student Life
+permalink: /student-life/
 layout: page
 keywords: ''
 description: >-
