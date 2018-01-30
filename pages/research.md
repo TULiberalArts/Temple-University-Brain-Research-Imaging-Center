@@ -8,6 +8,37 @@ published: true
 ---
 Temple’s Department of Criminal Justice consists of an eclectic body of scholars committed to deepening our understanding of crime, governance and social justice. We emphasize inter-disciplinary and multi-method inquiries that make a difference to policy and practice. We pursue cutting-edge research and innovation that draws from and extends many strands of social science, including criminology and criminal justice, geography, history, experimental psychology, social psychology, social work, sociology, and social ecology. We explore critical issues in Philadelphia and across the United States in the context of global developments and concerns.
 
+## Center for Security and Crime Science
+The Center for Security and Crime Science (housed in the Department of Criminal Justice at Temple University) is the first center in the United States devoted to Crime Science. In the 21st Century, thinking about crime has expanded in scope to move beyond domestic concerns and security has become more broadly construed as dealing with issues of public safety and social harm. Crime is now the business of private as well as public agencies, formal as well as informal entities, all seeking to address multiple levels of security concerns.
+
+Crime Science is a departure from old ways of thinking about the problem of crime in society. Traditional criminology has concentrated on what happens after crimes are committed; that is, how we respond to a criminal act and how we define “crime”. Crime Science aims to get upstream of crime and to proactively prevent it rather than merely respond to it. Crime Science examines those crimes which occur most frequently and then develops policy options which close off the criminal opportunities. This approach can work to reduce both the inclination and the opportunity to commit crime and harm communities.
+
+Crime Science takes the issue of crime one step further than traditional criminology. It seeks contributions from inter-related disciplines, including; psychology, geography, public health, law and urban planning. The inter-disciplinary nature of Crime Science allows the development of a coherent strategy to influence both product and building design, and to examine the social and psychological factors, which contribute to criminal activity. The result is an integrated approach to the problem of crime.
+
+## CSCS Projects
+
+### The Philadelphia Foot Patrol Experiment
+On the invitation of the Philadelphia Police Department, police and academic researchers worked together to plan the Philadelphia Foot Patrol Experiment as a randomized control trial. 60 violent crime hot spots were targeted during the summer of 2009, and after three months violence had reduced by 23 percent compared to comparison areas. Analysis of the results found little displacement, but did find at threshold level for effectiveness. Recent follow-up work has further illuminated the long-term effects of the study.
+_Faculty_: [Jerry Ratcliffe](https://liberalarts.temple.edu/academics/faculty/ratcliffe-jerry), [Eilzabeth Groff](https://liberalarts.temple.edu/academics/faculty/groff-elizabeth), [Jennifer Wood](https://liberalarts.temple.edu/academics/faculty/wood-jennifer)
+
+## The Crime Reduction Effectiveness Of CCTV
+Newspaper accounts suggest that CCTV cameras are being implemented at a rate never seen before. Yet there has been a lack of high quality, independent evaluation studies, and only one significant study in the US, conducted over a decade ago. Drs Ratcliffe and Groff are currently working on an NIJ-funded study to evaluate the crime reduction impact of over 100 CCTV cameras in Philadelphia, PA, – an ongoing NIJ-funded large-scale, multi-method, quasi-experimental research study.
+_Faculty_: [Jerry Ratcliffe](https://liberalarts.temple.edu/academics/faculty/ratcliffe-jerry), [Elizabeth Groff](https://liberalarts.temple.edu/academics/faculty/groff-elizabeth)
+
+## The Smart Policing Initiative 
+(SPI) is a collaborative between a number of police departments in the US and a research partner. In Philadelphia, the Philadelphia Police Department has partnered with Temple University and researchers from CSCS. The project is funded by the Bureau of Justice Assistance. In this project, we are testing a range of solutions to serious crime problems in the city, including; foot patrol,offender-focused activity, and problem-oriented policing.
+Faculty: [Elizabeth Groff](https://liberalarts.temple.edu/academics/faculty/groff-elizabeth), [Jerry Ratcliffe](https://liberalarts.temple.edu/academics/faculty/ratcliffe-jerry)
+
+## Predictive Modeling Of Long Aand Short Term Crime Risk
+This ongoing project will create a free software tool that will enable police departments to use their geocoded crime data in combination with freely-available census data to create micro-spatial estimates of future criminal activity at the local block level. Working with Azavea, an innovative Philadelphia-based GIS company, Drs Ratcliffe and Taylor are developing a methodology to combine long-term risk prediction from underlying socio-demographics with event-created near-repeat risk.
+Faculty: [Jerry Ratcliffe](https://liberalarts.temple.edu/academics/faculty/ratcliffe-jerry), [Ralph Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ralph) 
+
+More information about CSCS will be available shortly. If you have any questions in the meantime, please send an e-mail to [cscs@temple.edu](mailto:cscs@temple.edu).
+
+## Near Repeat Calculator
+A software that originates with the relatively recent discovery of the near repeat phenomenon in burglary patterns.This communicability of risk to nearby locations for a short amount of time raises the possibility that other crime types may also suffer from a near repeat spatio-temporal pattern of behavior. Learn more about the [Near Repeat Calculator](https://liberalarts.temple.edu/sites/liberalarts/files/Near%20Repeat%20Calculator.pdf) (pdf) and download for free. 
+
+
 ## Rehabilitation and Behavior Change
 Rehabilitation and behavior change focuses on research involving high-risk offenders and criminal behaviors that include criminal and violent offending, recidivism, delinquency, substance use, and HIV risk behaviors.
  
@@ -262,16 +293,6 @@ Description: Over the last three decades, the US prison population grew dramatic
 
 ___
 
-## Center for Security and Crime Science
-
-The Center for Security and Crime Science (housed in the Department of Criminal Justice at Temple University) is the first center in the United States devoted to Crime Science. In the 21st Century, thinking about crime has expanded in scope to move beyond domestic concerns and security has become more broadly construed as dealing with issues of public safety and social harm. Crime is now the business of private as well as public agencies, formal as well as informal entities, all seeking to address multiple levels of security concerns.
-
-Crime Science is a departure from old ways of thinking about the problem of crime in society. Traditional criminology has concentrated on what happens after crimes are committed; that is, how we respond to a criminal act and how we define "crime". Crime Science aims to get upstream of crime and to proactively prevent it rather than merely respond to it. Crime Science examines those crimes which occur most frequently and then develops policy options which close off the criminal opportunities. This approach can work to reduce both the inclination and the opportunity to commit crime and harm communities.
-
-Crime Science takes the issue of crime one step further than traditional criminology. It seeks contributions from inter-related disciplines, including; psychology, geography, public health, law and urban planning. The inter-disciplinary nature of Crime Science allows the development of a coherent strategy to influence both product and building design, and to examine the social and psychological factors, which contribute to criminal activity. The result is an integrated approach to the problem of crime.
-
-___
-
 ## The Philadelphia Predictive Policing Experiment
 
 The Philadelphia Predictive Policing Experiment is an ongoing collaboration between Temple University’s Center for Security and Crime Science (housed in the Department of Criminal Justice) and the Philadelphia Police Department. This [National Institute of Justice](http://www.nij.gov/Pages/welcome.aspx) funded research project has been the first place-based, randomized experiment to study the impact of different police strategies on violent and property crime in predicted criminal activity areas.
@@ -385,54 +406,16 @@ For more details contact- Dr Jerry Ratcliffe or Dr Elizabeth Groff.* Details of 
 ## Research Resources
 
 ### Mechanics Of Applying For External Funding Through Temple
-
 In addition to Temple-sponsored funding for research, many faculty and students also apply for external research funding. Major sources for Criminal Justice funding include, but are not limited to the National Institutes of Health, the National Institute of Justice, and the Bureau of Justice Assistance. Please consult the websites of the specific agencies for current funding solicitations and deadlines.
 
-The Criminal Justice Department’s Research Committee has put together a document to illuminate the process for applying here at Temple. Click here to view this document titled [‘Mechanics of Submitting a Grant Proposal for External Funding’](http://www.cla.temple.edu/cj/files/2014/09/ExternalFundingGuide1.pdf). This document should be viewed as a resource rather than the final word in how to apply.
+The Criminal Justice Department’s Research Committee has put together a document to illuminate the process for applying here at Temple. View the [‘Mechanics of Submitting a Grant Proposal for External Funding’](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20External%20Funding%20Guide.pdf) (pdf) guide. This document should be viewed as a resource rather than the final word in how to apply.
 
 ### Human Sunjects Approval
-
 The Criminal Justice Department is committed to the highest ethical standards when conducting research involving human subjects. We follow the guidelines set out by Temple University and the federal government. Visit the [Temple Institutional Review Board](http://research.temple.edu/irb) home page.
 
 Faculty in Criminal Justice endeavor to provide undergraduate students with ‘hands on’ class-related activities that often require them to do fieldwork or analyze data. Each faculty member is required to obtain approval from the IRB for these activities during the semester in which they are to be completed. The **IRB Approval Guide for Undergraduate Classroom Activities** document (under construction) provides details on the necessary paperwork to be filed by the faculty member. It also contains instructions for how undergraduate students should sign up and complete the undergraduate student version of the IRB training course.
-## Research Links
 
-Click on the following research projects to learn more:
-
+## Additional Research Projects and Resources:
 - [The Impact of Philadelphia’s Public CCTV Cameras: PRELIMINARY FINDINGS FROM A TIME SERIES ANALYSIS](http://www.cla.temple.edu/cj/files/2014/09/coryrevised1.mp3)
 - [Links in Space and Time between Firearm Arrests and Shootings](http://www.cla.temple.edu/cj/files/2014/10/ResearchfindingsWyant20101.pdf)
-
-## Related Publications
-
-- Sorg, ET, Haberman, CP, Ratcliffe, JH, & Groff, ER (in press) Foot patrol in violent crime hot spots: Longitudinal impacts of deterrence and post treatment effects of displacement, Criminology. One-pagesummary | Full draft article
-
-- Groff, ER, Johnson, L, Ratcliffe, JH & Wood, JD (in press) Exploring the relationship between foot and carpatrol in violent crime areas, Policing: An International Journal of Police Strategies and Management.
-
-- Haberman, C.P., & Ratcliffe, J.H. (2012). The predictive policing challenges of near repeat armed streetrobbery. Policing: A Journal of Policy and Practice, 6(2): 151-166. Read a two-page summary.
-
-- Ratcliffe, JH, Taniguchi, T, Groff, E & Wood, J (2011) The Philadelphia Foot Patrol Experiment: Arandomized controlled trial of police patrol effectiveness in violent crime hotspots, Criminology, 49(3):795-831. Read a draft of the paper
-
-- Groff, ER (in press) Exploring ‘Near’: Characterizing the Spatial Extent of Drinking Place Influence onCrime. Australian and New Zealand Journal of Criminology.
-
-- Taniguchi, TA, Ratcliffe, JH & Taylor, RB (2011) Gang set space, drug markets, and crime around drugcorners in Camden, Journal of Research in Crime and Delinquency, 48(3): 327-363.
-
-- Groff, E. R. and McCord, E. (in press) The Role of Neighborhood Parks as Crime Generators. SecurityJournal.
-
-- Ratcliffe, Jerry H. & Walden, Kyle (2010) State police and the intelligence center: A study of intelligenceflow to and from the street. Journal of the International Association of Law Enforcement IntelligenceAnalysts, 19(1): 1-19.
-
-- Ratcliffe, Jerry H. & Breen, Clairissa (2011). Crime diffusion and displacement: Measuring the side effectsof police operations. Professional Geographer 63(2): 1-14.
-
-- McCord, Eric S., & Ratcliffe, J. H. (2009). Intensity value analysis and the criminogenic effects of land usefeatures on local crime patterns. Crime Patterns and Analysis, 2(1), 17-30.
-
-- Taylor, R. B., Harris, P., Jones, P. R., Goldkamp, J. S., Weiland, D., Garcia, R. Marie, & McCord, Eric S.(2009). Short term changes in arrest rates influence short term changes in serious male delinquencyprevalence. Criminology 47:3:657-695.
-
-- Ratcliffe, Jerry H., Taniguchi, Travis A., & Taylor, R. B. (2009). The crime reduction effects of public CCTVcameras: A multi-method spatial approach. Justice Quarterly 26:4:746-770.
-
-## Center for Security and Crime Science
-The Center for Security and Crime Science (housed in the Department of Criminal Justice at Temple University) is the first center in the United States devoted to Crime Science. In the 21st Century, thinking about crime has expanded in scope to move beyond domestic concerns and security has become more broadly construed as dealing with issues of public safety and social harm. Crime is now the business of private as well as public agencies, formal as well as informal entities, all seeking to address multiple levels of security concerns.
-
-Crime Science is a departure from old ways of thinking about the problem of crime in society. Traditional criminology has concentrated on what happens after crimes are committed; that is, how we respond to a criminal act and how we define “crime”. Crime Science aims to get upstream of crime and to proactively prevent it rather than merely respond to it. Crime Science examines those crimes which occur most frequently and then develops policy options which close off the criminal opportunities. This approach can work to reduce both the inclination and the opportunity to commit crime and harm communities.
-
-Crime Science takes the issue of crime one step further than traditional criminology. It seeks contributions from inter-related disciplines, including; psychology, geography, public health, law and urban planning. The inter-disciplinary nature of Crime Science allows the development of a coherent strategy to influence both product and building design, and to examine the social and psychological factors, which contribute to criminal activity. The result is an integrated approach to the problem of crime.
-
-
+- [Related Publications](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20Related%20Publications.pdf)
