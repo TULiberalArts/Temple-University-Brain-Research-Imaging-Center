@@ -19,6 +19,10 @@ Temple students can study abroad in almost any country around the world through 
 ## Criminal Justice Society
 **NEED DESCRIPTION ABOUT THIS PROGRAM. ALL POSTS NEED TO BE SUBMITTED AS TICKETS SO THEY WILL FEED INTO THE RECENT NEWS SECTION ON THE HOMEPAGE**
 
+## Awards and Scholarships
+The entire list of awards and scholarships for Criminal Justice majors is listed along with applications and instructions on the [College of Liberal Arts Awards and Scholarships page](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4596&field_awards_academics_class_value=All). Visit the [2017 Awards and Scholarship Recipients page](https://liberalarts.temple.edu/2017-award-and-scholarship-recipients) to see a list of the 2017 recipients. 
+** THE DEPARTMENTAL AWARDS AND SCHOLARSHIPS THAT ARE LISTED HERE http://www.cla.temple.edu/cj/undergraduate/awards-and-scholarships/ NEED TO BE UPDATED AND SUBMITTED IN A TICKET SO THEY CAN BE PLACED ON THE MAIN AWARDS AND SCHOLARSHIPS PAGE HERE https://liberalarts.temple.edu/about-us/resources/undergraduates/baccalaureate-award-nominations.** 
+
 ## Graduate Student Association
 Welcome incoming and prospective students!
 
