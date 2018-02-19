@@ -15,7 +15,15 @@ feature-image: media/hero_bg.png
 ---
 ## Gain a Deeper Understanding of Crime, Governance and Social Justice
 Students often debate issues such as police legitimacy, victims’ rights, mass incarceration, fairness in sentencing, and reintegration of formerly incarcerated individuals, as well as a wide variety of other topics. Criminal Justice majors graduate successfully and make a difference by working in various criminal justice agencies, becoming attorneys and attending graduate school.
-
+        
+## Academic Offerings 
+- [BA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/ba-criminal-justice/)
+- [Minor in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/minor-criminal-justice/)
+- [MA in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/)
+- [4+1 BA/MA Program](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/#41-ba-ma)
+- [Graduate Certificate in Police Leadership](http://bulletin.temple.edu/graduate/scd/cla/police-leadership-certificate/)
+- [Graduate Certification in Crime Science](http://bulletin.temple.edu/graduate/scd/cla/crime-science-certificate/)
+- [PhD in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-phd/)
 
 <div class="row row-wide">
  <div class="col m12 l4"><br>
@@ -25,16 +33,6 @@ Students often debate issues such as police legitimacy, victims’ rights, mass 
           <a href="google.com"><span class="materialize-red-text">Learn More</a>  
           </span>
          </div> 
-         
-
-## Academic Offerings 
-- [BA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/ba-criminal-justice/)
-- [Minor in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/minor-criminal-justice/)
-- [MA in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/)
-- [4+1 BA/MA Program](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/#41-ba-ma)
-- [Graduate Certificate in Police Leadership](http://bulletin.temple.edu/graduate/scd/cla/police-leadership-certificate/)
-- [Graduate Certification in Crime Science](http://bulletin.temple.edu/graduate/scd/cla/crime-science-certificate/)
-- [PhD in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-phd/)
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
