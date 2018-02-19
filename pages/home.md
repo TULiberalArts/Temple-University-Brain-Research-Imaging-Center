@@ -15,15 +15,6 @@ feature-image: media/hero_bg.png
 ---
 ## Gain a Deeper Understanding of Crime, Governance and Social Justice
 Students often debate issues such as police legitimacy, victims’ rights, mass incarceration, fairness in sentencing, and reintegration of formerly incarcerated individuals, as well as a wide variety of other topics. Criminal Justice majors graduate successfully and make a difference by working in various criminal justice agencies, becoming attorneys and attending graduate school.
-
- <div class="col m12 l4"><br>
-  <div class="course-box">
-     <div class="card-panel grey">
-       <span class="white-text">I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively. I am similar to what is called a panel in other frameworks.
-          <a href="google.com"><span class="materialize-red-text">Learn More</a>  
-          </span>
-         </div> 
-     </div>    
         
 ## Academic Offerings 
 - [BA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/ba-criminal-justice/)
