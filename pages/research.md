@@ -354,10 +354,7 @@ This [National Institute of Justice](http://www.nij.gov/Pages/welcome.aspx) fund
 ___
 
 ## The Philadelphia Foot Patrol Experiment
-
-[https://youtu.be/0NUQsK0vnnM](https://youtu.be/0NUQsK0vnnM)
-
-The Philadelphia Foot Patrol Experiment was a major research collaboration between the Philadelphia Police Department and researchers in the Department of Criminal Justice involving over 200 police officers on foot beats around some of the city’s most violent corners.
+The [Philadelphia Foot Patrol Experiment](https://youtu.be/0NUQsK0vnnM) was a major research collaboration between the Philadelphia Police Department and researchers in the Department of Criminal Justice involving over 200 police officers on foot beats around some of the city’s most violent corners.
 
 Since the 1980s, it had long been the opinion of many police and criminology researchers that police foot patrols improve community perception of the police and reduce fear of crime, but they don’t prevent actual crime. Results from the Philadelphia Foot Patrol Experiment suggested a more positive view of intelligence-led targeting of foot patrol officers to violent crime hot spots.
 
