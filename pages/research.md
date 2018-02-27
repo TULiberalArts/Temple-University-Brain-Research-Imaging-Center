@@ -17,6 +17,7 @@ Crime Science is a departure from old ways of thinking about the problem of crim
 
 Crime Science takes the issue of crime one step further than traditional criminology. It seeks contributions from inter-related disciplines, including; psychology, geography, public health, law and urban planning. The inter-disciplinary nature of Crime Science allows the development of a coherent strategy to influence both product and building design, and to examine the social and psychological factors, which contribute to criminal activity. The result is an integrated approach to the problem of crime.
 
+**TOO MUCH CONTENT TO HOUSE ON THIS WEBSITE. MANY ADDITIONAL PDFS WITHIN THE TEXT THAT HAVE RESULTS FOR THESE RESEARCH PROJECTS AND WE NEED TO FIND ANOTHER SOLUTION AS TO WHERE TO HOUSE THIS CONTENT**
 ## CSCS Projects
 
 ### The Philadelphia Foot Patrol Experiment
@@ -295,8 +296,8 @@ Description: Over the last three decades, the US prison population grew dramatic
 
 ___
 
+**TOO MUCH CONTENT TO HOUSE ON THIS WEBSITE. MANY ADDITIONAL PDFS WITHIN THE TEXT THAT HAVE RESULTS FOR THESE RESEARCH PROJECTS AND WE NEED TO FIND ANOTHER SOLUTION AS TO WHERE TO HOUSE THIS CONTENT**
 ## The Philadelphia Predictive Policing Experiment
-
 The Philadelphia Predictive Policing Experiment is an ongoing collaboration between Temple University’s Center for Security and Crime Science (housed in the Department of Criminal Justice) and the Philadelphia Police Department. This [National Institute of Justice](http://www.nij.gov/Pages/welcome.aspx) funded research project has been the first place-based, randomized experiment to study the impact of different police strategies on violent and property crime in predicted criminal activity areas.
 
 Predictive policing is an emerging tactic relying in part on software predicting the likely locations of criminal events. Predictive policing, while sometimes applied to offenders, is most frequently applied to high crime places. In this context, it involves ‘the use of historical data to create a spatiotemporal forecast of areas of criminality or crime hot spots that will be the basis for police resource allocation decisions with the expectation that having officers at the proposed place and time will deter or detect criminal activity’ [Ratcliffe, J. H. (2014). “What is the future… of predictive policing?” Translational Criminology, 2014 (Spring): 4-5 (definition on page 4)].
