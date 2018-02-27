@@ -20,6 +20,7 @@ Potential career paths include:
 - Researcher, Analyst
 
 ## Networking Opportunities
+![CJ Event]({{site.baseurl}}/media/resized CJ Event.jpg){:.img-right}
 Through our faculty’s contacts with practitioners in courts, corrections and policing, as well as via active involvement by undergraduates in internships and research activities, students are given excellent grounding for employment, law school or graduate school.
 
 ### Career Opportunities
