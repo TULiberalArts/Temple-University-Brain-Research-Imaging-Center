@@ -7,11 +7,13 @@ description: >-
 published: true
 ---
 ## ProRanger Philadelphia
+![Pro Ranger]({{site.baseurl}}/media/resized SLETP-Summer-2013-101.jpg){:.img-right}
 “ProRanger Philadelphia” is an academic and technical skills training and paid internship program that is cooperatively administered by the National Park Service and Temple University. The program was established to recruit, train and employ law enforcement park rangers for the National Park Service. Upon graduation from Temple University and successfully completing the ProRanger program, participants are placed in a permanent career tenure law enforcement park ranger position with the  National Park Service. For more information on the program, requirements and application details visit the [ProRanger Philadelphia Page](http://www.temple.edu/provost/university-college/proranger/).
 - [Proranger Philadelphia Blog](http://prorangerphila.blogspot.com/) for the Proranger Philadelphia Blog
 
 ## The Inside-Out Prison-Exchange Program
-The Inside-Out course is a special group independent study in which a small group of “outside” students has class with a group of “inside” students in the Philadelphia Prison System and Graterford Prison. The program is an opportunity for everyone involved to explore issues of crime and justice behind the walls,in the hopes of deepening and transforming the dialogue about these issues. Information on the Inside-Our Program can be found on the [Inside-Out website](http://www.insideoutcenter.org/). The program’s e-mail address is [inout@temple.edu](mailto:inout@temple.edu).
+![Inside Out]({{site.baseurl}}/media/resized Inside Out.jpg){:.img-right}
+The Inside-Out course is a special group independent study in which a small group of “outside” students has class with a group of “inside” students in the Philadelphia Prison System and Graterford Prison. The program is an opportunity for everyone involved to explore issues of crime and justice behind the walls,in the hopes of deepening and transforming the dialogue about these issues. Information on the Inside-Our Program can be found on the [Inside-Out](http://www.insideoutcenter.org/) website. The program’s e-mail address is [inout@temple.edu](mailto:inout@temple.edu).
 
 ## Study Abroad Program
 Temple students can study abroad in almost any country around the world through Temple programs, exchanges, and partnerships with external programs. Navigate through the Discover Study Abroad section of our [website](https://studyabroad.temple.edu/) to learn more about the process, and explore our opportunities to find the right study abroad program for you.
