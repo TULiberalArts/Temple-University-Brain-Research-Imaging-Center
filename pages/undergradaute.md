@@ -38,6 +38,7 @@ sidebar-content: |
    [shardy01@temple.edu](mailto:shardy01@temple.edu)  
 ---
 ## A Hands-On Approach
+![Brian and Nick Research]({{site.baseurl}}/media/resized BrianNick_ICCWS2017.jpg){:.img-right}
 Majoring in criminal justice helps to prepare students for careers as practitioners, researchers, and academics in a variety of public and private sector professions in both adult and juvenile systems of justice, at the federal, state, and local levels of government. It also provides the core liberal arts foundations for students interested in alternative career paths or advanced education in law school and graduate programs in criminal justice, criminology, and related social-science fields. Students have a wide variety of internship opportunities and our classes emphasize experiential learning. Our internationally recognized “Inside Out” program offers the opportunity to attend classes in a prison.
 
 The mission of the Bachelor of Arts program in Criminal Justice is to foster a comprehensive understanding of the nature of crime and the effectiveness and fairness of society’s efforts to prevent and control it. Students engage in a multi-disciplinary approach to the study of crime, offenders, and victims, as well as the agencies, goals, laws, policies, and processes of the criminal justice system. Emphasis is upon promoting critical thinking about the kinds of questions and problems that shape developments in research, practice, policy and reform, and the skills utilized by scholars and professionals in the field.
