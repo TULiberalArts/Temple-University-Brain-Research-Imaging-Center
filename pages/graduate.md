@@ -34,6 +34,7 @@ sidebar-content: |
    [lscott01@temple.edu](mailto:lscott01@temple.edu)  
 ---
 ## Conduct Research and Learn in a Dynamic Environment 
+![2015 Grad Students]({{site.baseurl}}/media/resized CJ Grad Students.jpg){:.img-right}
 We are very proud of the Criminal Justice graduate program at Temple University. We offer a [Master of Arts in Criminal Justice](https://liberalarts.temple.edu/admissions/graduate/criminal-justice) and we also have a doctoral program that leads to a [PhD in Criminal Justice](https://liberalarts.temple.edu/admissions/graduate/criminal-justice). Our graduate program comprises a diverse and active faculty that conducts research at the local, regional, national and international levels with our graduate students. Our success to date is evident when you review the wide variety of research grants we receive, the range of publications we (and our students) produce, the reputations of our faculty and the quality of the graduate students we develop, as evidenced by the job placements of our doctoral students.
 
 Learn More About the [MA in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/)<br>
@@ -45,6 +46,7 @@ Please visit the [Criminal Justice Graduate Admssions page](https://liberalarts.
 ## Careers
 A number of our Masters students are already employed in the criminal justice field. Our MA graduates include a detective in the Philadelphia Police Department and the warden of a local jail. Post-graduation, our students have secured positions in local, state, and federal law enforcement and criminal justice agencies such as the New Jersey Juvenile Justice Commission and the Bureau of Alcohol, Tobacco, Firearms and Explosives, while others have gone on to pursue further graduate study, here at Temple and elsewhere. We are also extremely proud of the placement record of our PhD graduates. Many go on to tenure-track academic positions, while others pursue research careers in federal, state, and local agencies or the private sector.
 
+![Police Recruit Graduation]({{site.baseurl}}/media/resized police-recruit-graduation.jpg){:.img-right}
 Many of our PhD graduates have gone on to tenure-track assistant professorships at institutions such as Drexel University, LaSalle University, University of Ottawa, Louisiana State University, Towson University, University of Louisville, and American University; some have begun their academic careers with postdoctoral research positions at institutions like George Mason University and Vera Institute of Justice. In addition to those embarking on academic careers, a number of our PhD graduates have secured research positions at such varied institutions and agencies as the National Institute of Justice, Justice Research and Statistics Association, the Corporation for National and Community Service, the Center for Drug and Alcohol Studies at the University of Delaware, the Police Department of Redlands, California, and Philadelphia Adult Probation and Parole.
 
 ## Financial Opportunities (**CONTENT NEEDS TO BE TRIMMED!**)
