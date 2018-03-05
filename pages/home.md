@@ -44,10 +44,10 @@ Students often debate issues such as police legitimacy, victims’ rights, mass 
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title="ProRanger: Dedicated Internships and Job Focused Programs" 
-        content="Academic and technical skills training and internship program that is cooperatively administered by the National Park Service and Temple University" 
+        title="Get Involved with an Internship" 
+        content="NEED DESCRIPTION" 
         image="" 
-        button-link="http://www.temple.edu/provost/university-college/proranger/" 
+        button-link="/criminal-justice/resources/internships" 
         button-text="Learn More" %}
       </div>
 </div>
