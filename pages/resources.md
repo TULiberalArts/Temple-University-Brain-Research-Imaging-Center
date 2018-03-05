@@ -4,9 +4,6 @@ permalink: /resources/
 layout: page
 published: true
 ---
-## Internships
-As a Criminal Justice major, you can choose from numerous internship opportunities in the five county areas. We have an extensive list of sites from which to choose or you can suggest a site of special interest to you. Most sites are accepted if they give you the opportunity to come in contact with the criminal justice system or have an anti-violence component. You will do a certain number of hours of work per week at your site. It is an intensive experience of hands on education. You can view the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20Undergraduate%20Internships.pdf) to learn more about requirements, courses, placement and contacts.
-
 ## Advising Center
 The mission of the Criminal Justice Advising office is to assist students with planning and implementing rosters, provide students with career information and to help students navigate through the college years. Our office posts information about scholarships, jobs, internships and social organizations that will maximize the students’ college experience. 
 - [2018 Mentoring Center Hours]() **NEED UPDATED ADVISING HOURS**
