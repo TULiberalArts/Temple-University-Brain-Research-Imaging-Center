@@ -6,6 +6,9 @@ keywords: ''
 description: >-
 published: true
 ---
+## Internships
+As a Criminal Justice major, you can choose from numerous internship opportunities in the five county areas. We have an extensive list of sites from which to choose or you can suggest a site of special interest to you. Most sites are accepted if they give you the opportunity to come in contact with the criminal justice system or have an anti-violence component. You will do a certain number of hours of work per week at your site. It is an intensive experience of hands on education. You can view the following [pdf](https://liberalarts.temple.edu/sites/liberalarts/files/Criminal%20Justice%20Undergraduate%20Internships.pdf) to learn more about requirements, courses, placement and contacts.
+
 ## ProRanger Philadelphia
 ![Pro Ranger]({{site.baseurl}}/media/resized SLETP-Summer-2013-101.jpg){:.img-right}
 “ProRanger Philadelphia” is an academic and technical skills training and paid internship program that is cooperatively administered by the National Park Service and Temple University. The program was established to recruit, train and employ law enforcement park rangers for the National Park Service. Upon graduation from Temple University and successfully completing the ProRanger program, participants are placed in a permanent career tenure law enforcement park ranger position with the  National Park Service. For more information on the program, requirements and application details visit the [ProRanger Philadelphia Page](http://www.temple.edu/provost/university-college/proranger/).
