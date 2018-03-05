@@ -47,7 +47,7 @@ Students often debate issues such as police legitimacy, victims’ rights, mass 
         title="Get Involved with an Internship" 
         content="NEED DESCRIPTION" 
         image="" 
-        button-link="/criminal-justice/resources/internships" 
+        button-link="/criminal-justice/student-life/#internships" 
         button-text="Learn More" %}
       </div>
 </div>
