@@ -2,7 +2,7 @@
 title: Graduate
 permalink: /graduate/
 layout: page
-published: true
+published: false
 sidebar: true
 sidebar-content: |
   **Chair:**  
