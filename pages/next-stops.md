@@ -4,7 +4,7 @@ permalink: /next-stops/
 layout: page
 keywords: ''
 description: >-
-published: true
+published: false
 ---
 ## Next Stops:
 ![Shauni graduates police academy]({{site.baseurl}}/media/resized Shauni.jpg){:.img-right}
