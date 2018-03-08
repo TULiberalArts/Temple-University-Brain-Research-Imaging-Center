@@ -151,6 +151,14 @@ _The full study is published [here](http://onlinelibrary.wiley.com/doi/10.1111/1
 
 ___
 
+## Police Interventions with Persons Affected by Mental Illness
+![Police Interventions]({{site.baseurl}}/media/resized Police_Interventions .png.JPG){:.img-right}
+Although it is not their primary mission, law enforcement officers serve as mental health interventionists. In this role, they intervene with vulnerable people in spaces of the city that may be considered “hotspots of vulnerability.” This ongoing project is devoted to strengthening theoretical and practical linkages between law enforcement and public health. Central to this agenda are insights from the literatures on environmental criminology and problem-oriented policing which can help provide for a twin emphasis on "case management" and "place management" in efforts to enhance public health and safety. Visit [Jennifer Wood's](https://liberalarts.temple.edu/academics/faculty/wood-jennifer) faculty page for information about a research monograph, policy brief and recent scholarly article.
+
+_[Jennifer Wood](https://liberalarts.temple.edu/academics/faculty/wood-jennifer)_
+
+___
+
 ## Near Repeat Calculator
 A software that originates with the relatively recent discovery of the near repeat phenomenon in burglary patterns.This communicability of risk to nearby locations for a short amount of time raises the possibility that other crime types may also suffer from a near repeat spatio-temporal pattern of behavior. Learn more about the [Near Repeat Calculator](https://liberalarts.temple.edu/sites/liberalarts/files/Near%20Repeat%20Calculator.pdf) (pdf) and download for free. 
 
