@@ -11,9 +11,9 @@ feature-body: >-
   It seeks contributions from inter-related disciplines, including; psychology, geography, 
   public health, law and urban planning.
 published: true
-feature-image: media/hero_bg.png
+feature-image: media/CSCS Hero.JPG
 ---
-![CSCS]({{site.baseurl}}/media/CSCS Hero.JPG){:.img-right}
+![CSCS]({{site.baseurl}}/media/resized CSCS Smart Policing.jpg){:.img-right}
 ## Experience Criminology in a Different Way
 The Center for Security and Crime Science (housed in the Department of Criminal Justice at Temple University) is the first center in the United States devoted to Crime Science. In the 21st Century, thinking about crime has expanded in scope to move beyond domestic concerns and security has become more broadly construed as dealing with issues of public safety and social harm. Crime is now the business of public as well as private agencies, formal as well as informal entities, all seeking to address multiple levels of security concerns.
 
