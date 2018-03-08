@@ -32,6 +32,7 @@ sidebar-content: |
    
 ---
 ## The Philadelphia Foot Patrol Experiment
+![Foot Patrol.JPG]({{site.baseurl}}/media/Foot Patrol.JPG){:.img-right} 
 On the invitation of the Philadelphia Police Department, police and academic researchers worked together to plan the Philadelphia Foot Patrol Experiment as a randomized control trial. 60 violent crime hot spots were targeted during the summer of 2009, and after three months violence had reduced by 23 percent compared to comparison areas. Analysis of the results found little displacement, but did find at threshold level for effectiveness. Recent follow-up work has further illuminated the long-term effects of the study.
 _Faculty_: [Jerry Ratcliffe](https://liberalarts.temple.edu/academics/faculty/ratcliffe-jerry), [Eilzabeth Groff](https://liberalarts.temple.edu/academics/faculty/groff-elizabeth), [Jennifer Wood](https://liberalarts.temple.edu/academics/faculty/wood-jennifer)
 
@@ -67,6 +68,7 @@ While the officers worked to establish rules and exercise some control over the 
 ___
 
 ## The Crime Reduction Impact of CCTV in Philadelphia
+![Crime reduction]({{site.baseurl}}/media/Crime reduction.JPG){:.img-right} 
 Newspaper accounts suggest that CCTV cameras are being implemented at a rate never seen before. Yet there has been a lack of high quality, independent evaluation studies, and only one significant study in the US, conducted over a decade ago. Drs Ratcliffe and Groff are currently working on an NIJ-funded study to evaluate the crime reduction impact of over 100 CCTV cameras in Philadelphia, PA, – an ongoing NIJ-funded large-scale, multi-method, quasi-experimental research study.
 _Faculty_: [Jerry Ratcliffe](https://liberalarts.temple.edu/academics/faculty/ratcliffe-jerry), [Elizabeth Groff](https://liberalarts.temple.edu/academics/faculty/groff-elizabeth)
 
@@ -81,6 +83,7 @@ _For more details contact- Dr Jerry Ratcliffe or Dr Elizabeth Groff.* Details of
 ___
 
 ## The Philadelphia Predictive Policing Experiment
+![CSCS Hero]({{site.baseurl}}/media/CSCS Hero.JPG){:.img-right}
 This ongoing project will create a free software tool that will enable police departments to use their geocoded crime data in combination with freely-available census data to create micro-spatial estimates of future criminal activity at the local block level. Working with Azavea, an innovative Philadelphia-based GIS company, Drs Ratcliffe and Taylor are developing a methodology to combine long-term risk prediction from underlying socio-demographics with event-created near-repeat risk.
 _Faculty: [Jerry Ratcliffe](https://liberalarts.temple.edu/academics/faculty/ratcliffe-jerry), [Ralph Taylor](https://liberalarts.temple.edu/academics/faculty/taylor-ralph)_ 
 
@@ -123,6 +126,7 @@ This [National Institute of Justice](http://www.nij.gov/Pages/welcome.aspx) fund
 ___
 
 ## The Philadelphia Policing Tactics Experiment
+![Predictive policing]({{site.baseurl}}/media/Predictive policing.JPG){:.img-right}
 A significant body of evidence exists that police are most effective at reducing crime when deployed to small, high crime areas known as hot spots. In the summer of 2010, the Philadelphia Police and researchers from Temple University’s Center for Security and Crime Science (housed in the Department of Criminal Justice), with support from the Bureau of Justice Assistance, set out to better understand the impact of different policing tactics deployed in hot spots. Three different tactics were tested problem oriented policing, offender focus policing and foot patrol.
 
 The first step in the experiment was to identify the highest crime areas in Philadelphia using spatial analysis. We gave the Philadelphia Police Department (PPD) a map showing those hot spots and asked for their input in two important. One was in defining hot spot boundaries that were operationally sound and the other was in identifying which type of tactic they thought best suited the problems at that hot spot. For example, if there were a few people that were causing the problem then it made sense to apply offender-focused policing. If the problem was street robbery, then a problem-oriented policing approach to address the why that place was so amenable to street robbery would be appropriate. Regional Operations Commanders worked with District Captains to identify 27 areas suitable for foot patrol, 27 suitable for problem-solving, and 27 where police would focus enforcement on violent repeat offenders. The PPD returned a new map with 81 hot spots defined and the most appropriate tactic for each hot spot listed. We applied a random selection process so that 20 areas of each type were selected for additional police activity, and seven of each area type would receive the normal police response.
