@@ -1,8 +1,8 @@
 ---
 # Program/Department Title
-title: Criminal Justice
+title: Center-for-Security-and-Crime-Science
 # Subdirectory (with / at only at beginning)
-baseurl: /criminal-justice
+baseurl: /center-for-security-and-crime-science
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
 
@@ -19,10 +19,10 @@ keywords: highered, college, university, philadelphia, Temple
 address:
   building: Gladfelter Hall
   room: 5th Floor
-  street: 1114 Polett Walk
-  city: Philadelphia, PA 19122
+  street: 580 Meetinghouse Rd
+  city: Ambler, PA 19002
   email: criminal-justice@temple.edu
-  phone: 215-204-7918
+  phone: 267-468-8600
 
 # Social Media
 # Put in only the username unless otherwise noted
@@ -57,8 +57,6 @@ university:
 college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
-program_news: https://liberalarts.temple.edu/news/criminal-justice
-program_events: https://events.temple.edu/department/criminal-justice 
 
 # Google Tag Manager OR Google Analytics
 google_analytics:
@@ -67,11 +65,11 @@ google_analytics:
 google_tag_manager: GTM-58ZL5B
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
-events-feed: https://liberalarts.temple.edu/events/criminal-justice/csv
-news-feed: https://liberalarts.temple.edu/articles/criminal-justice/csv
-articles-feed: https://liberalarts.temple.edu/articles/criminal-justice/csv
-faculty-feed: https://liberalarts.temple.edu/profiles/criminal-justice/csv
-media-mentions-feed: https://liberalarts.temple.edu/media-mentions/criminal-justice/csv
+events-feed: https://liberalarts.temple.edu/events/center-for-security-and-crime-science/csv
+news-feed: https://liberalarts.temple.edu/articles/center-for-security-and-crime-science/csv
+articles-feed: https://liberalarts.temple.edu/articles/center-for-security-and-crime-science/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/center-for-security-and-crime-science/csv
+media-mentions-feed: https://liberalarts.temple.edu/media-mentions/center-for-security-and-crime-science/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
