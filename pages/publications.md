@@ -28,7 +28,7 @@ sidebar-content: |
    537 Gladfelter Hall     
    [rbrecken@temple.edu](mailto:rbrecken@temple.edu)  
 ---
-## Center-Related Publications
+## Center Related Publications
 - Sorg, ET, Haberman, CP, Ratcliffe, JH, & Groff, ER (in press) Foot patrol in violent crime hot spots: Longitudinal impacts of deterrence and post treatment effects of displacement, _Criminology_. 
 Read full draft of the [article](https://liberalarts.temple.edu/sites/liberalarts/files/PFPE_long_term_full_paper.pdf)
  
