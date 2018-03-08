@@ -30,15 +30,15 @@ sidebar-content: |
 ---
 ## Center-Related Publications
 - Sorg, ET, Haberman, CP, Ratcliffe, JH, & Groff, ER (in press) Foot patrol in violent crime hot spots: Longitudinal impacts of deterrence and post treatment effects of displacement, _Criminology_. 
-Read full draft of the article
+Read full draft of the [article](https://liberalarts.temple.edu/sites/liberalarts/files/PFPE_long_term_full_paper.pdf)
  
 - Groff, ER, Johnson, L, Ratcliffe, JH & Wood, JD (in press) Exploring the relationship between foot and car patrol in violent crime areas, _Policing: An International Journal of Police Strategies and Management_.
 
 - Haberman, C.P., & Ratcliffe, J.H. (2012). The predictive policing challenges of near repeat armed street robbery. _Policing: A Journal of Policy and Practice_, 6(2): 151-166. 
-Read a two-page summary
+Read a two-page summary of the [article](https://liberalarts.temple.edu/sites/liberalarts/files/NR%20armed%20street%20robbery%20summary.pdf)
  
 - Ratcliffe, JH, Taniguchi, T, Groff, E & Wood, J (2011) The Philadelphia Foot Patrol Experiment: A randomized controlled trial of police patrol effectiveness in violent crime hotspots, _Criminology_, 49(3): 795-831. 
-Read a draft of the paper
+Read a [draft](https://liberalarts.temple.edu/sites/liberalarts/files/PFPE_full_paper.pdf) of the paper
 
 - Groff, ER (in press) Exploring ‘Near’: Characterizing the Spatial Extent of Drinking Place Influence on Crime. _Australian and New Zealand Journal of Criminology_.
 
@@ -55,3 +55,26 @@ Read a draft of the paper
 - Taylor, R. B., Harris, P., Jones, P. R., Goldkamp, J. S., Weiland, D., Garcia, R. Marie, & McCord, Eric S. (2009). Short term changes in arrest rates influence short term changes in serious male delinquency prevalence. _Criminology_ 47:3:657-695.
 
 - Ratcliffe, Jerry H., Taniguchi, Travis A., & Taylor, R. B. (2009). The crime reduction effects of public CCTV cameras: A multi-method spatial approach. _Justice Quarterly_ 26:4:746-770.
+
+## Center Related Doctoral Dissertations 
+**Travis A. Taniguchi, PhD**<br/>
+"Policing a negotiated world: An empirical assessment of the ecological theory of policing"<br/>
+Chaired by Jerry H. Ratcliffe, May 2010<br/>
+Criminologist, Police Department, Redlands, CA<br/>
+View a summary of this [research project](https://liberalarts.temple.edu/sites/liberalarts/files/ResearchfindingsTaniguchi2010.pdf)<br/>
+
+**Eric S. McCord, PhD**<br/>
+"Isolating opportunity from demographics: A case study of motor vehicle theft in Philadelphia"<br/>
+Chaired by Jerry H. Ratcliffe, May 2010<br/>
+Assistant Professor, University of Louisville, Louisville KY<br/>
+
+**Brian R. Wyant, PhD**<br/>
+"Micro-level spatio-temporal relationships between firearm arrests and shootings in Philadelphia: Implications for understanding of crime, time, place, and policing"<br/>
+Chaired by Ralph B. Taylor, August 2010<br/>
+Assistant Professor, LaSalle University, Philadelphia, PA<br/>
+View a summary of this [research project](https://liberalarts.temple.edu/sites/liberalarts/files/ResearchfindingsWyant2010.pdf)<br/>
+
+**Brian Lockwood, PhD**<br/>
+"Too far to travel? An investigation of the effects of distance to community-based treatment programs for juvenile offenders"<br/>
+Chaired by George F. Rengert, May 2010<br/>
+Assistant Professor, Monmouth University, West Long Branch, NJ<br/>
