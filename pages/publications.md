@@ -4,8 +4,9 @@ permalink: /publications/
 layout: page
 published: true
 sidebar: true
-sidebar-content: |   
+sidebar-content: |    
 ---
+   **Director** 
    Jerry Ratcliffe    
    525 Gladfelter Hall        
    [jhr@temple.edu](mailto:jhr@temple.edu)    
