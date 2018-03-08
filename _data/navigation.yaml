@@ -1,14 +1,10 @@
-- text: Undergraduate
-  url: /undergraduate/
-- text: Graduate
-  url: /graduate/
+- text: Projects
+  url: /projects/
+- text: Research
+  url: /research/
 - text: Faculty
   url: /faculty/
 - text: Research
   url: /research/
-- text: Student Life
-  url: /student-life/
-- text: Resources
-  url : /resources/
-- text: Next Stops
-  url : /next-stops/
+- text: Publications
+  url: /publications/
