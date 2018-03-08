@@ -5,49 +5,44 @@ layout: home3
 keywords: ''
 feature: true
 feature-title: >-
-  Committed to Deepening Our Understanding of Crime, Governance and Social Justice 
+  A Center Devoted to Crime Science 
 feature-body: >-
-  The criminal justice system has three major components: the courts, law
-  enforcement, and corrections. Learn how these three components
-  function and impact the larger society.
+  Crime Science takes the issue of crime one step further than traditional criminology. 
+  It seeks contributions from inter-related disciplines, including; psychology, geography, 
+  public health, law and urban planning.
 published: true
 feature-image: media/hero_bg.png
 ---
-![Susan Barton visits]({{site.baseurl}}/media/resized Susan Barton Visits.jpg){:.img-right}
-## A Practice-Focused Intellectual Experience
-Students often debate issues such as police legitimacy, victims’ rights, mass incarceration, fairness in sentencing, and reintegration of formerly incarcerated individuals, as well as a wide variety of other topics. Criminal Justice majors graduate successfully and make a difference by working in various criminal justice agencies, becoming attorneys and attending graduate school.
-        
-## Academic Offerings 
-- [BA in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/ba-criminal-justice/)
-- [Minor in Criminal Justice](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/minor-criminal-justice/)
-- [MA in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-ma/)
-- [4+1 BA/MA Program](http://bulletin.temple.edu/undergraduate/liberal-arts/criminal-justice/#41-ba-ma)
-- [Graduate Certificate in Police Leadership](http://bulletin.temple.edu/graduate/scd/cla/police-leadership-certificate/)
-- [Graduate Certification in Crime Science](http://bulletin.temple.edu/graduate/scd/cla/crime-science-certificate/)
-- [PhD in Criminal Justice](http://bulletin.temple.edu/graduate/scd/cla/criminal-justice-phd/)
+![CSCS]({{site.baseurl}}/media/CSCS Hero.JPG){:.img-right}
+## Experience Criminology in a Different Way
+The Center for Security and Crime Science (housed in the Department of Criminal Justice at Temple University) is the first center in the United States devoted to Crime Science. In the 21st Century, thinking about crime has expanded in scope to move beyond domestic concerns and security has become more broadly construed as dealing with issues of public safety and social harm. Crime is now the business of public as well as private agencies, formal as well as informal entities, all seeking to address multiple levels of security concerns.
+
+Crime Science is a radical departure from old ways of thinking about the problem of crime in society. Traditional criminology has concentrated on what happens after crimes are committed; that is, how we respond to a criminal act and how we define "crime". Crime Science is a new approach intended to get upstream of crime and to proactively prevent it rather than merely respond to it. Crime Science examines those crimes which occur most frequently and then develops policy options which close them off. This approach can work to reduce both the inclination, and the opportunity to commit crime.
+
+The inter-disciplinary nature of Crime Science allows the development of a coherent strategy to influence both product and building design, and to examine the social and psychological factors, which contribute to criminal activity. The result is an integrated approach to the problem of crime.
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Undergraduate: A Practice-Focused Intellectual Experience" 
-    content="Engage in a multi-disciplinary approach to the study of crime, offenders, and victims, as well as <br/>the agencies, goals, laws, policies, and processes of the criminal justice system" 
+    title="Projects" 
+    content="NEED CONTENT" 
     image="" 
-    button-link="undergraduate" 
+    button-link="projects" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title="Graduate: Policy-Oriented Research and Training" 
+      title="Policy-Oriented Research and Training" 
       content="A dynamic environment in which faculty, with graduate students, conduct research at the local, regional, national and international levels" 
       image="" 
-      button-link="graduate" 
+      button-link="research" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Get Involved with an Internship" 
+        title="NEED A BOX" 
         content="NEED DESCRIPTION" 
         image="" 
-        button-link="/criminal-justice/student-life/#internships" 
+        button-link="" 
         button-text="Learn More" %}
       </div>
 </div>
