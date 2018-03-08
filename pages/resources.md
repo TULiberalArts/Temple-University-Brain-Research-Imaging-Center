@@ -2,7 +2,7 @@
 title: Resources
 permalink: /resources/
 layout: page
-published: true
+published: false
 ---
 ## Advising Center
 The mission of the Criminal Justice Advising office is to assist students with planning and implementing rosters, provide students with career information and to help students navigate through the college years. Our office posts information about scholarships, jobs, internships and social organizations that will maximize the students’ college experience. 
