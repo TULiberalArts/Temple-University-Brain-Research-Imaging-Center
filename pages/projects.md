@@ -76,7 +76,7 @@ In a 2006 referendum, about 80% of Philadelphia voters indicated a desire to cha
 
 Since then over 200 public CCTV cameras have been erected across Philadelphia since late 2007.Therewas clearly a need for a larger study.On the invitation of the Philadelphia Police Department, and with grant support from the NationalInstitute of Justice, we report here the preliminary results of a statistical evaluation of the impact ofthose cameras on various crime types. We say preliminary because we are still in the process ofcompleting a range of other analyses, which when combined with the work reported here, will allow usto better determine the overall impact of the cameras. This further work will include propensitymatching for control sites and a test for displacement to non-camera sites.
 
-At present we can report preliminary results of a time series analysis of the impact of the CCTV camera violence, disorder, narcotics incidents, vehicle crime and burglary.Preliminary results of crime impact of CCTV cameras (pdf) (https://liberalarts.temple.edu/sites/liberalarts/files/CCTV%20Preliminary%20time%20series%20analysis.pdf).
+At present we can report preliminary results of a time series analysis of the impact of the CCTV camera violence, disorder, narcotics incidents, vehicle crime and burglary.Preliminary [results of crime impact of CCTV cameras]((https://liberalarts.temple.edu/sites/liberalarts/files/CCTV%20Preliminary%20time%20series%20analysis.pdf) (pdf) .
 
 _For more details contact- Dr Jerry Ratcliffe or Dr Elizabeth Groff.* Details of this pilot study can be found in Ratcliffe, JH, Taniguchi, T, and Taylor, RB (2009) The crimereduction effects of public CCTV cameras: A multi-method spatial approach, Justice Quarterly, 26(4):746-770._
 
