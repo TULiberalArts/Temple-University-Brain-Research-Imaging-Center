@@ -5,7 +5,7 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: |  
-   **Director**
+   **Director**    
    Jerry Ratcliffe    
    525 Gladfelter Hall        
    [jhr@temple.edu](mailto:jhr@temple.edu)        
