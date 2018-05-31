@@ -28,8 +28,7 @@ sidebar-content: |
    
    Ralph Taylor  
    537 Gladfelter Hall     
-   [rbrecken@temple.edu](mailto:rbrecken@temple.edu)  
-   
+   [rbrecken@temple.edu](mailto:rbrecken@temple.edu)    
 ---
 ## The Philadelphia Foot Patrol Experiment
 ![Foot Patrol.JPG]({{site.baseurl}}/media/Foot Patrol.JPG){:.img-right} 
