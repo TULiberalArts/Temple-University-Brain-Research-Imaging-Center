@@ -4,7 +4,7 @@ layout: tla_page
 permalink: /facilities/
 published: true
 # meta-data variables
-title: Projects
+title: Facilities
 description: >-
 keywords: ''
 # custom variables
