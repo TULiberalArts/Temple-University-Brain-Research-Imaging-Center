@@ -8,6 +8,5 @@ title: Facilities
 description: >-
 keywords: ''
 # custom variables
-sidebar: true
-sidebar_content: 
+sidebar: false
 ---
