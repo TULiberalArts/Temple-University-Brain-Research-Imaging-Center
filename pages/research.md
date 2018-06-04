@@ -1,35 +1,15 @@
 ---
-title: Research
+# global predefined variables
+layout: tla_page
 permalink: /research/
-layout: page
-keywords: ''
-description: >-
 published: true
+# meta-data variables
+title: Research
+description: >-
+keywords: ''
+# custom variables
 sidebar: true
-sidebar-content: |  
-   **Director**    
-   Jerry Ratcliffe    
-   525 Gladfelter Hall        
-   [jhr@temple.edu](mailto:jhr@temple.edu)       
-   
-   ___
-   
-   Jennifer Wood  
-   548 Gladfelter Hall   
-   [woodj@temple.edu](mailto:woodj@temple.edu)  
-   
-   ___
-   
-   Elizabeth Groff  
-   531 Gladfelter Hall     
-   [groff@temple.edu](mailto:groff@temple.edu)  
-   
-   ___
-   
-   Ralph Taylor  
-   537 Gladfelter Hall     
-   [rbrecken@temple.edu](mailto:rbrecken@temple.edu)  
-   
+sidebar_content: sidebars/research.html
 ---
 ## Rehabilitation and Behavior Change
 Rehabilitation and behavior change focuses on research involving high-risk offenders and criminal behaviors that include criminal and violent offending, recidivism, delinquency, substance use, and HIV risk behaviors.
