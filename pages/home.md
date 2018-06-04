@@ -1,17 +1,21 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home3
+published: true
+# meta-data variables
+title: Home
+description: >-
 keywords: ''
+# custom variables
+sidebar: false
 feature: true
-feature-title: >-
-  A Center Devoted to Crime Science 
+feature-title: A Center Devoted to Crime Science 
+feature-image: media/CSCS Hero.JPG
 feature-body: >-
   Crime Science takes the issue of crime one step further than traditional criminology. 
   It seeks contributions from inter-related disciplines, including; psychology, geography, 
   public health, law and urban planning.
-published: true
-feature-image: media/CSCS Hero.JPG
 ---
 ![CSCS]({{site.baseurl}}/media/resized CSCS Smart Policing.jpg){:.img-right}
 ## Experience Criminology in a Different Way
