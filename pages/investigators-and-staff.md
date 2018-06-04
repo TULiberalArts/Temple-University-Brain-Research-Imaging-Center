@@ -1,10 +1,10 @@
 ---
 # global predefined variables
 layout: tla_faculty
-permalink: /faculty/
-published: false
+permalink: /investigators-and-staff/
+published: true
 # meta-data variables
-title: Faculty
+title: Investigators and Staff
 description: >-
 keywords: ''
 # custom variables
