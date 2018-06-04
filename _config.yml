@@ -1,28 +1,26 @@
 ---
 # Program/Department Title
-title: Center-for-Security-and-Crime-Science
+title: Temple-University-Brain-Research-Imaging-Center
 # Subdirectory (with / at only at beginning)
-baseurl: /center-for-security-and-crime-science
+baseurl: /temple-university-brain-research-imaging-center
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-
 
 # Program Information
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'The criminal justice system has three major components: the courts, law enforcement, and corrections. Our majors learn how these three components function and impact the larger society.'
+description: ''
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
 # Address
-address:
-  building: Department of Criminal Justice
-  room: 
-  street: 580 Meetinghouse Rd
+  building: Weiss Hall
+  room: Basement Room 50
+  street: 1701 N 13th Street
   city: Ambler, PA 19002
-  email: criminal-justice@temple.edu
-  phone: 267-468-8600
+  email: tubric@temple.edu
+  phone: 
 
 # Social Media
 # Put in only the username unless otherwise noted
@@ -65,11 +63,11 @@ google_analytics:
 google_tag_manager: GTM-58ZL5B
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
-events-feed: https://liberalarts.temple.edu/events/center-for-security-and-crime-science/csv
-news-feed: https://liberalarts.temple.edu/articles/center-for-security-and-crime-science/csv
-articles-feed: https://liberalarts.temple.edu/articles/center-for-security-and-crime-science/csv
-faculty-feed: https://liberalarts.temple.edu/profiles/center-for-security-and-crime-science/csv
-media-mentions-feed: https://liberalarts.temple.edu/media-mentions/center-for-security-and-crime-science/csv
+events-feed: https://liberalarts.temple.edu/events/temple-university-brain-research-imaging-center/csv
+news-feed: https://liberalarts.temple.edu/articles/temple-university-brain-research-imaging-center/csv
+articles-feed: https://liberalarts.temple.edu/articles/temple-university-brain-research-imaging-center/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/temple-university-brain-research-imaging-center/csv
+media-mentions-feed: https://liberalarts.temple.edu/media-mentions/temple-university-brain-research-imaging-center/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
