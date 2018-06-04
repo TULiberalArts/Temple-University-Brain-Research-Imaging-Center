@@ -10,3 +10,10 @@ keywords: ''
 # custom variables
 sidebar: false
 ---
+## Content for Page
+- New Investigator information
+- Safety
+- Training
+- Forms
+- Scheduling (password protected)
+- Seed Funding/Pilot Research
