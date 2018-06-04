@@ -24,8 +24,8 @@ Major project funding was provided by the National Science Foundation (NSF), in 
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Projects" 
-    content="NEED CONTENT" 
+    title="NEED CONTENT" 
+    content="" 
     image="" 
     button-link="NEED CONTENT" 
     button-text="Learn More" %}
