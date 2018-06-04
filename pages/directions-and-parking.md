@@ -1,10 +1,10 @@
 ---
 # global predefined variables
 layout: tla_page
-permalink: /investigators-and-staff/
+permalink: /directions-and-parking/
 published: true
 # meta-data variables
-title: Investigators and Staff
+title: Directions & Parking
 description: >-
 keywords: ''
 # custom variables
