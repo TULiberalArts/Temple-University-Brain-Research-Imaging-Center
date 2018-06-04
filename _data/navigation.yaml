@@ -1,8 +1,13 @@
-- text: Projects
-  url: /projects/
-- text: Research
-  url: /research/
-- text: Faculty
-  url: /faculty/
-- text: Publications
-  url: /publications/
+- text: Facilities
+  url: /facilities/
+- text: Investigators and Staff
+  url: /investigators-and-staff/
+- text: Directions and Parking
+  url: /directions-and-parking/
+- text: Participant Portal
+  url: /participant-portal/  
+- text: Investigator Portal
+  url: /investigator-portal/
+- text: Contact Us
+  url: /contact-us/
+
