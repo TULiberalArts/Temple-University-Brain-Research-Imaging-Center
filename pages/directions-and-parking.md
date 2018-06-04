@@ -10,6 +10,7 @@ keywords: ''
 # custom variables
 sidebar: false
 ---
+![TUBRIC Entrance]({{site.baseurl}}/media/resized Entrance.jpg){:.img-right}
 TUBRIC is located in the basement of Weiss Hall room 50, located on the corner of 13th Street and Cecil B Moore Avenue. Entrance is on 13th Street.
 
 **Pennsylvania Turnpike:** Take Exit 326 (Philadelphia/Valley Forge). Follow I-76 East approximately 18 miles to Exit 344 (Central Phila./I-676). Exit is on left. Follow I-676 approximately 1 mile to the Central Phila./Broad St. exit. Stay to the left as you exit. In 1 block, turn left onto Broad and go approximately 2 miles to Cecil B. Moore Ave. Turn right onto Cecil B. Moore and go 2 blocks toward 12th Street. The Cecil B. Moore Lot is between 13th and 12th; the entrance will be on your left. TUBRIC is located in the basement of Weiss Hall located in the corner of 13th and Cecil B Moore Streets. Entrance is on 13th Street.
