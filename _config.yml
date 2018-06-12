@@ -20,7 +20,7 @@ keywords: highered, college, university, philadelphia, Temple
   street: 1701 N 13th Street
   city: Philadelphia, PA 19122
   email: tubric@temple.edu
-  phone: 
+  phone:
 
 # Social Media
 # Put in only the username unless otherwise noted
@@ -56,7 +56,7 @@ college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
 program_news: https://liberalarts.temple.edu/news/temple-university-brain-research-imaging-center
-program_events: https://events.temple.edu/department/temple-university-brain-research-imaging-center  
+program_events: https://events.temple.edu/department/temple-university-brain-research-imaging-center
 
 # Google Tag Manager OR Google Analytics
 google_analytics:
