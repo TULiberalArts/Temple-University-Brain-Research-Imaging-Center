@@ -1,8 +1,8 @@
-# Center for Security and Crime Science
+# Temple University Brain Research Imaging Center
 
 [![Build Status][travis-img]][travis]
 
-Center for Security and Crime Science is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
+Temple University Brain Research Imaging Center is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
 
 ## Content Structure
 
@@ -21,10 +21,10 @@ If you discover typographic errors, bugs, or have problems navigating this site 
 [Pull requests][pr] are also welcome if you would like to contribute or edit page content. [Prose.io][prose] is a quick and convenient way to edit content in [Markdown][md].
 
 
-[travis]: https://travis-ci.org/TULiberalArts/Center-for-Security-and-Crime-Science
-[travis-img]: https://travis-ci.org/TULiberalArts/Center-for-Security-and-Crime-Science.svg?branch=master
+[travis]: https://travis-ci.org/TULiberalArts/Temple-University-Brain-Research-Imaging-Center
+[travis-img]: https://travis-ci.org/TULiberalArts/Temple-University-Brain-Research-Imaging-Center.svg?branch=master
 [jekyll]: https://https://jekyllrb.com
-[issue]: https://github.com/TULiberalArts/Center-for-Security-and-Crime-Science/issues
+[issue]: https://github.com/TULiberalArts/Temple-University-Brain-Research-Imaging-Center/issues
 [pr]: https://help.github.com/articles/about-pull-requests/
-[prose]: https://prose.io/#TULiberalArts/Center-for-Security-and-Crime-Science
+[prose]: https://prose.io/#TULiberalArts/Temple-University-Brain-Research-Imaging-Center
 [md]: http://whatismarkdown.com/
