@@ -10,18 +10,20 @@ keywords: ''
 # custom variables
 sidebar: false
 ---
-![Seimens 3T Scanner]({{site.baseurl}}/media/resized MRI 1.jpg){:.img-right}
-## Seimens 3T Scanner 
-- Need the content
-- Pictures of Mockscanner, peripherals, testing rooms, bio sampling
+## Mock Scanner
+<div align="center"><iframe src="https://albumizr.com/a/SMJl" scrolling="no" frameborder="0" allowfullscreen width="600" height="400"></iframe></div>
 
+___
 
+## Testing Rooms
+<div align="center"><iframe src="https://albumizr.com/a/2w5v" scrolling="no" frameborder="0" allowfullscreen width="600" height="400"></iframe></div>
 
-![Seimens 3T Scanner 2]({{site.baseurl}}/media/resized Seimens 3T Scanner 2.jpg){:.img-center}
+___
 
+## Siemens Scanner
+<div align="center"><iframe src="https://albumizr.com/a/Va-v" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe></div>
 
+___
 
-
-
-![Mach MRI]({{site.baseurl}}/media/resized Mach MRI.jpg){:.img-center}
-
+## Miscellaneous
+<div align="center"><iframe src="https://albumizr.com/a/gngD" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe></div>
