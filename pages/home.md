@@ -8,13 +8,14 @@ title: Home
 description: >-
 keywords: 'center, brain imaging, TUBRIC, MRI, Temple brain research center'
 # custom variables
+promotion-table: true
 sidebar: false
 feature: true
-feature-title: NEED A TITLE 
+feature-title: NEED A TITLE
 feature-image: media/TUBRIC.jpg
 feature-body: >-
   TUBRIC is a core research facility that serves investigative teams from colleges
-  and departments across Temple University and in the surrounding research community. 
+  and departments across Temple University and in the surrounding research community.
 ---
 ![TUBRIC sign]({{site.baseurl}}/media/resized TUBRIC sign.jpg){:.img-right}
 ## TUBRIC- Launching Cutting Edge Research
@@ -24,27 +25,27 @@ Modern brain imaging tools allow us to non-invasively explore the structure and 
 Major project funding was provided by the National Science Foundation (NSF), in the form of a “Major Research Instrumentation” award of approximately $2.4 Million. Additional support from the Temple University Provost’s office, the Office of the Vice President for Research (by way of the PA-CURE program), and the College of Liberal Arts enabled the acquisition of the state-of-the-art 3-Tesla Siemens MAGNETOM Prisma scanner, and to give it a home within a newly renovated center that provides the space and equipment needed to support research use of the scanner.
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="NEED CONTENT" 
-    content="" 
-    image="" 
-    button-link="NEED CONTENT" 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="NEED CONTENT"
+    content=""
+    image=""
+    button-link="NEED CONTENT"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="NEED CONTENT" 
-      content="" 
-      image="" 
-      button-link="" 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="NEED CONTENT"
+      content=""
+      image=""
+      button-link=""
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="NEED CONTENT" 
-        content="" 
-        image="" 
-        button-link="" 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="NEED CONTENT"
+        content=""
+        image=""
+        button-link=""
         button-text="Learn More" %}
       </div>
 </div>
