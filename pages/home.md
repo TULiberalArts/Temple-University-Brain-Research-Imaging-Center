@@ -17,7 +17,7 @@ feature-body: >-
   TUBRIC is a core research facility that serves investigative teams from colleges
   and departments across Temple University and in the surrounding research community.
 ---
-![TUBRIC sign]({{site.baseurl}}/media/resized TUBRIC sign.jpg){:.img-right}
+![TUBRIC sign]({{site.baseurl}}/media/resized TUBRIC sign.jpg){:.responsive-img .img-right}
 ## TUBRIC- Launching Cutting Edge Research
 Modern brain imaging tools allow us to non-invasively explore the structure and function of the brain, with magnetic resonance imaging (MRI) being the most widely used approach. With MRI we can see precise variation in brain tissue, detail the “wiring” of the brain, and observe the changes in brain activity that coincide with specific mental abilities. The observations provided by MRI can serve as a testbed for our theories of healthy mental functioning, and its breakdown. TUBRIC’s centerpiece, a Siemens PRISMA scanner, is the top-of-the-line commercially available MRI scanner for use in human neuroimaging. MRI has become a mainstay of behavioral and bio-behavioral science. Investigators on Temple’s main campus already have an impressive track record of attracting funding for research that utilizes MRI-based methods, and TUBRIC positions our researchers to launch cutting-edge research that pushes the boundaries of understanding in our respective disciplines.
 
