@@ -8,5 +8,5 @@ title: Contact Us
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
+
 ---

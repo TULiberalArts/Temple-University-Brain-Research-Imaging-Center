@@ -8,7 +8,7 @@ title: Investigator Portal
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
+
 ---
 ## Content for Page
 - New Investigator information

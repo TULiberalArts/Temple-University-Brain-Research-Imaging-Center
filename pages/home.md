@@ -9,7 +9,7 @@ description: >-
 keywords: 'center, brain imaging, TUBRIC, MRI, Temple brain research center'
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-title: NEED A TITLE
 feature-image: media/TUBRIC.jpg

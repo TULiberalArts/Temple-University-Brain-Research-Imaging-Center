@@ -8,7 +8,7 @@ title: Participant Portal
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
+
 ---
 ## Content for Page
 - Participate in a study

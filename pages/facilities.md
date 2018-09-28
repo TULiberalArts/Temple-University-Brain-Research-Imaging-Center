@@ -8,7 +8,7 @@ title: Facilities
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
+
 ---
 **NEED NICK TO WRITE AN INTRO PARAGRAPH**
 

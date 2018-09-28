@@ -8,7 +8,7 @@ title: Directions & Parking
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
+
 ---
 ![TUBRIC Entrance]({{site.baseurl}}/media/resized Entrance.jpg){:.responsive-img .img-right}
 TUBRIC is located in the basement of Weiss Hall room 50, located on the corner of 13th Street and Cecil B Moore Avenue. Entrance is on 13th Street.
