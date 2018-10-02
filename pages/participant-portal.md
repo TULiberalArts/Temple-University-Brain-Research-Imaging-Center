@@ -15,7 +15,3 @@ keywords: ''
 - Screening Forms – participation information
 - Register for general participant pool
 - On-going Studies
-
-First Header| Second Header | Third Header| Fourth Header
-------------|------------- | ------------|----------------
-Content cell 1 | Content cell 2 | Content cell 3 | Content cell 4
