@@ -28,12 +28,6 @@ feature-body: >-
   and TUBRIC positions our researchers to launch cutting-edge research that pushes the boundaries 
   of understanding in our respective disciplines.
 ---
-![TUBRIC sign]({{site.baseurl}}/media/resized TUBRIC sign.jpg){:.responsive-img .img-right}
-## TUBRIC- Launching Cutting Edge Research
-Modern brain imaging tools allow us to non-invasively explore the structure and function of the brain, with magnetic resonance imaging (MRI) being the most widely used approach. With MRI we can see precise variation in brain tissue, detail the “wiring” of the brain, and observe the changes in brain activity that coincide with specific mental abilities. The observations provided by MRI can serve as a testbed for our theories of healthy mental functioning, and its breakdown. TUBRIC’s centerpiece, a Siemens PRISMA scanner, is the top-of-the-line commercially available MRI scanner for use in human neuroimaging. MRI has become a mainstay of behavioral and bio-behavioral science. Investigators on Temple’s main campus already have an impressive track record of attracting funding for research that utilizes MRI-based methods, and TUBRIC positions our researchers to launch cutting-edge research that pushes the boundaries of understanding in our respective disciplines.
-
-## TUBRIC Funding
-Major project funding was provided by the National Science Foundation (NSF), in the form of a “Major Research Instrumentation” award of approximately $2.4 Million. Additional support from the Temple University Provost’s office, the Office of the Vice President for Research (by way of the PA-CURE program), and the College of Liberal Arts enabled the acquisition of the state-of-the-art 3-Tesla Siemens MAGNETOM Prisma scanner, and to give it a home within a newly renovated center that provides the space and equipment needed to support research use of the scanner.
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html color="black"
