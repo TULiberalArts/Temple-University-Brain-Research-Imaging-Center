@@ -10,10 +10,15 @@ keywords: ''
 # custom variables
 
 ---
-## Content for Page
-- New Investigator information
-- Safety
-- Training
-- Forms
-- Scheduling (password protected)
-- Seed Funding/Pilot Research
+## New Investigator Information
+- **Pilot Research**
+
+
+## Safety and Training
+
+
+## Forms
+
+
+## Scheduling (password protected)
+
