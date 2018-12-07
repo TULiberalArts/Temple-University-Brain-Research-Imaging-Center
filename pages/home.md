@@ -12,7 +12,7 @@ promotion-table: true
 
 feature: true
 feature-title: NEED A TITLE
-feature-image: media/TUBRIC.jpg
+feature-image: media/TUBRICWeb_FuncHeadCropBanner (1).jpg
 feature-body: >-
   TUBRIC is a core research facility that serves investigative teams from colleges
   and departments across Temple University and in the surrounding research community.
