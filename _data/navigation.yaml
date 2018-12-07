@@ -1,13 +1,10 @@
 - text: Facilities
   url: /facilities/
-- text: Investigators and Staff
-  url: /investigators-and-staff/
-- text: Directions and Parking
-  url: /directions-and-parking/
+- text: People
+  url: /people/
 - text: Participant Portal
   url: /participant-portal/  
 - text: Investigator Portal
   url: /investigator-portal/
 - text: Contact Us
   url: /contact-us/
-
