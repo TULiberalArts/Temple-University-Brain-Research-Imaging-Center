@@ -29,3 +29,8 @@ ___
 
 ## Miscellaneous
 <div align="center" class="video-container"><iframe src="https://albumizr.com/a/gngD" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe></div>
+
+___
+
+## TUBRIC Funding
+Major project funding was provided by the National Science Foundation (NSF), in the form of a “Major Research Instrumentation” award of approximately $2.4 Million. Additional support from the Temple University Provost’s office, the Office of the Vice President for Research (by way of the PA-CURE program), and the College of Liberal Arts enabled the acquisition of the state-of-the-art 3-Tesla Siemens MAGNETOM Prisma scanner, and to give it a home within a newly renovated center that provides the space and equipment needed to support research use of the scanner.
