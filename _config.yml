@@ -2,11 +2,11 @@
 # Program/Department Title
 title: Temple University Brain Research & Imaging Center
 # Subdirectory (with / at only at beginning)
-baseurl: /temple-university-brain-research-and-imaging-center
+baseurl: /temple-university-brain-research-imaging-center
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
 # url spits sitemap
-url: https://www.cla.temple.edu/temple-university-brain-research-and-imaging-center
+url: https://www.cla.temple.edu/temple-university-brain-research-imaging-center
 faculty-page: /people/
 
 # Development Config
