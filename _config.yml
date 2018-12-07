@@ -1,12 +1,13 @@
 ---
 # Program/Department Title
-title: Temple University Brain Research Imaging Center
+title: Temple University Brain Research & Imaging Center
 # Subdirectory (with / at only at beginning)
-baseurl: /temple-university-brain-research-imaging-center
+baseurl: /temple-university-brain-research-and-imaging-center
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
 # url spits sitemap
-url: https://www.cla.temple.edu/temple-university-brain-research-imaging-center
+url: https://www.cla.temple.edu/temple-university-brain-research-and-imaging-center
+faculty-page: /people/
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
@@ -37,9 +38,6 @@ college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
   
-program_news: https://liberalarts.temple.edu/news/temple-university-brain-research-imaging-center
-program_events: https://events.temple.edu/department/temple-university-brain-research-imaging-center
-
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/temple-university-brain-research-imaging-center/csv
 news-feed: https://liberalarts.temple.edu/articles/temple-university-brain-research-imaging-center/csv
