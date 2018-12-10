@@ -42,8 +42,8 @@ Major project funding was provided by the National Science Foundation (NSF), in 
       <li>
         <img src="https://github.com/TULiberalArts/Temple-University-Brain-Research-Imaging-Center/blob/master/media/resized%20Entrance.jpg?raw=true"> 
         <div class="caption center-align">
-          <h3>This is our big Tagline!</h3>
-          <h5 class="light grey-text text-lighten-3">TUBRIC Entrance</h5>
+          <h3>TUBRIC Entrance</h3>
+          <h5 class="light grey-text text-lighten-3"></h5>
         </div>
       </li>
       <li>
