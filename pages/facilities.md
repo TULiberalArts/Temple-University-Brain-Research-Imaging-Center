@@ -40,10 +40,10 @@ Major project funding was provided by the National Science Foundation (NSF), in 
 <div class="slider">
     <ul class="slides">
       <li>
-        <img src="https://lorempixel.com/580/250/nature/1"> 
+        <img src="https://github.com/TULiberalArts/Temple-University-Brain-Research-Imaging-Center/blob/master/media/resized%20Entrance.jpg?raw=true"> 
         <div class="caption center-align">
           <h3>This is our big Tagline!</h3>
-          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+          <h5 class="light grey-text text-lighten-3">TUBRIC Entrance</h5>
         </div>
       </li>
       <li>
