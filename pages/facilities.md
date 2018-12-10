@@ -32,39 +32,3 @@ ___
 <div align="center" class="video-container"><iframe src="https://albumizr.com/a/gngD" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe></div>
 
 ___
-
-
-
-<div class="slider">
-    <ul class="slides">
-      <li>
-        <img src="https://github.com/TULiberalArts/Temple-University-Brain-Research-Imaging-Center/blob/master/media/resized%20Entrance.jpg?raw=true"> 
-        <div class="caption center-align">
-          <h3>TUBRIC Entrance</h3>
-          <h5 class="light grey-text text-lighten-3"></h5>
-        </div>
-      </li>
-      <li>
-        <img src="https://lorempixel.com/580/250/nature/2"> 
-        <div class="caption left-align">
-          <h3>Left Aligned Caption</h3>
-          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-        </div>
-      </li>
-      <li>
-        <img src="https://lorempixel.com/580/250/nature/3"> 
-        <div class="caption right-align">
-          <h3>Right Aligned Caption</h3>
-          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-        </div>
-      </li>
-      <li>
-        <img src="https://lorempixel.com/580/250/nature/4"> 
-        <div class="caption center-align">
-          <h3>This is our big Tagline!</h3>
-          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-        </div>
-      </li>
-    </ul>
-  </div>
-  
