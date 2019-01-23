@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: uni_tla_header
+layout: tla_home2.html
 permalink: /
 published: true
 # meta-data variables
