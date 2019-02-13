@@ -19,22 +19,5 @@
           <a class="btn btn-large waves-effect white grey-text darken-text-2" href="{{ news_link }} "data-proofer-ignore">More News <i class="material-icons">navigate_next</i></a>
         {% endif %}
       </div>
-      <div class="col s12 m6">
-        {% if site.data.events == null or site.data.events[0] == null %}
-        {% capture events_link %}
-        {{ site.program_events }}
-        {% endcapture %}
-          {% include cards/card2-basic.html color="black" title="Events" content="Learn more about events organized by the Center on Regional Politics and other departments and centers within Temple’s College of Liberal Arts." button-link="https://events.temple.edu/department/college-of-liberal-arts" button-text="View Events" %}
-        {% else %}
-          <h2>Upcoming Events</h2>
-          {% for item in site.data.events limit:4 %}
-            <a href="{{ item['Event Link'] }}" target="_blank" class="feed-item">
-              <strong>{{ item['Title'] }}</strong>
-              <span class="meta">{{ item['Sort Date'] }}</span>
-            </a>
-          {% endfor %}
-         <br>
-      </div>
+     </div>
     </div>
-  </div>
-</div>
