@@ -23,4 +23,5 @@ a Siemens PRISMA scanner, allows us to observe precise variation in brain tissue
 detail the “wiring” of the brain, and monitor the changes in brain activity that 
 coincide with specific mental abilities. Neuroimaging observations like these allow 
 researchers to test theories of healthy mental functioning, and its breakdown. 
+
 ---
