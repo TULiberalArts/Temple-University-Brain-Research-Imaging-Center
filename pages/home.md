@@ -28,29 +28,3 @@ feature-body: >-
   and TUBRIC positions our researchers to launch cutting-edge research that pushes the boundaries 
   of understanding in our respective disciplines.
 ---
-
-<div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html color="black"
-    title="NEED CONTENT"
-    content=""
-    image=""
-    button-link="NEED CONTENT"
-    button-text="Learn More" %}
-  </div>
-  <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html color="black"
-      title="NEED CONTENT"
-      content=""
-      image=""
-      button-link=""
-      button-text="Learn More" %}
-    </div>
-    <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html color="black"
-        title="NEED CONTENT"
-        content=""
-        image=""
-        button-link=""
-        button-text="Learn More" %}
-      </div>
-</div>
