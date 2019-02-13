@@ -9,9 +9,8 @@ description: >-
 keywords: 'center, brain imaging, TUBRIC, MRI, Temple brain research center'
 # custom variables
 promotion-table: true
-
 feature: true
-feature-title: TUBRIC - Launching Cutting Edge Research
+feature-title: TUBRIC- Launching Cutting Edge Research
 feature-image: media/TUBRICWeb_FuncHeadCropBanner (1).jpg
 feature-body: >-
 The Temple University Brain Research & Imaging Center (TUBRIC) is a core research facility 
