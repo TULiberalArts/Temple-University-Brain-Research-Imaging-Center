@@ -13,7 +13,6 @@ feature: true
 feature-title: TUBRIC- Launching Cutting Edge Research
 feature-image: media/TUBRICWeb_FuncHeadCropBanner (1).jpg
 feature-body: >-
-
 The Temple University Brain Research & Imaging Center (TUBRIC) 
 is a core research facility serving researchers from colleges 
 and departments across Temple University and the surrounding community. 
