@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: tla_page
+layout: tla_faculty
 permalink: /people/
 published: true
 # meta-data variables
@@ -8,7 +8,6 @@ title: People
 description: >-
 keywords: ''
 # custom variables
-faculty: profiles/faculty.html
 affiliated: profiles/affiliated.html
 sidebar: sidebars/graduate.html
 ---
