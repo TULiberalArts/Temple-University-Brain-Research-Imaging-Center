@@ -22,7 +22,7 @@ Huiling Peng<br>
 **MR Physicist**<br>
 Ze Wang<br>
 
-**Center Administrator</strong><br>
+**Center Administrator**<br>
 Melissa Wilson<br>
 
 **Information Technology Support**<br>
