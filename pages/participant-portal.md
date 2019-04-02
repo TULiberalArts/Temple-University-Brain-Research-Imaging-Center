@@ -46,54 +46,80 @@ If you are a participant in a study we are conducting, you can read below about 
 <p>When the scan is completed, a member of the research staff will assist you in getting up from the table, and will let you know if there’s anything else you need to do during the visit.</p>  
 </details>
 
-**How do I get to TUBRIC?**
-- [Directions and Parking](https://develop.cla.temple.edu/temple-university-brain-research-imaging-center/contact-us/)
+<details>
+  <summary><strong>How do I get to TUBRIC?</strong></summary>
+<p><a href="https://develop.cla.temple.edu/temple-university-brain-research-imaging-center/contact-us/">Directions and Parking.</a></p>
+</details>
 
-**How do I participate in a study?**
-- **NEED THE LINK FOR THE PARTICIPATE IN A STUDY FORM**
+<details>
+  <summary><strong>How do I participate in a study?</strong></summary>
+<p><strong>NEED THE LINK FOR THE PARTICIPATE IN A STUDY FORM<strong></p>
+</details>
 
 ## Additional FAQ's
 
-**Is having an MRI safe?**
-- MRI is considered to be a safe, painless, and non-invasive technique. During the procedure you won’t be exposed to any harmful radiation. Since the MRI system uses a strong magnet, there are some important steps we take to keep everyone safe during the session, and we expect your cooperation in following our instructions and procedures.
+<details>
+  <summary><strong>Is having an MRI safe?</strong></summary>
+<p>MRI is considered to be a safe, painless, and non-invasive technique. During the procedure you won’t be exposed to any harmful radiation. Since the MRI system uses a strong magnet, there are some important steps we take to keep everyone safe during the session, and we expect your cooperation in following our instructions and procedures.</p>
+</details>
 
-**Am I qualified to participate in an MRI study?**
-- Every study has its own rules for who can participate, but there are some important safety questions you’ll need to answer before we would include you. Most of these questions are about any metal that could be in your body, like from an injury or surgery. There are also some conditions that might keep you from being scanned (e.g., if you are pregnant). Your study team may ask specific questions about your age, your health history, and other characteristics that are important for their study goals.
+<details>
+  <summary><strong>Am I qualified to participate in an MRI study?</strong></summary>
+<p>Every study has its own rules for who can participate, but there are some important safety questions you’ll need to answer before we would include you. Most of these questions are about any metal that could be in your body, like from an injury or surgery. There are also some conditions that might keep you from being scanned (e.g., if you are pregnant). Your study team may ask specific questions about your age, your health history, and other characteristics that are important for their study goals.</p>
+</details>
 
-**What should I wear on the day of my scan?**
-**_Clothing materials that are recommended:_**
-- Loose fitting clothing
-- Clothes that will keep you warm (it gets a little cold in the scan room, around 65 degrees)
+<details>
+  <summary><strong>What should I wear on the day of my scan?</strong></summary>
+  <p><i>Clothing materials that are recommended:</i>
+   <ul>
+    <l>Loose fitting clothing</l>
+    <l>Clothes that will keep you warm (it gets a little cold in the scan room, around 65 degrees)</l>
+  <p><i>Clothing materials that are NOT recommended:</i>
+    <ul>
+    <l>Any compression wear or tight fitting clothing</l>
+  <p><i>Potentially prohibited clothing brands:</i> 
+    <ul>
+     <l>Athleta</l>
+     <l>Columbia Omniheat</l>
+     <l>Duluth Trading Co.</l>
+     <l>Juzo USA</l>
+     <l>Lululemon</l>
+     <l>Tommy Copper</l> 
+   </ul> 
+  </p>
+</details>
+  
+<details>
+  <summary><strong>Can I have a copy of my MRI pictures?</strong></summary>
+<p>Some studies may be able to give out images, but this is not always the case. You can ask the study team about their rules.</p>
+</details>  
+  
+ <details>
+  <summary><strong>Can I eat or drink before an MRI?</strong></summary>
+<p>You can eat as normal before your scan, unless there is a special requirement for the research project. It’s ok to drink before your scan, but it’s best if you don’t drink too much and need a bathroom break during the session (we’ll suggest you use the bathroom right before your session).</p>
+</details>  
 
-**_Clothing materials that are NOT recommended:_**
-- Any compression wear or tight fitting clothing
+<details>
+  <summary><strong>Will my whole body enter the MRI machine?</strong></summary>
+<p>For brain imaging studies you will be only partially in the machine - about half way down your body, or so.</p>
+</details>  
 
-**_Potentially prohibited clothing brands:_**
-- Athleta
-- Columbia Omniheat
-- Duluth Trading Co.
-- Juzo USA
-- Lululemon
-- Tommy Copper
+<details>
+  <summary><strong>Can hair products and makeup affect MRI?</strong></summary>
+<p>Some cosmetics contain metals that can interact with MRI magnets. Just to be safe, it’s best if you avoid using products such as hair spray and hair gel, and if you don’t wear heavy makeup or nail polish.</p>
+</details>  
 
-**Can I have a copy of my MRI pictures?**
-- Some studies may be able to give out images, but this is not always the case. You can ask the study team about their rules.
+<details>
+  <summary><strong>Can I be scanned if I have tattoos?</strong></summary>
+<p>Though it’s somewhat unusual, some tattoos can contain metals that would interact with MRI magnets. You can get a scan at TUBRIC as long as you don’t have any tattoos from the neck up.</p>
+</details>  
 
-**Can I eat or drink before an MRI?**
-- You can eat as normal before your scan, unless there is a special requirement for the research project.
-- It’s ok to drink before your scan, but it’s best if you don’t drink too much and need a bathroom break during the session (we’ll suggest you use the bathroom right before your session).
+<details>
+  <summary><strong>What if I have body piercings?</strong></summary>
+<p>Any piercings that you have will need to be removed before we bring you into the MR room. TUBRIC can provide silicone replacement piercings if you are worried about having a hole close up during the session.</p>
+</details>  
 
-**Will my whole body enter the MRI machine?**
-- For brain imaging studies you will be only partially in the machine - about half way down your body, or so.
-
-**Can hair products and makeup affect MRI?**
-- Some cosmetics contain metals that can interact with MRI magnets. Just to be safe, it’s best if you avoid using products such as hair spray and hair gel, and if you don’t wear heavy makeup or nail polish.
-
-**Can I be scanned if I have tattoos?**
-- Though it’s somewhat unusual, some tattoos can contain metals that would interact with MRI magnets. You can get a scan at TUBRIC as long as you don’t have any tattoos from the neck up.
-
-**What if I have body piercings?**
-- Any piercings that you have will need to be removed before we bring you into the MR room. TUBRIC can provide silicone replacement piercings if you are worried about having a hole close up during the session.
-
-**Can I have an MRI if I have fillings, retainers or braces on my teeth?**
-- The metal in most fillings is not affected by MRI systems and shouldn’t be a problem. Sometimes, retainers, braces, and other dental work can distort MR images, but they aren’t typically a safety risk. Our study teams will let you know if they exclude participants with orthodontic work.
+<details>
+  <summary><strong>Can I have an MRI if I have fillings, retainers or braces on my teeth?</strong></summary>
+<p>The metal in most fillings is not affected by MRI systems and shouldn’t be a problem. Sometimes, retainers, braces, and other dental work can distort MR images, but they aren’t typically a safety risk. Our study teams will let you know if they exclude participants with orthodontic work.</p>
+</details>  
