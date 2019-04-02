@@ -9,7 +9,7 @@ description: >-
 keywords: ''
 # custom variables
 ---
-![Weiss Hall]({{site.baseurl}}/media/resizedweisshall.png){:.responsive-img .img-right}
+![Weiss Hall]({{site.baseurl}}/media/resizedweisshall.png){:.responsive-img .img-left}
 **Temple University Brain Research & Imaging Center Temple University**<br>
 Weiss Hall, B50<br> 
 1701 N. 13th St.<br> 
