@@ -12,6 +12,12 @@ keywords: ''
 ---
 If you are a participant in a study we are conducting, you can read below about some common questions and answers that arise before the MRI exam.
 
+<details>
+  <summary>What is an MRI?</summary>
+<p>Magnetic resonance imaging (MRI) is a non-invasive technique that uses magnetic fields and radio waves to generate high-resolution images inside your body. An MRI scan is different from a CT scan or X-ray in that it doesn’t use radiation to produce images.</p>
+</details>
+
+
 **What is an MRI?**
 Magnetic resonance imaging (MRI) is a non-invasive technique that uses magnetic fields and radio waves to generate high-resolution images inside your body. An MRI scan is different from a CT scan or X-ray in that it doesn’t use radiation to produce images.
 
