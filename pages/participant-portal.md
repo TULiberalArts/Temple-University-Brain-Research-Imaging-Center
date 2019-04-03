@@ -74,11 +74,11 @@ If you are a participant in a study we are conducting, you can read below about 
    <ul>
     <l>Loose fitting clothing</l><br>  
     <l>Clothes that will keep you warm (it gets a little cold in the scan room, around 65 degrees)</l><br> 
-   <ul>  
+   </ul>  
   <p><i>Clothing materials that are NOT recommended:</i>
     <ul>
     <l>Any compression wear or tight fitting clothing</l>
-    <ul> 
+    </ul> 
   <p><i>Potentially prohibited clothing brands:</i> 
     <ul>
      <l>Athleta</l>
@@ -87,9 +87,10 @@ If you are a participant in a study we are conducting, you can read below about 
      <l>Juzo USA</l><br>
      <l>Lululemon</l><br>
      <l>Tommy Copper</l><br> 
+ </details>   
    </ul> 
   </p>
-</details>
+
   
 <details>
   <summary><strong>Can I have a copy of my MRI pictures?</strong></summary>
