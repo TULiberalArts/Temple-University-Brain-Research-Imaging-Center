@@ -72,12 +72,13 @@ If you are a participant in a study we are conducting, you can read below about 
   <summary><strong>What should I wear on the day of my scan?</strong></summary>
   <p><i>Clothing materials that are recommended:</i>
    <ul>
-    <l>Loose fitting clothing</l>
-    <l>Clothes that will keep you warm (it gets a little cold in the scan room, around 65 degrees)</l>
+    <l>Loose fitting clothing</l><br>  
+    <l>Clothes that will keep you warm (it gets a little cold in the scan room, around 65 degrees)</l><br> 
    <ul>  
   <p><i>Clothing materials that are NOT recommended:</i>
     <ul>
     <l>Any compression wear or tight fitting clothing</l>
+    <ul> 
   <p><i>Potentially prohibited clothing brands:</i> 
     <ul>
      <l>Athleta</l>
