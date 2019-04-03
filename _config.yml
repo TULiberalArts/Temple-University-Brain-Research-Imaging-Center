@@ -40,7 +40,7 @@ college:
   
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/temple-university-brain-research-imaging-center/csv
-news-feed: https://liberalarts.temple.edu/articles/temple-university-brain-research-imaging-center/csv
+news-feed: https://liberalarts.temple.edu/news/temple-university-brain-research-imaging-center/csv
 articles-feed: https://liberalarts.temple.edu/articles/temple-university-brain-research-imaging-center/csv
 faculty-feed: https://liberalarts.temple.edu/profiles/temple-university-brain-research-imaging-center/csv
 media-mentions-feed: https://liberalarts.temple.edu/media-mentions/temple-university-brain-research-imaging-center/csv
