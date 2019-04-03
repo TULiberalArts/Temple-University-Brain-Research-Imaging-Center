@@ -53,7 +53,7 @@ If you are a participant in a study we are conducting, you can read below about 
 
 <details>
   <summary><strong>How do I participate in a study?</strong></summary>
-<p><strong>NEED THE LINK FOR THE PARTICIPATE IN A STUDY FORM<strong></p>
+<p><strong>NEED THE LINK FOR THE PARTICIPATE IN A STUDY FORM</strong></p>
 </details>
 
 ## Additional FAQ's
