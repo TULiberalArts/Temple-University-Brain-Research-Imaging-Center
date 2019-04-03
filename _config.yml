@@ -1,6 +1,6 @@
 ---
 # Program/Department Title
-title: Temple University Brain Research & Imaging Center         
+title: Temple University Brain Research & Imaging Center
 # Subdirectory (with / at only at beginning)
 baseurl: /temple-university-brain-research-imaging-center
 # Production domain (without / at the end)
@@ -23,12 +23,13 @@ description: ''
 keywords: highered, college, university, philadelphia, Temple
 
 # Address
-building: Weiss Hall
-room: B50
-street: 1701 N 13th Street
-city: Philadelphia, PA 19122
-email: tubric@temple.edu
-phone: 215-204-6061
+address:
+  building: Weiss Hall
+  room: B50
+  street: 1701 N 13th Street
+  city: Philadelphia, PA 19122
+  email: tubric@temple.edu
+  phone: 215-204-6061
 
 # University & College Information
 university:
@@ -51,11 +52,11 @@ media-mentions-feed: https://liberalarts.temple.edu/media-mentions/temple-univer
 social:
   # Facebook - https://www.facebook.com/USERNAME
   # if your page does not have a custom URL, create one!
-  facebook: 
+  facebook:
   # Twitter - https://twitter.com/USERNAME
-  twitter: 
+  twitter:
   # Instagram - https://www.instagram.com/USERNAME
-  instagram: 
+  instagram:
   # Snapchat - USERNAME
   snapchat:
   # GitHub - https://github.com/USERNAME or https://github.com/USERNAME/REPO
