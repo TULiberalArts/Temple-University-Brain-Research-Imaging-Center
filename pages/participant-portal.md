@@ -72,26 +72,25 @@ If you are a participant in a study we are conducting, you can read below about 
   <summary><strong>What should I wear on the day of my scan?</strong></summary>
   <p><i>Clothing materials that are recommended:</i>
    <ul>
-    <l>Loose fitting clothing</l><br>  
-    <l>Clothes that will keep you warm (it gets a little cold in the scan room, around 65 degrees)</l><br> 
+    <li>Loose fitting clothing</li><br>  
+    <li>Clothes that will keep you warm (it gets a little cold in the scan room, around 65 degrees)</li><br> 
    </ul>  
   <p><i>Clothing materials that are NOT recommended:</i>
     <ul>
-    <l>Any compression wear or tight fitting clothing</l>
+    <li>Any compression wear or tight fitting clothing</li>
     </ul> 
   <p><i>Potentially prohibited clothing brands:</i> 
     <ul>
-     <l>Athleta</l>
-     <l>Columbia Omniheat</l><br>
-     <l>Duluth Trading Co.</l><br>
-     <l>Juzo USA</l><br>
-     <l>Lululemon</l><br>
-     <l>Tommy Copper</l><br> 
- </details>   
+     <li>Athleta</li>
+     <li>Columbia Omniheat</li><br>
+     <li>Duluth Trading Co.</li><br>
+     <li>Juzo USA</li><br>
+     <li>Lululemon</li><br>
+     <li>Tommy Copper</li><br>
+    </details> 
    </ul> 
   </p>
 
-  
 <details>
   <summary><strong>Can I have a copy of my MRI pictures?</strong></summary>
 <p>Some studies may be able to give out images, but this is not always the case. You can ask the study team about their rules.</p>
