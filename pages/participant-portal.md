@@ -87,8 +87,6 @@ If you are a participant in a study we are conducting, you can read below about 
      <li>Juzo USA</li><br>
      <li>Lululemon</li><br>
      <li>Tommy Copper</li><br>
-     </ul> 
-    </p>
  </details> 
 
 <details>
