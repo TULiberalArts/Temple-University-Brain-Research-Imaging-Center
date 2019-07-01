@@ -87,9 +87,9 @@ If you are a participant in a study we are conducting, you can read below about 
      <li>Juzo USA</li><br>
      <li>Lululemon</li><br>
      <li>Tommy Copper</li><br>
-    </details> 
-   </ul> 
-  </p>
+     </ul> 
+    </p>
+   </details> 
 
 <details>
   <summary><strong>Can I have a copy of my MRI pictures?</strong></summary>
