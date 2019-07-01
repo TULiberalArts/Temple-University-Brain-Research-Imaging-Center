@@ -69,27 +69,6 @@ If you are a participant in a study we are conducting, you can read below about 
 </details>
 
 <details>
-  <summary><strong>What should I wear on the day of my scan?</strong></summary>
-  <p><i>Clothing materials that are recommended:</i>
-   <ul>
-    <li>Loose fitting clothing</li><br>  
-    <li>Clothes that will keep you warm (it gets a little cold in the scan room, around 65 degrees)</li><br> 
-   </ul>  
-  <p><i>Clothing materials that are NOT recommended:</i>
-    <ul>
-    <li>Any compression wear or tight fitting clothing</li>
-    </ul> 
-  <p><i>Potentially prohibited clothing brands:</i> 
-    <ul>
-     <li>Athleta</li>
-     <li>Columbia Omniheat</li><br>
-     <li>Duluth Trading Co.</li><br>
-     <li>Juzo USA</li><br>
-     <li>Lululemon</li><br>
-     <li>Tommy Copper</li><br>
- </details> 
-
-<details>
   <summary><strong>Can I have a copy of my MRI pictures?</strong></summary>
 <p>Some studies may be able to give out images, but this is not always the case. You can ask the study team about their rules.</p>
 </details>  
@@ -123,3 +102,24 @@ If you are a participant in a study we are conducting, you can read below about 
   <summary><strong>Can I have an MRI if I have fillings, retainers or braces on my teeth?</strong></summary>
 <p>The metal in most fillings is not affected by MRI systems and shouldn’t be a problem. Sometimes, retainers, braces, and other dental work can distort MR images, but they aren’t typically a safety risk. Our study teams will let you know if they exclude participants with orthodontic work.</p>
 </details>  
+
+<details>
+  <summary><strong>What should I wear on the day of my scan?</strong></summary>
+  <p><i>Clothing materials that are recommended:</i>
+   <ul>
+    <li>Loose fitting clothing</li><br>  
+    <li>Clothes that will keep you warm (it gets a little cold in the scan room, around 65 degrees)</li><br> 
+   </ul>  
+  <p><i>Clothing materials that are NOT recommended:</i>
+    <ul>
+    <li>Any compression wear or tight fitting clothing</li>
+    </ul> 
+  <p><i>Potentially prohibited clothing brands:</i> 
+    <ul>
+     <li>Athleta</li>
+     <li>Columbia Omniheat</li><br>
+     <li>Duluth Trading Co.</li><br>
+     <li>Juzo USA</li><br>
+     <li>Lululemon</li><br>
+     <li>Tommy Copper</li><br>
+ </details> 
