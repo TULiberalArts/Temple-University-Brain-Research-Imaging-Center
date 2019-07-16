@@ -44,7 +44,6 @@ The centerpiece of the facility is a state-of-the-art Siemens 3T Magnetom Prisma
 - Psychology Software Tools 4-button Joystick
 - Current Designs 4-button response units (left/right)
 - OptoAcoustics FOMRI-III active noise cancelling microphone
-
 ### SR Research Eyelink 1000 Plus External and MR-integrated Eye-Tracking System
 - Eyelink 1000 Plus
 - Neuroelectrics StarStim brain stimulation delivery system
