@@ -8,22 +8,19 @@ title: Investigator Portal
 description: >-
 keywords: ''
 # custom variables
-
 ---
 ## New Investigator Information
-- **Pilot Research**
+- **NEED CONTENT**<br>
 
+### Safety and Training
+- **NEED CONTENT**<br>
 
-## Safety and Training
+### Forms
+- **NEED THE TUBRIC FORMS YOU WANT ME TO LINK OUT TO AS WELL AS DESCRIPTIONS FOR WHAT THESES ARE**<br>
 
+### Scheduling (password protected)
+- **NEED LINK TO TUBRIC GOOGLE CALENDAR**<br>
 
-## Forms
-
-
-## Scheduling (password protected)
-
-
-## Software Tools
-
-
-## Wiki and Forum
+### Software Tools
+- [XNAT](https://www.xnat.org/)<br>
+- [FIRMM](https://firmm.io/)<br> 
