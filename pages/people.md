@@ -14,7 +14,7 @@ Our world-renowned faculty are committed to helping students develop professiona
 
 ## TUBRIC Personnel
 **Director**<br>
-Jason Chein<br>
+[Jason Chein](https://liberalarts.temple.edu/academics/faculty/chein-jason)<br>
 
 **Neuroimaging Supervisor**<br>
 Huiling Peng<br>
