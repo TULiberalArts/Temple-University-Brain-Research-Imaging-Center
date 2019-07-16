@@ -20,7 +20,7 @@ ___
 **Department of Psychology**<br>
 
  - [Lauren Alloy](https://liberalarts.temple.edu/academics/faculty/alloy-lauren)
- - [Jason Chein]("https://liberalarts.temple.edu/academics/faculty/chein-jason)
+ - [Jason Chein](https://liberalarts.temple.edu/academics/faculty/chein-jason)
  - [Eunice Chen](https://liberalarts.temple.edu/academics/faculty/chen-eunice)
  - [Tania Giovannetti](https://liberalarts.temple.edu/academics/faculty/giovannetti-tania)
  - [Chelsea Helion](http://chelseahelion.squarespace.com/)
