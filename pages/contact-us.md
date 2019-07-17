@@ -22,10 +22,10 @@ ___
 ## Directions and Parking
 TUBRIC is located on Temple University’s main campus, in the basement floor of Weiss Hall, at the intersection of 13th St. and Cecil B. Moore Avenue (B50 Weiss Hall, 1701 N. 13th St., Philadelphia, PA, 19122). [Temple University Main Campus Map](https://www.temple.edu/maps-and-directions). **_Parking: Hourly paid parking is available in the Cecil B. Moore Lot immediately adjacent to Weiss Hall in between 12th and 13th St. After parking, use kiosk to enter your space number and pay._**
 
-There are two ways to enter the building in order to access the center:
+![13th St]({{site.baseurl}}/media/resized213th St view.png){:.responsive-img .img-right}
+There are two ways to enter the building in order to access the center:<br>
 **Weiss Hall Main Entrances** - Entry doors to Weiss Hall are located on both the Cecil B. Moore (this entrance is handicap accessible) and 13th St. sides of building. Upon entry into the lobby, check in at the security desk, then head to the elevator area and take either the elevator or the stairs to the basement level. Follow the red TUBRIC signs down the hallway to the first set of glass doors on the left. Go through those doors, and down the hallway until you get to the glass doors on the right, B50, labeled TUBRIC.
 
-![13th St]({{site.baseurl}}/media/resized213th St view.png){:.responsive-img .img-right}
 **13th Street Stairs** - Stairs leading directly down to the TUBRIC entrance hallway are located between Weiss Hall and the Howard Gittis Student Center. Take the stairs down to the bottom and you will see a lower-level entrance to the building. Ring the doorbell on the left side of the entry door to reach a TUBRIC team member.
 
 ___ 
