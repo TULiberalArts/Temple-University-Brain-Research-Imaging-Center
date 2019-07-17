@@ -120,6 +120,6 @@ ___
     <li>Columbia Omniheat</li><br>
     <li>Duluth Trading Co.</li><br>
     <li>Juzo USA</li><br>
-    <li>Tommy Copper</li><br> 
-   </ul>   
-  </details>    
+    <li>Tommy Copper</li><br>
+   </ul>
+ </details>    
