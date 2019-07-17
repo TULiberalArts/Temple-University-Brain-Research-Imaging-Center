@@ -10,6 +10,7 @@ keywords: ''
 # custom variables
 affiliated: profiles/affiliated.html
 affiliated: profiles/research.html
-
 ---
 ## TUBRIC Personnel
+
+___
