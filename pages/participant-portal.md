@@ -8,7 +8,7 @@ title: Participant Portal
 description: >-
 keywords: ''
 # custom variables
-
+sidebar: sidebars/graduate.html
 ---
 If you are a participant in a study we are conducting, you can read below about some common questions and answers that arise before the MRI exam.
 
