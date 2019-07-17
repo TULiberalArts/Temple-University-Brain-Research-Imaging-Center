@@ -124,5 +124,4 @@ ___
      <li>Juzo USA</li><br>
      <li>Lululemon</li><br>
      <li>Tommy Copper</li><br>
-    </ul> 
  </details> 
