@@ -21,8 +21,6 @@ The centerpiece of the facility is a state-of-the-art Siemens 3T Magnetom Prisma
 <details>
   <summary><strong>Coils:</strong></summary> 
   
-    1. A numbered
-    2. list
      * M64-Channel Head/Neck volume coil
      * 20-Channel Head/Neck volume coil
      * 32-Channel Spine coil
