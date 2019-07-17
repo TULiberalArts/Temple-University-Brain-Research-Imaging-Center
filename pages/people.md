@@ -8,7 +8,7 @@ title: People
 description: >-
 keywords: ''
 # custom variables
-faculty: profiles/research.html
+staff: components/staff-list.html
 affiliated: profiles/affiliated.html
 ---
 ## TUBRIC Personnel
