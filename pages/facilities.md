@@ -24,7 +24,8 @@ The centerpiece of the facility is a state-of-the-art Siemens 3T Magnetom Prisma
     <li>64-Channel Head/Neck volume coil</li><br>  
     <li>20-Channel Head/Neck volume coil</li><br>
     <li>32-Channel Spine coil</li><br>
-    <li>Various surface coils (Body 18, Flex Large 4, Flex Small 4)<br>   
+    <li>Various surface coils (Body 18, Flex Large 4, Flex Small 4)<br>  
+   </ul>   
   </details>    
 
 
