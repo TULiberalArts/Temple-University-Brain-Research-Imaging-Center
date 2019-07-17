@@ -19,7 +19,8 @@ ___
 The centerpiece of the facility is a state-of-the-art Siemens 3T Magnetom Prisma scanner, which supports a wide range of structural, functional, diffusion, perfusion, and spectroscopy sequences. TUBRIC also has a research license to extend the functionality of the scanner.
 
 <details>
-  <summary><strong>Coils:</strong></summary>   
+  <summary><strong>Coils:</strong></summary> 
+  
     1. A numbered
     2. list
      * M64-Channel Head/Neck volume coil
