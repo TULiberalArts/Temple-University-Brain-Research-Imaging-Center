@@ -1,13 +1,13 @@
-- name: "George Arcarola"
-  title: "Senior Technical Support Specialist"
-  office: "Weiss Hall 633"
+- name: "Jason Chein"
+  title: "Director"
+  office: "Weiss Hall B50"
   building: "Weiss Hall"
-  email: "george.arcarola@temple.edu"
+  email: "jason.chein@temple.edu"
   expertise: |
-    - Desktop Support for Weiss Hall
-    - Technology Purchasing for Psychology
-    - Technology Reviews for Psychology
-  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
+    - fMRI
+    - Neuroimaging
+    - Cognition
+  photo: https://liberalarts.temple.edu/sites/liberalarts/files/160421_JasonChein-2354.jpg
 
 - name: "Chris Frangicetto"
   title: Technical Support Specialist
@@ -40,67 +40,4 @@
     - Evening Manager Labs
     - Evening Support for Classrooms
     - Technology Recycling Coordinator
-  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
-
-- name: "Cyril Ireland"
-  title: "Manager, Classroom Support"
-  office: "Anderson Hall 21"
-  building: "Anderson Hall"
-  email: "cyril.ireland@temple.edu"
-  expertise: |
-    - Classroom Support Manager
-    - Event Technical Support
-    - Instructional Technology
-  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
-
-- name: "Michael Landi"
-  title: "Lead Software Developer"
-  office: "Anderson Hall 21"
-  building: "Anderson Hall"
-  email: "michael.landi@temple.edu"
-  expertise: |
-    - Database Administration
-    - System Integration
-    - System Administration
-  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
-
-- name: "Lido Paglia"
-  title: "Associate Director, Infrastructure & Support"
-  office: "Anderson Hall 21"
-  building: "Anderson Hall"
-  email: "lido.paglia@temple.edu"
-  expertise: |
-    - Technology Infrastructure
-    - System Administration
-    - Desktop Support Manager
-  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
-
-- name: "Ben Peters"
-  title: "Senior Technical Support Specialist"
-  office: "Anderson Hall 21"
-  building: "Anderson Hall"
-  email: "ben.peters@temple.edu"
-  expertise: "Desktop Support for Anderson, Gladfelter, and Ritter Halls"
-  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
-
-- name: "Crystal Schulz"
-  title: "Manager, Technical Support"
-  office: "Anderson Hall 21"
-  building: "Anderson Hall"
-  email: "crystal.schulz@temple.edu"
-  expertise: |
-    - Computer Lab Management
-    - Student Worker Management
-    - Instructional Technology
-  photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
-
-- name: "Jonathan Todd"
-  title: "Manager, Technical Support"
-  office: "Anderson Hall 21"
-  building: "Anderson Hall"
-  email: "jonathan.todd@temple.edu"
-  expertise: |
-    - Apple Support Specialist
-    - Desktop Support for Academic Advising in Paley Library
-    - Desktop Support for Anderson, Gladfelter, and Ritter Halls
   photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
