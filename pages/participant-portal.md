@@ -112,16 +112,14 @@ ___
     <li>Loose fitting clothing</li><br>  
     <li>Clothes that will keep you warm (it gets a little cold in the scan room, around 65 degrees)</li><br> 
   <p><i>Clothing materials that are NOT recommended:</i>
-    <ul>
-    <li>Any compression wear or tight fitting clothing</li>
-   <p><i>Potentially prohibited clothing brands:</i> 
-    <ul>
-     <li>Athleta</li><br>
-     <li>Columbia Omniheat</li><br>
-     <li>Duluth Trading Co.</li><br>
-     <li>Juzo USA</li><br>
-     <li>Lululemon</li><br>
-     <li>Tommy Copper</li><br>
-   </details>  
-  
-  
+   <ul>
+    <li>Any compression wear or tight fitting clothing</li><br> 
+  <p><i>Potentially prohibited clothing brands:</i>
+   <ul>
+    <li>Athleta</li><br>
+    <li>Columbia Omniheat</li><br>
+    <li>Duluth Trading Co.</li><br>
+    <li>Juzo USA</li><br>
+    <li>Tommy Copper</li><br> 
+   </ul>   
+  </details>    
