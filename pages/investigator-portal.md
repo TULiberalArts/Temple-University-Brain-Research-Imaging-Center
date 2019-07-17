@@ -12,15 +12,15 @@ keywords: ''
 ## New Investigator Information
 - **NEED CONTENT**<br>
 
-### Safety and Training
+## Safety and Training
 - **NEED CONTENT**<br>
 
-### Forms
+## Forms
 - **NEED THE TUBRIC FORMS YOU WANT ME TO LINK OUT TO AS WELL AS DESCRIPTIONS FOR WHAT THESES ARE**<br>
 
-### Scheduling (password protected)
+## Scheduling (password protected)
 - **NEED LINK TO TUBRIC GOOGLE CALENDAR**<br>
 
-### Software Tools
+## Software Tools
 - [XNAT](https://www.xnat.org/)<br>
 - [FIRMM](https://firmm.io/)<br> 
