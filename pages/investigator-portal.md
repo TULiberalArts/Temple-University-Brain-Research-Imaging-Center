@@ -8,6 +8,7 @@ title: Investigator Portal
 description: >-
 keywords: ''
 # custom variables
+sidebars: sidebar/graduate.html
 ---
 ## New Investigator Information
 - **NEED CONTENT**<br>
