@@ -8,7 +8,6 @@ title: Facilities
 description: >-
 keywords: ''
 # custom variables
-sidebar: sidebars/graduate.html
 ---
 TUBRIC is a modern neuroimaging research center administered through the Temple University College of Liberal Arts. TUBRIC houses major equipment for neuroimaging research, as well as a number of [supporting technologies and spaces](#tubric-space). Major project funding for the center was provided by the National Science Foundation (NSF) in the form of a “Major Research Instrumentation” award of approximately $2.4 Million. Additional financial support was provided by the Temple University Provost’s office, the Office of the Vice President for Research, and the College of Liberal Arts.
 
