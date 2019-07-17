@@ -12,6 +12,6 @@ faculty: profiles/research.html
 affiliated: profiles/affiliated.html
 ---
 ## TUBRIC Personnel
-**Need Description andbout current Investigators**
+**Need Description about current Investigators**
 
 ___
