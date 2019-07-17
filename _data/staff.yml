@@ -9,35 +9,31 @@
     - Cognition
   photo: https://liberalarts.temple.edu/sites/liberalarts/files/160421_JasonChein-2354.jpg
 
-- name: "Chris Frangicetto"
-  title: Technical Support Specialist
-  office: "Anderson Hall 21"
-  building: "Anderson Hall"
-  email: "christopher.frangicetto@temple.edu"
+- name: "Huiling Peng"
+  title: Neuroimaging Supervisor and Physicist
+  office: "Weiss Hall B50"
+  building: "Weiss Hall"
+  email: "huiling.peng@temple.edu"
   expertise: |
-    - Desktop Support for Anderson, Gladfelter, and Ritter Halls
+    - Neuroimaging
   photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
 
-- name: "Marc Getty"
-  title: Director, Information Technology <br/> Building Manager, Anderson & Gladfelter Halls
-  office: "Anderson Hall 21"
-  building: "Anderson Hall"
-  email: "marc.getty@temple.edu"
+- name: "Melissa Wilson"
+  title: Center Administrator
+  office: "Weiss Hall B50"
+  building: "Weiss Hall"
+  email: "melissa.wilson@temple.edu"
   expertise: |
     - Project Planning & Management
-    - Technology Purchasing
-    - Communications
-    - Periodic Department Technology Reviews
-    - Liaison to Academic Technology Committee
   photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
-
-- name: "Rodney T. Holloway"
-  title: "Evening Manager"
-  office: "Anderson Hall 21"
-  building: "Anderson Hall"
-  email: "R.T.Holloway@temple.edu"
+  
+- name: "George Arcarola"
+  title: "Senior Technical Support Specialist"
+  office: "Weiss Hall 633"
+  building: "Weiss Hall"
+  email: "george.arcarola@temple.edu"
   expertise: |
-    - Evening Manager Labs
-    - Evening Support for Classrooms
-    - Technology Recycling Coordinator
+    - Desktop Support for Weiss Hall
+    - Technology Purchasing for Psychology
+    - Technology Reviews for Psychology
   photo: https://liberalarts.temple.edu/sites/liberalarts/files/default_images/no_picture.png
