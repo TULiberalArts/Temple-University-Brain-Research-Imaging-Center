@@ -28,12 +28,6 @@ The centerpiece of the facility is a state-of-the-art Siemens 3T Magnetom Prisma
    </ul>   
   </details>    
 
-
-
-
-
-
-
 ### Integrated Stimulus Delivery and Response Collection Hardware
 - Hyperion Projector
 - OptoAcoustics OptoActive sound cancelling headphones
