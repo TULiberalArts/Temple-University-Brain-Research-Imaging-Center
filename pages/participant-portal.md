@@ -111,12 +111,11 @@ ___
    <ul>
     <li>Loose fitting clothing</li><br>  
     <li>Clothes that will keep you warm (it gets a little cold in the scan room, around 65 degrees)</li><br> 
-   </ul> 
    <ul>
   <p><i>Clothing materials that are NOT recommended:</p></i>
     <ul>
     <li>Any compression wear or tight fitting clothing</li>
-    </ul> 
+    <ul> 
    <p><i>Potentially prohibited clothing brands:</p></i> 
     <ul>
      <li>Athleta</li><br>
@@ -126,4 +125,8 @@ ___
      <li>Lululemon</li><br>
      <li>Tommy Copper</li><br>
     </ul> 
+    </ul>  
+    </ul> 
+   </ul> 
+   </ul> 
  </details> 
