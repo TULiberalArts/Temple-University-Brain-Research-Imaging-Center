@@ -25,8 +25,7 @@ TUBRIC is located on Temple University’s main campus, in the basement floor of
 There are two ways to enter the building in order to access the center:
 **Weiss Hall Main Entrances** - Entry doors to Weiss Hall are located on both the Cecil B. Moore (this entrance is handicap accessible) and 13th St. sides of building. Upon entry into the lobby, check in at the security desk, then head to the elevator area and take either the elevator or the stairs to the basement level. Follow the red TUBRIC signs down the hallway to the first set of glass doors on the left. Go through those doors, and down the hallway until you get to the glass doors on the right, B50, labeled TUBRIC.
 
-![13th St]({{site.baseurl}}/media/resized213th St view.png){:.responsive-img .img-left}
-
+![13th St]({{site.baseurl}}/media/resized213th St view.png){:.responsive-img .img-right}
 **13th Street Stairs** - Stairs leading directly down to the TUBRIC entrance hallway are located between Weiss Hall and the Howard Gittis Student Center. Take the stairs down to the bottom and you will see a lower-level entrance to the building. Ring the doorbell on the left side of the entry door to reach a TUBRIC team member.
 
 ___ 
