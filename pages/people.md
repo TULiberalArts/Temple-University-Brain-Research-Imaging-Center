@@ -12,5 +12,3 @@ affiliated: profiles/research.html
 affiliated: profiles/affiliated.html
 ---
 ## TUBRIC Personnel
-
-___
