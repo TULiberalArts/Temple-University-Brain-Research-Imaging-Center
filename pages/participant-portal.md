@@ -35,6 +35,8 @@ If you are a participant in a study we are conducting, you can read below about 
 <p>Before the actual scan, you will be asked to check for and remove any personal belongings that may contain metal (such as watches, belts, jewelry, hairpins, wigs, sunglasses, etc.). We may also ask you to remove clothing items with metallic fasteners, hooks, zippers, loose metallic components or metallic threads (such as underwire bras, Lululemon or other brands labelled anti-microbial that use silver technology). TUBRIC can provide cotton sweats or scrubs for you to change into.</p>  
 </details>
 
+___
+
 <details>
   <summary><strong>What is the procedure for an MRI?</strong></summary>
 <p>The MRI scanner has a large tube with openings at both ends. You will lie down on a movable table that slides into the tube. You will have a plastic helmet placed over your head to take MRI pictures. After the table slides into the machine, a member of the research team will get set up in a neighboring room to take several pictures of your brain, each of which will take a few minutes. MRI’s are very sensitive to motion, so you’ll be asked to remain as still as possible during the session in order to maximize the quality of the images.</p>
@@ -56,8 +58,6 @@ If you are a participant in a study we are conducting, you can read below about 
 <p><strong>NEED THE LINK FOR THE PARTICIPATE IN A STUDY FORM</strong></p>
 </details>
 
-## Additional FAQ's
-
 <details>
   <summary><strong>Is having an MRI safe?</strong></summary>
 <p>MRI is considered to be a safe, painless, and non-invasive technique. During the procedure you won’t be exposed to any harmful radiation. Since the MRI system uses a strong magnet, there are some important steps we take to keep everyone safe during the session, and we expect your cooperation in following our instructions and procedures.</p>
@@ -67,6 +67,8 @@ If you are a participant in a study we are conducting, you can read below about 
   <summary><strong>Am I qualified to participate in an MRI study?</strong></summary>
 <p>Every study has its own rules for who can participate, but there are some important safety questions you’ll need to answer before we would include you. Most of these questions are about any metal that could be in your body, like from an injury or surgery. There are also some conditions that might keep you from being scanned (e.g., if you are pregnant). Your study team may ask specific questions about your age, your health history, and other characteristics that are important for their study goals.</p>
 </details>
+
+___
 
 <details>
   <summary><strong>Can I have a copy of my MRI pictures?</strong></summary>
@@ -122,4 +124,5 @@ If you are a participant in a study we are conducting, you can read below about 
      <li>Juzo USA</li><br>
      <li>Lululemon</li><br>
      <li>Tommy Copper</li><br>
+    </ul>
  </details> 
