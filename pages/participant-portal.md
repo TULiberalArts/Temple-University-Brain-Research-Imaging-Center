@@ -55,7 +55,7 @@ ___
 
 <details>
   <summary><strong>How do I participate in a study?</strong></summary>
-<p>If you're interested in participating in a study please <a href="mailto:tubric@temple.edu">contact us for a list of currently active studies for which you might be eligible.</p>
+<p>If you're interested in participating in a study please <a href="mailto:tubric@temple.edu" title="contact us">contact us</a> for a list of currently active studies for which you might be eligible.</p>
 </details>
 
 <details>
