@@ -11,7 +11,9 @@ keywords: ''
 sidebar: sidebars/graduate.html
 ---
 ## New Investigator Information
-- **NEED CONTENT**<br>
+TUBRIC requires two trained operators to be on site during research at all times. While we have accommodating trained staff willing to assist you, we also provide training services for you and your team so that you can run modules yourself. 
+ 
+Training sessions can be completed in as little as 8 hours and you’ll have the confidence to operate in the space and run your research, your way.
 
 ## Safety and Training
 - **NEED CONTENT**<br>
