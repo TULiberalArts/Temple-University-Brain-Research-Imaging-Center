@@ -9,6 +9,7 @@ description: >-
 keywords: ''
 # custom variables
 staff: components/staff-list.html
+affiliated: profiles/affiliated.html
 ---
 ## TUBRIC Personnel
 **Need Description about current Investigators**
