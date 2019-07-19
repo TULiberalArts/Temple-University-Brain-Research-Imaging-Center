@@ -1,7 +1,7 @@
 ---
 # global predefined variables
 permalink: /investigator-portal/
-layout: tla_page
+layout: tla_page_test
 published: true
 # meta-data variables
 title: Investigator Portal
