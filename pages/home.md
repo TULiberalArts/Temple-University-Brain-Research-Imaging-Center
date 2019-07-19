@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: tla_home_test
+layout: tla-home-test-2
 permalink: /
 published: true
 # meta-data variables
