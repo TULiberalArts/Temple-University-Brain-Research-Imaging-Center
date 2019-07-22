@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: tla_faculty
+layout: tla_faculty_test
 permalink: /people/
 published: true
 # meta-data variables
@@ -9,8 +9,8 @@ description: >-
 keywords: ''
 # custom variables
 ---
+faculty: components/staff-list.html
+affilitated: profiles/affiliated.html
 
 ___
 
-{% include components/staff-list.html %}
-{% include profiles/affiliated.html %}
