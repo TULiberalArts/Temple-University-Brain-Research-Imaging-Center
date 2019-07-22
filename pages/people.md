@@ -13,3 +13,5 @@ affiliated: profiles/affiliated.html
 ---
 
 ___
+
+{% include layouts/tla_home_test.html %}
