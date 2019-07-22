@@ -14,4 +14,4 @@ affiliated: profiles/affiliated.html
 
 ___
 
-{% include layouts/tla_home_test.html %}
+{% include layouts/tla_page_test.html %}
