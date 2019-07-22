@@ -9,7 +9,7 @@ description: >-
 keywords: ''
 # custom variables
 faculty: components/staff-list.html
-affilitated: profiles/affiliated.html
+affiliated: profiles/affiliated.html
 ---
 
 ___
