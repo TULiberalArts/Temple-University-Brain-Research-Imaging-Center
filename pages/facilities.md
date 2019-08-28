@@ -8,6 +8,7 @@ title: Facilities
 description: >-
 keywords: ''
 # custom variables
+sidebar: sidebars/graduate.html
 ---
 TUBRIC houses major equipment for neuroimaging research, as well as a number of complimentary and supporting technologies and spaces. To explore our space you can view the [photo gallery](#tubric-space) below. You can also view a list of comprehensive equipment. 
 
