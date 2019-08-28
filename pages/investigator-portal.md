@@ -25,4 +25,4 @@ Completing Step 2 will provide us with valuable information about your proposed 
 **Step 3:	Safety and Training**<br>
 As needed, TUBRIC will provide training services for you and your team. Details regarding training are provided in our [Safety Training document](https://drive.google.com/file/d/1x4Gt40Nebl2Z_yr0mNIEctpT331Kea8K/view?usp=sharing).<br>
 
-**Step 4:**	Contact our Center Coordinator, [Melissa Wilson](mailto:tubric@temple.edu), or the Center Director, Jason Chein, for any additional information.
+**Step 4:**	Contact our Center Coordinator, [Melissa Wilson](mailto:tubric@temple.edu) or the Center Director, [Jason Chein](mailto:jason.chein@temple.edu) for any additional information.
