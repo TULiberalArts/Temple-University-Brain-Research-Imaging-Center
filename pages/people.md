@@ -12,6 +12,6 @@ faculty: components/staff-list.html
 affiliated: profiles/affiliated.html
 ---
 ## Investigators and TUBRIC Personnel
-**Need Description about current investigators and personnel**
+TUBRIC is staffed by a team of committed personnel with the expertise in an array of research methods. Our multi-disciplinary group of investigators conduct a wide range of basic applied and translational research in the center.
 
 ___
