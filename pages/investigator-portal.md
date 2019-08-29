@@ -10,7 +10,6 @@ keywords: ''
 # custom variables
 sidebar: sidebars/graduate.html
 ---
-## New Investigator Information
 TUBRIC is a shared resource at Temple University.  We welcome both experienced users as well as investigators seeking to add a brain imaging component to their work. TUBRIC is also open to collaboration with users from external organizations, including other academic institutions and companies in the area.
 
 ### New Investigator Information
@@ -41,7 +40,7 @@ As with any MRI site, TUBRIC users follow careful safety procedures to safeguard
 - [Research Access Request Form](https://drive.google.com/file/d/1Xnua3zkKBjAU8PXBpVjMTfVn2UiBPITI/view?usp=sharing)
 - [Subject Safety Screening Form](https://drive.google.com/file/d/1Pb6fnEuPc3V0eSjDbExf5lG6HNQjLIx2/view?usp=sharing)
 
-**Restricted access:**
+**Restricted Access:**
 - Staff Screening Form
 - Pregnancy Screening Form
 - Contact List
