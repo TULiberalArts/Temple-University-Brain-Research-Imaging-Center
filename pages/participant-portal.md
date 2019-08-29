@@ -121,6 +121,3 @@ ___
   <summary><strong>Can I have an MRI if I have fillings, retainers or braces on my teeth?</strong></summary>
 <p>The metal in most fillings is not affected by MRI systems and shouldn’t be a problem. Sometimes, retainers, braces, and other dental work can distort MR images, but they aren’t typically a safety risk. Our study teams will let you know if they exclude participants with orthodontic work.</p>
 </details>  
-
-___
-
