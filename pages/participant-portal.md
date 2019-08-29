@@ -58,21 +58,21 @@ ___
 
 <details>
   <summary><strong>What should I wear on the day of my scan?</strong></summary>
-  <p><i>Clothing materials that are recommended:</i>
-   <ul>
-    <li>Loose fitting clothing</li><br>  
-    <li>Clothes that will keep you warm (it gets a little cold in the scan room, around 65 degrees)</li><br> 
-  <p><i>Clothing materials that are NOT recommended:</i>
-   <ul>
-    <li>Any compression wear or tight fitting clothing</li><br> 
-  <p><i>Potentially prohibited clothing brands:</i>
-   <ul>
-    <li>Athleta</li><br>
-    <li>Columbia Omniheat</li><br>
-    <li>Duluth Trading Co.</li><br>
-    <li>Juzo USA</li><br>
-    <li>Tommy Copper</li><br>
-   </ul>
+  <ul>
+   <li><p><i>Clothing materials that are recommended:</i></li><br>  
+   <li>Loose fitting clothing</li><br>  
+   <li>Clothes that will keep you warm (it gets a little cold in the scan room, around 65 degrees)</li><br> 
+   <li><p><i>Clothing materials that are NOT recommended:</i></li><br>    
+  <ul>
+   <li>Any compression wear or tight fitting clothing</li><br> 
+   <li><p><i>Potentially prohibited clothing brands:</i></li><br>  
+  <ul>
+   <li>Athleta</li><br>
+   <li>Columbia Omniheat</li><br>
+   <li>Duluth Trading Co.</li><br>
+   <li>Juzo USA</li><br>
+   <li>Tommy Copper</li><br>
+  </ul>
 </details>    
 
 <details>
