@@ -73,7 +73,7 @@ ___
     <li>Juzo USA</li><br>
     <li>Tommy Copper</li><br>
    </ul>
-  </details>    
+</details>    
 
 <details>
   <summary><strong>How do I get to TUBRIC?</strong></summary>
