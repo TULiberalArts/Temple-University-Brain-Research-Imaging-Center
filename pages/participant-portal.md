@@ -122,10 +122,10 @@ ___
 <p>The metal in most fillings is not affected by MRI systems and shouldn’t be a problem. Sometimes, retainers, braces, and other dental work can distort MR images, but they aren’t typically a safety risk. Our study teams will let you know if they exclude participants with orthodontic work.</p>
 </details>  
 
+___
+
 ## TUBRIC Video Tour
 Below you can view a tour of our space and see all that our facility has to offer. 
-
-___
 
 <div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/leOMfmA4iHc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
