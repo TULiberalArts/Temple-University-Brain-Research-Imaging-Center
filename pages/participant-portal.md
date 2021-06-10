@@ -75,7 +75,7 @@ ___
 
 <details>
   <summary><strong>How do I get to TUBRIC?</strong></summary>
-<p><a href="https://develop.cla.temple.edu/temple-university-brain-research-imaging-center/contact-us/">Directions and Parking.</a></p>
+<p><a href="https://www.cla.temple.edu/temple-university-brain-research-imaging-center/contact-us/">Directions and Parking.</a></p>
 </details>
 
 <details>
